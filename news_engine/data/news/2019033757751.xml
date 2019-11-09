@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019033757751</id><url>https://www.3dmgame.com/news/201903/3757751.html</url><title>WinRAR软件漏洞曝光：可植入恶意文件 需尽快升级</title><datetime>2019-03-18 13:20:3</datetime><text>
+	去年，Check Point Software安全研究人员发现了最流行解压软件WinRAR的一个软件漏洞，导致黑客可以利用特定方式植入恶意文件。
+
+
+	近日，该漏洞终于被外媒披露，并且有安全机构表示，已经发现有超过100个利用此漏洞进行攻击的方式。
+
+
+	具体来说，该漏洞是利用的是ACE格式文件，此前因为WinRAR开发者失去了访问UNACEV2.DLL库源代码的权限，所以决定放弃对ACE文件格式的支持，于是漏洞产生了。
+
+
+	尽管在最新的WinRAR版本中修复了次漏洞，但还有数以千万级的用户未将WinRAR更新到最新版本，黑客得以利用此漏洞在ACE文件中嵌入恶意文件，安全人员演示了一种攻击方式，可以在WinRAR中解压的文件中植入，然后解压时其会在启动文件夹中创建一个恶意文件，每次重新启动计算机时都会执行该文件。
+
+
+	所以一些黑客会将恶意文件和一些图片(例如美女)混在一起打包，然后引诱受害者从压缩包中提取它们。
+
+
+	目前预防这种攻击的方法是尽快将WinRAR更新至最新的WinRAR 5.70 Beta 1版本，大家可以前往WinRAR官网进行升级。
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190318/1552886410_576590.jpg	</imageurl><videourl /></doc>

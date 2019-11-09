@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019103774377</id><url>https://www.3dmgame.com/news/201910/3774377.html</url><title>微软Win10再闯祸 澳边防部门系统因更新错误致崩溃</title><datetime>2019-10-26 17:43:4</datetime><text>
+	澳大利亚边防部门ABF在其网站上发布的公告中表示，错误的Windows 
+10更新损坏了其系统之一，导致其报关用的客户端无法登录。在安装了适用于Windows 10的10月8日安全更新之后，如果使用Internet 
+Explorer，则不能再连接到综合货运系统(ICS)。
+
+
+
+
+
+	乍看起来这并不是一个大问题，如今谁在使用Internet Explorer？但是糟糕的地方就在于澳大利亚边防部门的系统仅支持Internet 
+Explorer，所有人必须坚持使用这个古老的应用程序外别无选择。
+
+
+	ABF表示已经与微软取得联系，以解决Windows 
+10与ICS之间的互操作性问题，并为后续的工作开发适当的解决方案，目前看来，问题主要发生在建立与ICS的连接安全性的协议行为的更改会导致身份验证失败。
+
+
+
+
+
+	ABF指出，尽管一些用户决定亲自处理此问题并完全卸载10月8日更新以恢复系统的正常行为，但推荐只在“适当的风险评估和通知”下才应这样做。更稳妥的方式是考虑采取附加的安全控制措施，以限制与删除补丁程序相关的任何风险，例如使用独立的计算机。
+
+
+	ABF没有提及导致其系统出现登录问题的更新的知识库号码，但是微软针对Windows 10发布的10月8日累积更新中确实包括有关Internet 
+Explorer安全性的改进。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20191026/1572082942_101325.png	https://img.3dmgame.com/uploads/images/news/20191008/1570503747_881411.jpg	</imageurl><videourl /></doc>

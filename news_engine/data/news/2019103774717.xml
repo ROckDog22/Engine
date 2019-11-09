@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019103774717</id><url>https://www.3dmgame.com/news/201910/3774717.html</url><title>DX12将进行大升级？全新光追标准要来了</title><datetime>2019-10-30 20:41:5</datetime><text>
+	DirectX 12随Windows 10系统启用已经历数年，是目前最为普及的图形API。而在明年的Windows 10 20H1版本更新中，微软宣布DX 
+12将进行大幅升级，同时带来全新的DXR 1.1光线追踪、网格渲染及采样反馈等新功能。
+
+
+
+
+
+Windows 10 
+20H1作为明年首次大型更新，最为重要的一项升级就是新的DXR光追标准。这是继2018年10月份第一版DXR标准之后，最大的一次升级更新。这也意味着现有的光追显卡将面临新标准的挑战。
+
+
+
+
+
+	据悉，新的DXR标准为DXR Tier 1.1，在此前的1.0版本上增加了如下功能：
+
+
+	·支持向现有的光追PSO添加额外的渲染器，从而大幅提升动态PSO的效率。
+
+
+	·光追支持间接执行（ExecuteIndirect），这样一来GPU执行单元时间轴上的光线数量可以启用自适应算法来调节。
+
+
+	·引入内联光追（Inline 
+Raytracing），它可以为光线遍历算法及渲染器调度提供更多的直接控制，如果基于渲染的的光追系统误宰，那它可以提供更简单的选择，或者是提供更多灵活性，因为RayQuery可以被每一步渲染过程调用。
+
+
+	此外，它在计算中还提供了新的DXR应用实例，尤其是剔除、物理、吸收、查询等。
+
+
+	新版光追标准推出之后，显卡厂商需要更新全新的驱动才能更好的支持。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20191030/1572439242_544440.png	https://img.3dmgame.com/uploads/images/news/20191030/1572439257_116605.png	</imageurl><videourl /></doc>

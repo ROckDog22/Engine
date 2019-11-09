@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018073741116</id><url>https://www.3dmgame.com/news/201807/3741116.html</url><title>PS3模拟器RPCS3改进渲染编译方式彻底消除卡顿</title><datetime>2018-07-18 14:15:3</datetime><text>大名鼎鼎的PS3模拟器RPCS3最近取得了大幅进展，以往游戏中出现的卡顿情况在新功能的加持下变得消失不见，一起来看看国外玩家的测试结果吧：
+
+视频中对于PS3模拟器RPCS3运行《恶魔之魂》进行了测试对比，对比的条件是新增加的“async shader compiler”打开或关闭。由于RPCS3和WiiU模拟器CEMU一样采用了缓存机制，在初次运行游戏时会逐步产生缓存文件。这项新增加的选项能够完全消除模拟器首次运行游戏时编译缓存的卡顿现象。从对比视频不难看出，选择打开“async shader compiler”的话，虽然画面会有些闪烁，不过因为编译而出现的卡顿则完全消失了。
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180718/303_180718141203_1_lit.jpg	https://img.3dmgame.com/uploads/allimg/180718/303_180718141152_1_lit.jpg	https://img.3dmgame.com/uploads/allimg/180718/303_180718141153_2_lit.jpg	https://img.3dmgame.com/uploads/allimg/180718/303_180718141153_3_lit.jpg	</imageurl><videourl>https://player.youku.com/embed/XMzcyOTk3NTkyMA==?client_id=5a73c0df8eb0d91d	</videourl></doc>

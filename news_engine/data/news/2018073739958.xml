@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018073739958</id><url>https://www.3dmgame.com/news/201807/3739958.html</url><title>Steam平台游戏对应玩家数量泄露 绝地求生居第三</title><datetime>2018-07-08 15:05:1</datetime><text>
+Valve近日似乎泄露了Steam平台上当前所有游戏各自的玩家总数。Valve的API最近被挖出了一个漏洞，用户可以借此算出非常精确的数据，并对应到Steam上游戏的玩家数。
+国外媒体指出，之所以能获取这些数据，是因为Steam成就系统的极其准确统计所致。
+“最新的数据挖掘方法是来自于《终结将至》的开发者Tyler  Glaiel所发布的一个帖子，介绍了在服务器上有大量游戏的情况下如何计算有多少玩家完成了开发商定义的成就的方式。在Steam网站上，这个数据只精确到小数点后两位，因此无法精确统计数量。但是在Steam  API里，这个成就系统的百分比是极度精确的，最近精确到了小数点后16位。”
+“这种精确度的提升意味着可以通过成就系统的百分比测算出Steam平台玩家总数。（玩家数量必须是整数）用多个不同的成就相验证，就能根据这些百分比来测算出一个最有可能性的玩家总数。然后再根据玩家总数测算出每款游戏的玩家数量。”
+7月4日，Valve又更新了Steam  API来提供精确度较低的成就系统百分比，所以以下数据只截止到7月4日之前。另外，Valve已经表达出想要向用户和开发者提供Steam平台上游戏销量和玩家数量的意愿。
+先不管他们以后打算怎么办，现在我们就能够看到Steam平台上玩家数量排名前十的游戏了。
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180708/154_180708150435_1_lit.jpg	https://img.3dmgame.com/uploads/allimg/180708/154_180708150449_1.jpg	https://img.3dmgame.com/uploads/allimg/180708/154_180708150449_2.jpg	https://img.3dmgame.com/uploads/allimg/180708/154_180708150449_3.jpg	https://img.3dmgame.com/uploads/allimg/180708/154_180708150449_4.jpg	</imageurl><videourl /></doc>

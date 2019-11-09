@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018063738332</id><url>https://www.3dmgame.com/news/201806/3738332.html</url><title>黑客找到iOS 11锁屏密码漏洞：连接数据线暴力破解</title><datetime>2018-06-24 10:53:5</datetime><text>iOS的口碑与其良好的安全性不可分，然而随着美国相关执法部门借助Grayshift进行破解的事情曝光，公众开始极为担忧起来。
+据ZDNet报道，安全研究人员Matthew Hickey称，自己发现了绕过iPhone锁屏密码保护的方法。
+
+具体来说，iOS  11上可以勾选在10次密码输错后自动清楚设备数据的选项。Hickey的新发现是，让暴力破解得以实现想输入几次就输入几次，直到试对后完成解锁。
+他解释说，当iPhone或iPad通过Lightning线接上电脑，黑客发送键盘输入信息时，就会触发一个中断请求，此时这要优先处理，设备要放下任何其它的事情。攻击者可以通过在一个没有空格的字符串中逐一列出从0000到9999的所有密码组合，完成一次性发送所有的密码。
+
+从演示来看，该破解的确有效，包括但不限于iOS 11.3。
+Hickey称，自己已将漏洞详情发送给苹果，他说，问题并不复杂。
+不过，这种破解可能在iOS  12中已经被封堵，因为系统中加了新的USB连接限制，既iPhone在一小时内没解锁过，那它连接电脑时必须要输入密码，否则会被禁用任何的数据访问权限。
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180624/154_180624105323_1_lit.jpg	https://img.3dmgame.com/uploads/allimg/180624/154_180624105333_1.gif	</imageurl><videourl /></doc>

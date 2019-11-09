@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018093745587</id><url>https://www.3dmgame.com/news/201809/3745587.html</url><title>按两次这个快捷键 Windows 10就会瞬间蓝屏</title><datetime>2018-09-17 23:51:2</datetime><text>
+	蓝屏死机(BSOD)是所有Windows用户的噩梦，这意味着系统、硬件或软件出现了严重的错误，而想要查清原因是很困难的。随着系统的发展和成熟，到了Windows 10上面蓝屏死机已经很少见了，微软还特意引入了绿屏死机(GSOD)，让大家即便碰到这种情况也能相对不那么紧张。
+
+
+
+
+
+那么，如果我们想手动让Windows 10故意蓝屏死机，该怎么办呢？
+
+
+	也许你会说谁这么闲的X疼，不过对于者和IT管理员来说，特定条件下进行测试还是需要用到蓝屏的。
+
+
+	其实让Windows 10蓝屏也很简单，但是注意：1、蓝屏死机会丢失所有当前工作状态，请提前备份或者关闭必要程序。2、所有操作都需要管理员权限。
+
+
+	接下来我们要在注册表中执行两次操作，首先依次展开：
+
+
+	HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\kbdhid\Parameters
+
+
+	在右侧窗口空白区域点击右键，选择新建DWORD 32位值，直接输入CrashOnCtrlScroll，然后双击该条目，把数值从0改成1。
+
+
+	接下来依次展开：
+
+
+	HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\i8042prt\Parameters
+
+
+	重复刚才的新建值操作。
+
+
+
+
+
+接下来重启系统。
+
+
+	好了万事俱备，只要连续两次按下Ctrl+Scroll Lock这个组合键，你的Windows 10马上就会蓝屏！
+
+
+	由于是手动造成的蓝屏，错误提示也和平常不一样，会显示错误代码0xE2、MANUALLY_INITIATED_CRASH，同时系统会自动搜集相关数据，然后自动重启，然后就一切恢复正常了。
+
+
+	体验之后记得删除刚才新建的两个注册表键值，避免不小心碰到。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20180917/1537199429_200947.jpg	https://img.3dmgame.com/uploads/images/news/20180917/1537199456_942145.jpg	</imageurl><videourl /></doc>

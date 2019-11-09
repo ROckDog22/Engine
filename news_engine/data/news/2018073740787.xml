@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018073740787</id><url>https://www.3dmgame.com/news/201807/3740787.html</url><title>开发者：Xbox One X的4K/30fps游戏都是“假的”</title><datetime>2018-07-15 21:15:5</datetime><text>次世代主机PS4、Xbox One在更新硬件后，纷纷支持了4K游戏，然而，来自AMD的开发者Timothy  Lottes却表示，主机要达到真正本地化运行4K 30FPS游戏，GPU的浮点性能需要达到7.4TFLOPS（基本相当于GTX 1070 Ti）。
+对比之下，Xbox One X的显卡算力是6，PS4 Pro更是只有4.2T。
+
+不过，《极限竞速：地平线4》《战争机器4》等都在X1X号称是4K 30FPS游戏又是怎么回事呢?
+在7月出版的游戏杂志Edge中，Lottes解释，这是微软对一个非常复杂的分层过程过于简化的描述。
+事实上，本地算力达不到7.4T的时候，是借助超采样、黑白板和时间重构（temporal  reconstructing）等形式填补的，也就是并不是每一帧的纹理/贴图像素都超过800万（3840x2160）。
+F1/尘埃等经典游戏开发商Codemasters的首席图形代码师Oli  Wright说，他们正是找到了1080P转制4K填充额外分辨率的新方法，即不用重绘每一个纹理素材，才得以在Xbox上发行4K游戏。
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180715/369_180715211339_1_lit.jpg	</imageurl><videourl /></doc>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018113749574</id><url>https://www.3dmgame.com/news/201811/3749574.html</url><title>A卡启用《战地5》RTX效果传言测试 结果自然是……</title><datetime>2018-11-18 11:41:4</datetime><text>
+	之前有传言称，AMD显卡用户也能使用实时光线追踪的RTX效果。Guru3D用户OnnA声称在启用三项设定之后，就能在AMD显卡上体验当前仅由NVIDIA 
+RTX显卡用户独享的RTX效果。而另一家外媒DSOGaming在对《战地5》进行测试时，用手中的AMD Radeon RX Vega 
+64显卡对这一传言进行了测试。
+
+
+
+
+
+	当然，测试的结果跟大多数玩家所想的一样，是不可能的。虽然选项设定是能打开没错，但AMD的硬件并不支持DXR，而且AMD也公开宣称过近期并不打算对DXR进行支持。
+
+
+	想要跟传言中一样“开启”RTX设定的话，按照OnnA的说法，首先要将文件设为只读（以避免被游戏重写），并且还将游戏置为离线模式，防止被云端覆盖文件。
+
+
+
+
+
+	最终得到的截图如下方所示，游戏使用的仍然是屏幕空间反射。媒体不停地转换场景，可以看到在三张图片中都缺乏像RTX那种反射效果。所以《战地5》支持A卡使用RTX效果的传言是不实的。
+
+
+
+
+
+
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20181118/1542512460_621022.jpg	https://img.3dmgame.com/uploads/images/news/20181118/1542512468_664707.jpg	https://img.3dmgame.com/uploads/images/news/20181118/1542512475_860738.jpg	https://img.3dmgame.com/uploads/images/news/20181118/1542512475_945985.jpg	https://img.3dmgame.com/uploads/images/news/20181118/1542512475_510411.jpg	</imageurl><videourl /></doc>

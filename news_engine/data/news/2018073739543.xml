@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018073739543</id><url>https://www.3dmgame.com/news/201807/3739543.html</url><title>百度自研云端全功能AI芯片昆仑：14nm 业内算力最高</title><datetime>2018-07-04 11:26:0</datetime><text>7月4日2018百度AI开发者大会在京召开。会上李彦宏宣布了中国首款云端AI全功能AI芯片“昆仑”，由百度自主研发，其中包含训练芯片昆仑818-300，推理芯片昆仑818-100。
+
+据悉，昆仑是迄今为止业内设计算力最高的AI芯片，可以在100瓦+功耗下提供260TOPS(每秒260万亿次定数运算)性能。此前，NVIDIA用于汽车L4.L5自动驾驶的Xavier芯片(8核ARM  CPU+512颗CUDA)的性能是30TOPS。
+规格上，“昆仑”芯片采用三星14nm工艺，512GB/s内存带宽，由几万个小核心构成。
+
+百度介绍，“昆仑”具备高效(针对语音、NLP、图像等专门优化)、低成本(同等性能下成本降低10倍)和易用(支持paddle等多个深度学习框架;编程灵活度高;灵活支持训练和预测)三大特点。
+“昆仑”是中国在大规模AI运算实践中催生出的芯片，基于百度8年的CPU、GPU和FPGA的AI加速器的研发，20多次迭代而生，未来将面向智能汽车、智能设备，语音图像等更多场景，是中国AI芯片的又一里程碑。
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180704/153_180704112446_1_lit.jpg	https://img.3dmgame.com/uploads/allimg/180704/153_180704112446_2_lit.jpg	</imageurl><videourl /></doc>

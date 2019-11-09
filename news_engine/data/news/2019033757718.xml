@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019033757718</id><url>https://www.3dmgame.com/news/201903/3757718.html</url><title>Valve对于EPIC获取STEAM用户数据很不开心</title><datetime>2019-03-18 07:11:5</datetime><text>
+	通过限时独占新作和免费送游戏，EPIC新推出的游戏商城得到了不少玩家的关注，最近有媒体甚至发现EPIC还通过不正当的方法得到STEAM用户隐私数据，虽然EPIC老总表示这是在《堡垒之夜》开发期间的历史遗留问题将很快解决，不过这一举动明显让STEAM不太高兴。
+
+
+
+
+
+	在发送给媒体的一份报道中，来自Valve的Doug Lombardi表示，公司正在“研究Epic launcher从STEAM上收集到的信息”。显然，Valve对这件事很不满意。
+
+
+	Lombardi写道:“STEAM客户端在本地保存数据，比如玩家拥有的游戏列表、玩家的好友列表和保存的登录令牌(类似于存储在网络浏览器cookie中的信息)。”“这是私人用户数据，存储在用户的电脑上，不应被其他程序使用或上传到任何第三方。感兴趣的用户可以自己的STEAM目录中找到localconfig。然后在文本编辑器中打开它们，查看这些文件中包含哪些数据。他们还可以在https://help.steampowered.com/en/accountdata查看Steam账户相关的所有数据。”
+
+
+
+
+
+	Valve认为Epic Store客户端不应该接触localconfig.vdf这个文件，如果Epic使用STEAM提供的API收集好友列表，也不会让事情发展到现在这一地步。
+
+
+	从另一方面，STEAM将用户的隐私数据用明文的形式保存在电脑硬盘中，任何人可以用文本编辑器打开localconfig.vdf并查看，也许STEAM应该在接下来对这些涉及隐私的文件进行加密，以避免此类情况再次发生。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190318/1552864297_313952.jpg	https://img.3dmgame.com/uploads/images/news/20190316/1552720353_131367.jpg	</imageurl><videourl /></doc>

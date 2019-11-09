@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018053734422</id><url>https://www.3dmgame.com/news/201805/3734422.html</url><title>《腐烂国度2》PC性能表现分析 中档电脑轻松驾驭</title><datetime>2018-05-27 18:13:3</datetime><text>
+
+
+
+	本次测试我们使用的是Intel i7 4930K（超频至4.2Ghz），8G内存，AMD Radeon RX580和RX Vega 64，NVIDIA  GTX980Ti和GTX690显卡。更新最新版本Catalyst和GeForce驱动。NVIDIA并没有为本作推出SLI配置文档，所以GTX  690的表现和GTX 680差不多一样。最后我们使用的是游戏内置跑分工具。
+
+
+
+
+
+	Undead  Labs为这款游戏提供了许多画面选项，玩家可以调整抗锯齿质量、植被绘图距离、世界细节水平、角色细节水平、阴影、环境光遮蔽、后处理效果、亚表面散射等。另外还有垂直同步、屏幕反射的开关按钮。玩家使用全屏模式时只能使用桌面分辨率。
+
+
+
+
+
+
+
+
+	首先必须承认，虽然《腐烂国度2》可以在不同的PC配置下流畅运行60fps，但是无论NVIDIA还是AMD显卡，都存在优化问题。
+
+
+	AMD Radeon RX Vega 64在1080p和1440p分辨率下都存在利用率不足的情况，NVIDIA GTX  980Ti锁定在60fps，即使关闭垂直同步，在1080p和1440p下都是60fps。两家显卡厂商需要与Undead  Labs进一步合作升级驱动才能解决问题，超过60fps的帧数封顶。不过话说回来，60fps的帧数已经足以享用游戏了，所以大家可以接受60fps的封顶，耐心等待AMD和NIVIDIA解决问题。
+
+
+
+
+
+	GTX 690在终极画质选项1080p分辨率下可达到最低31fps、平均35fps的成绩。AMD Radeon  RX580则可以在同样的选项下达到60fps。另外需要指出的是，虽然这款游戏是Windows 10独占，却是用的是DX11 API，而不是DX12。
+
+
+
+
+
+	为了测试不同的CPU利用情况，我们分别模拟了双核和四核CPU。《腐烂国度2》对CPU要求很低，我们的模拟双核系统不用开超线程也能达到最低52fps、平均58fps的成绩，不过游戏过程中会出现帧数波动。只要开启超线程，就可以消除帧数波动，而表现和模拟四核和六核系统几乎没有区别。
+
+
+
+
+
+	游戏画面方面，《腐烂国度2》并没有什么很超前的画面。在终极画面配置下，场景中的物体存在材质清晰度的问题，阴影效果并不逼真，光照效果一般，没有明显超过其他游戏的地方。环境互动很有限，灌木和草丛不能与人物发生互动，嘴型同步勉强可以看。我们还发现一些材质质量上的瑕疵。下面的图片就很明显，中小型石块的材质非常模糊，但大型石块的材质就比较精细。总体感觉《腐烂国度2》并不像是一款本世代游戏，更像是为了照顾上一世代主机性能而做出妥协让步的作品。
+
+
+
+
+
+	总而言之，《腐烂国度2》可以在不同水平的PC上达到60fps流畅画面。不过要想超过60fps就没什么好办法了，无论是NVIDA还是AMD都存在优化问题，所以可以推断这款游戏并没有达到完整的可发售状态。而且游戏中会随机出现鼠标问题（不定时发生鼠标减速现象，可用alt-tab切出切回解决）。但至少没有任何鼠标加速问题，屏幕上的鼠标和按钮提示也都正确。最后，毕竟这是一款中档电脑也能达到60fps的作品，值得肯定。
+
+
+
+
+
+
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180527/154_180527181139_1_lit.jpg	https://img.3dmgame.com/uploads/allimg/180527/154_180527181153_1_lit.jpg	https://img.3dmgame.com/uploads/allimg/180527/154_180527181206_1_lit.jpg	https://img.3dmgame.com/uploads/allimg/180527/154_180527181206_2_lit.jpg	https://img.3dmgame.com/uploads/allimg/180527/154_180527181220_1_lit.png	https://img.3dmgame.com/uploads/allimg/180527/154_180527181231_1_lit.png	https://img.3dmgame.com/uploads/allimg/180527/154_180527181242_1_lit.png	https://img.3dmgame.com/uploads/allimg/180527/154_180527181250_1_lit.jpg	https://img.3dmgame.com/uploads/allimg/180527/154_180527181306_1_lit.jpg	https://img.3dmgame.com/uploads/allimg/180527/154_180527181306_2_lit.jpg	https://img.3dmgame.com/uploads/allimg/180527/154_180527181306_3_lit.jpg	</imageurl><videourl /></doc>

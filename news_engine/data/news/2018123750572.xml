@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018123750572</id><url>https://www.3dmgame.com/news/201812/3750572.html</url><title>《太吾绘卷》MOD制作工具V1.0.1发布 新增分享功能</title><datetime>2018-12-01 20:41:4</datetime><text>
+	《太吾绘卷》MOD制造工具v1.0.1.0_测试版发布，这次更新主要加入了分享功能。每次玩家预览生成了武器装备或者后面的功法，都会保存在工具根目录下的3dm 
+mods文件夹里，玩家们可以将该文件分享发布出来，其他人下载以后用该工具加载即可获取你分享的MOD。
+
+
+
+
+
+更新日志：
+
+
+	2018.12.01-1.0.1.0
+
+
+	1.新增装备、宝物、代步 数据定制。
+
+
+	2.添加MOD文件生成功能，生成的MOD格式为 *.twmod_3dm。
+
+
+	3.新增加载、修改MOD功能，点上方加号按钮即可。
+
+
+	4.新增将老版本item数据自动无损合并到最新版的功能。
+
+
+	5.新增删除获取途径的功能，点垃圾桶按钮即可。
+
+
+	6.完善预览的信息展示。
+
+
+	7.修复几个按钮逻辑BUG，现可以多次预览与新建。
+
+
+	8.修复新建方案中代码可能出现的BUG。
+
+
+	9.修复安装可能安装重复MOD的问题。
+
+
+	10.修复添加装备效果下标以及报错问题。
+
+
+	11.优化UI响应速度。
+
+
+下载地址：
+
+
+https://mod.3dmgame.com/mod/modsdetail/53756.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20181201/1543667936_356277.jpg	https://img.3dmgame.com/uploads/images/news/20181201/1543667950_178231.png	https://img.3dmgame.com/uploads/images/news/20181201/1543667950_361856.png	https://img.3dmgame.com/uploads/images/news/20181201/1543667951_456788.png	https://img.3dmgame.com/uploads/images/news/20181201/1543667951_651510.png	https://img.3dmgame.com/uploads/images/news/20181201/1543667951_673046.png	https://img.3dmgame.com/uploads/images/news/20181201/1543667952_865521.png	https://img.3dmgame.com/uploads/images/news/20181201/1543667952_687383.png	</imageurl><videourl /></doc>

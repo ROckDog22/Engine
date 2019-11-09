@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019033758252</id><url>https://www.3dmgame.com/news/201903/3758252.html</url><title>消息称谷歌Stadia使用了来自英特尔的定制版CPU</title><datetime>2019-03-25 08:34:0</datetime><text>
+	上周谷歌在游戏开发者大会上发布了面向玩家的游戏串流平台谷歌Stadia，这一平台可以通过网络为使用各种不同设备的用户提供最好画质下4K、HDR和60FPS的游戏体验，之前我们已经听说谷歌Stadia使用了来自AMD的图形芯片，那么其它硬件配置如何呢？
+
+
+
+
+
+	据悉，谷歌Stadia将由x86处理器运行，虽然CPU内核数未知，不过可以确定时钟频率为2.7 GHz。这个定制版CPU采用9.5MB L2和L3缓存，并支持超线程和AVX2指令。既然提到超线程，就有人猜测谷歌Stadia可能使用了来自英特尔的CPU，但由于谷歌罗列的赞助商名单中没有英特尔，所有人都认为这颗CPU可能是可能是Zen2的修改版。
+
+
+
+
+
+	然而，国外媒体PCGamesn就此问题联系到了AMD，得到的回应确认CPU不来自AMD。那么可以肯定的是谷歌Stadia使用的CPU一定来自英特尔，毕竟拥有超线程以及x86架构的CPU，除了英特尔和AMD之外应该再也没有其它选择了。
+
+
+
+
+
+	既然谷歌Stadia使用了来自英特尔的CPU，那么为什么在游戏开发者大会上不进行说明呢？毕竟使用AMD显卡的事还是重点强调了的。
+
+
+	谷歌Stadia号称具备10.7万亿次浮点运算能力，达到了PS4 Pro和XboxOne X之和。谷歌Stadia将于2019年内在北美和欧洲等地开始服务。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190325/1553473985_931821.jpg	https://img.3dmgame.com/uploads/images/news/20190325/1553473994_131072.jpg	https://img.3dmgame.com/uploads/images/news/20190325/1553474001_965493.jpg	</imageurl><videourl /></doc>

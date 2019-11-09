@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018073739995</id><url>https://www.3dmgame.com/news/201807/3739995.html</url><title>老游戏新mod 《寂静岭5：归途》获60FPS/可控FOV</title><datetime>2018-07-09 06:36:2</datetime><text>
+Steam006日前为经典老游戏《寂静岭5：归途》推出了一款相当有用的Mod。该mod将为游戏带来60FPS、可控FOV以及硬编码720p分辨率和最高8倍的MSAA。
+另外，该Mod允许游戏使用4GB的内存，提升了地图和道具的分辨率，增加了关闭DirectX雾化的选徐昂，还有线框模式、透视以及可控制地图和道具尺寸。
+感兴趣的玩家可以从这里进行下载。Mod使用说明：
+·正常启动游戏，设定好分辨率后退出。
+·将所有文件复制到“steamapps\common\Silent Hill Homecoming\Bin”
+·在Silent_Hill_Homecoming_PC_Fix.ini.中设置游戏显示宽高
+·利用Silent_Hill_Homecoming_PC_Fix.exe启动游戏
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180709/174_180709063443_1_lit.jpg	</imageurl><videourl /></doc>

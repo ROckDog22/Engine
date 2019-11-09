@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018063737346</id><url>https://www.3dmgame.com/news/201806/3737346.html</url><title>微软工程师澄清用JavaScript重写Office 365误会</title><datetime>2018-06-15 05:29:2</datetime><text>一位微软项目经理Sean Thomas Larkin在推特上写下了关于JavaScript的探讨，称Office 365将用JS重写。
+
+这随即引发了编程圈的“小地震”，尤其是C++工程师们。
+
+不过，Skype的工程师们看到Sean居然放言用React Native把JS编译成本地代码，把Sean这家伙猛批了一顿，后者也不得不在Reddit上开贴澄清，他上来就说，推特限制字数，导致意思没表达完全。
+首先需要知道的是，MicroSoft Teams、VS Code都已完全由JS开发了（更准确地说法是Electron支持的TypeScript）。
+其次是，Office 365的UI元素很多，有大一部分借助的是React Native，不过API、服务还是由C++, C#等编写。Sean强调，他对传统编程语言保持着相当的敬畏之心，所以Office 365没有全部用JavaScript/TypeScript重写。
+最后作为Edge浏览器的操盘人之一，他强调EdgeHTML引擎完全是C++写就的，但是微软也在开发工具中允许运行JavaScript（由TypeScript编译）。
+换言之，word终究不可能完全用JS来写，但是在未来开放的跨平台世界中，很多新的程序或需要从头再来的产品，似乎倒戈JS阵营的数量会越来越高。
+
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180615/174_180615052742_1_lit.png	https://img.3dmgame.com/uploads/allimg/180615/174_180615052751_1_lit.png	https://img.3dmgame.com/uploads/allimg/180615/174_180615052803_1_lit.jpg	</imageurl><videourl /></doc>

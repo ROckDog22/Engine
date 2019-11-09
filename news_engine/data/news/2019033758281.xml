@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019033758281</id><url>https://www.3dmgame.com/news/201903/3758281.html</url><title>《只狼》PC版性能表现分析 视觉效果达到3A大作标准</title><datetime>2019-03-25 13:33:0</datetime><text>
+	《只狼：影逝二度》是2019年备受玩家期待的游戏之一，最近外媒Dsogaming对这款游戏的PC版表现做出了一定评价，一起来看看具体内容。
+
+
+	此次测试所用的软/硬件为：Intel i7 4930K(4.2Ghz超频)、16GB DDR3内存(2133Mhz)、AMD Radeon RX580 和 
+RX Vega 64显卡、英伟达RTX 2080Ti, GTX980Ti 以及 GTX690、win1064位操作系统、GeForce 
+419.35版驱动以及Radeon Software Adrenalin (2019年 19.3.3. 版本)。
+
+
+
+
+
+	这一次Formsoftware提供了许多图形设置供玩家自行调节，PC版玩家可以调节纹理、SSAO，景深，运动模糊，阴影，光照，效果，体积，反射，水面和着色器的质量。此外，与《黑魂3》有所不同的是，此次Fromsoftware还在2游戏中加入了人性化的键鼠操作提示。
+
+
+
+
+
+	从GPU的表现来看，《只狼：影逝二度》全程锁定帧数为60帧，此次测试中的大多数显卡都能在最高配置和1920*1080的分辨率下为玩家提供60FPS的丝滑游戏体验。
+
+
+
+
+
+	虽然从GPU的角度来看，这款游戏对硬件需求似乎不高，但该作所需最低配置中，CPU最低为Intel Core 
+i3-2100，但由于这款游戏至少需要4个CPU线程，所以会有不少CPU带不动这款游戏。
+
+
+	值得一提的是，在4核系统测试当中，如果不启用超线程的话，游戏其实很难达到60FPS，而平均帧数都在40FPS左右(四个CPU内核占用率都很高)。而在启用超线程的情况下，游戏在性能上居然能飙升到最低112FPS，平均131FPS的水平。两者在对比之前产生了巨大差异，因此外媒建议玩家开启超线程，从而让游戏性能表现更为出色。
+
+
+	在下面的图表中，我们可以发现游戏在1920*1080分辨率的最高配置下(不锁定帧数)，GTX980Ti与AMD Radeon RX Vega 
+64的表现相近，在2560*1440分辨率下，AMD Radeon RX Vega 
+64比GTX980Ti的表现要好的多，而在4K分辨率下，能够提供丝滑游戏体验的只有NVIDIA GeForce RTX2080Ti显卡了。
+
+
+
+
+
+
+
+
+	最后外媒表示比起《黑魂3》，《只狼：影逝二度》画面表现效果似乎更好一些，目前这款游戏至少在视觉上已经达到了3A大作的标准。
+
+
+	《只狼：影逝二度》已经正式发售，喜欢的玩家可以尝试玩玩这款游戏。
+
+
+游戏截图：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190325/1553491618_226647.jpg	https://img.3dmgame.com/uploads/images/news/20190325/1553491626_834666.jpg	https://img.3dmgame.com/uploads/images/news/20190325/1553491658_246772.jpg	https://img.3dmgame.com/uploads/images/news/20190325/1553491659_798803.jpg	https://img.3dmgame.com/uploads/images/news/20190325/1553491659_901822.jpg	https://img.3dmgame.com/uploads/images/news/20190325/1553491681_908791.jpg	https://img.3dmgame.com/uploads/images/news/20190325/1553491682_465603.jpg	https://img.3dmgame.com/uploads/images/news/20190325/1553491684_111869.jpg	https://img.3dmgame.com/uploads/images/news/20190325/1553491685_743508.jpg	https://img.3dmgame.com/uploads/images/news/20190325/1553491686_537313.jpg	</imageurl><videourl /></doc>

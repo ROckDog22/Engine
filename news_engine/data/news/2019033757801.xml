@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019033757801</id><url>https://www.3dmgame.com/news/201903/3757801.html</url><title>英伟达发布Omniverse开放式平台 2D/3D多软件同时协作</title><datetime>2019-03-19 09:16:2</datetime><text>
+	3月19日凌晨，NVIDIA在硅谷召开了GTC 2019主题演讲，NVIDIA CEO黄仁勋发表演讲，正式发布了NVIDIA 
+Omniverse开放式3D设计协作平台。该平台适用于多种工具，能够使团队同时使用2D和3D软件实时协作，创建和渲染场景。
+
+
+
+
+
+	NVIDIA Omniverse可以实现多种行业标准图形开发程序——例如Autodesk Maya，Adobe Photoshop和Epic 
+Games的虚幻引擎——之间的实时连接，它允许使用该平台的工作者可以看到其他人工作成果，并且他人成果实时更新，即便同时使用着不同的软件也是如此。
+
+
+	换句话说，两名或多名艺术家可以通过NVIDIA Omniverse实时分享自己的工作进度，并以此为基础进行合作，而且使用软件并不受限。
+
+
+	NVIDIA Omniverse利用NVIDIA RTX RT核心，CUDA核心和支持Tensor 
+Core的AI，实时提供最高质量的照片级真实感图像。它支持Pixar的通用场景描述技术，用于在多个应用程序之间交换有关建模，着色，动画，灯光，视觉效果和渲染的信息。
+
+
+	目前NVIDIA已经开始接受Omniverse“灯塔计划”(类似于公测)的申请。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190319/1552958176_395743.jpg	</imageurl><videourl /></doc>

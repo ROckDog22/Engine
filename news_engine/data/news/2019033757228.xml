@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019033757228</id><url>https://www.3dmgame.com/news/201903/3757228.html</url><title>《鬼泣5》PC版性能分析 游戏画面出色优化很给力</title><datetime>2019-03-11 15:56:2</datetime><text>
+	近日，外媒Dsogaming对《鬼泣5》PC版进行了性能评测分析，一起来看下具体内容。在测试中，他们使用的硬件配置为：Intel i7 4930K 
+CPU(4.2GHz超频)、16GB DDR3 RAM 2133MHz、AMD’s Radeon RX580, RX Vega 64, NVIDIA’s RTX 
+2080Ti, GTX980Ti 和GTX690、Windows10 64位操作系统、Geforce 驱动419.35版本和Radeon Software 
+Adrenalin 2019 Edition 19.3.1。
+
+
+
+
+
+	值得注意的是，这一次英伟达并没有为《鬼泣5》提供可升级连接接口(SLI)文件，这意味着GTX690与单块GTX680表现效果相近。有一种解决方案是：强制游戏在DX11以及自定义SLI位的环境下运行，但由于遇到了一些画质和稳定性的问题，这种方案被放弃了。
+
+
+	以下两个截图分别展示了禁用超线程和启用超线程时Intel i7 
+4930K上的CPU的使用频率。当禁用超线程时，CPU的6个核心全部被大幅占用。而启用超线程时，可以扩展到8个CPU线程(虽然它严重依赖于一个线程)。 
+因此，我们强烈建议在这款游戏中让CPU启用超线程。
+
+
+
+
+
+
+
+
+	玩家并不需要配置高端CPU就可以很好的游玩《鬼泣5》了。 
+虽然游戏表现可能会受到D加密技术的影响，但大多数玩家都没有这种问题。为了了解游戏在各种CPU上运行时的表现如何，为此外媒专门模拟了双核和四核CPU下的游戏表现，他们发现即使在双核系统下也能够在60fps和高清1080p的最高设置下运行游戏。
+
+
+	同时，《鬼泣5》并不需要非常高端的显卡才能运行。在使用显卡GTX690的情况下，外媒测试数据表明这款游戏也能在60fps和高清1080p的最高设置下运行游戏。而且卡普空已经预设了各种图形设置来方便玩家调整画质效果。PC端玩家可以调整纹理，纹理过滤，抗锯齿，运动模糊，效果，阴影，环境遮挡，体积光照，屏幕空间反射和次表面散射的质量，同时还有一些启用或禁用色差，阴影缓存和镜头光晕的选项。
+
+
+
+
+
+
+
+
+	在2560*1440的分辨率下，这款游戏在显卡GTX980Ti、AMD Radeon RX Vega 64 以及 NVIDIA RTX 2080Ti 
+上的表现都不错，它们都能为玩家提供60fps的流畅游戏体验。在4K分辨率下，《鬼泣5》在显卡AMD Radeon RX Vega 64以及NVIDIA RTX 
+2080Ti上的表现惊人，在游戏过程中帧数甚至超过了60。
+
+
+
+
+
+
+
+
+
+
+
+	作为一款对显卡友好的游戏，《鬼泣5》显得十分出色。游戏过场动画的表现也十分惊艳， 
+卡普空使用了先进的照明系统，所有的敌人刻画都十分生动，环境中有许多可破坏的物体(虽然你不能粉碎像汽车或建筑物这样的大物体)，整体艺术风格也很特别。 
+美中不足的是，这款游戏中出现了一些影子上的错误。在下面截图中你可以看到相关细节，希望卡普空能够修复这个问题。
+
+
+
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190311/1552289535_108944.jpg	https://img.3dmgame.com/uploads/images/news/20190311/1552289578_238276.jpg	https://img.3dmgame.com/uploads/images/news/20190311/1552289580_781275.jpg	https://img.3dmgame.com/uploads/images/news/20190311/1552289596_556982.jpg	https://img.3dmgame.com/uploads/images/news/20190311/1552289597_876447.jpg	https://img.3dmgame.com/uploads/images/news/20190311/1552289614_361114.jpg	https://img.3dmgame.com/uploads/images/news/20190311/1552289614_479773.jpg	https://img.3dmgame.com/uploads/images/news/20190311/1552289615_935223.jpg	https://img.3dmgame.com/uploads/images/news/20190311/1552289630_732456.jpg	https://img.3dmgame.com/uploads/images/news/20190311/1552289631_815459.jpg	</imageurl><videourl /></doc>

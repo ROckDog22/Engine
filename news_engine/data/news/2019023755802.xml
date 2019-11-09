@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019023755802</id><url>https://www.3dmgame.com/news/201902/3755802.html</url><title>安卓平台Switch模拟器MonoNX发布</title><datetime>2019-02-19 08:40:2</datetime><text>
+	如果你一直有关注Switch的新闻，那么一定知道在PC平台上Switch模拟器Yuzu的进度飞快，甚至已经可以模拟一些任天堂的游戏大作。但是你也许没有料到，在安卓设备上也有Switch模拟器了！
+
+
+
+
+
+	任天堂Switch使用了来自Nvida的Tegra X1芯片，同样Nvida自家推出的Shield系列设备也使用了这一产品，在XDA论坛上各路大神对于这些设备已经非常熟悉，也许通过Shield设备运行Switch游戏只是一个时间的问题。
+
+
+
+
+
+	最近，有国外用户将开源的Switch模拟器Ryujinx移植到了安卓平台。这个版本甚至都不被局限在Shield设备上，任何拥有4GB运行内存并且使用ARM64 CPU的安卓设备都可以跑得动！
+
+
+	当然，目前安卓Switch模拟器MonoNX还处于相当初级的阶段，并不能运行任何Switch游戏，只能运行老旧的自制程序，而且也仅仅能显示输出结果，好处就是尽管在骁龙625 CPU的设备上也能够达到15帧。
+
+
+	也许一两年后便可以在手机上游玩Switch游戏了。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190219/1550536806_714801.jpg	https://img.3dmgame.com/uploads/images/news/20190219/1550536798_913634.png	</imageurl><videourl /></doc>

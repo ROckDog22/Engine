@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019023756111</id><url>https://www.3dmgame.com/news/201902/3756111.html</url><title>Steam新客户端或可按厂商、语言、发售日、类型等方式分类游戏</title><datetime>2019-02-23 08:08:0</datetime><text>
+	来自粉枪社的消息，Steam Database在推特发文，发现了Valve似乎正在增加PICS（一个用来给Steam客户端发送数据的系统）的信息。
+
+
+
+
+
+	Valve给Steam客户端提供信息的系统添加了更多的信息。其中包括了Steam与原始游戏发售日期、支持的语言、附属项目、分类与标签。
+
+
+	我们怀疑这可能会用于即将上线的新版Steam客户端。
+
+
+
+
+
+	在Reddit上也展开了相关的讨论，网友aiusepsi对此进行了补充说明：
+
+
+	相关背景：Steam有一个名叫PICS的系统，Steam客户端通过这个系统获取游戏的信息。这个系统可以用来让 Steam 
+客户端知道游戏的名字和展示在游戏库中的图标、游戏支持哪些操作系统、下载的游戏是哪个版本的、是否有测试版本、点击「开始」按钮后会运行哪个可执行文件，等等。Steam 
+客户端会监听 PICS 发送的数据，并且当游戏的相关数据发生更新时，抓取最新的数据。这就是Steam客户端能够获得最新的游戏补丁的方法。
+
+
+	最主要的是，SteamDB 
+所做的就是监听来自PICS和Steam商店的信息流，并且将其展现给使用者（尽管他们在其中混入了一些其他来源的数据，比如游戏价格）。他们在推文里说到的「Steam 
+客户端提供信息的系统」就是指的 PICS。
+
+
+	那么，如果像分类、游戏标签以及游戏发售日期（这些信息之前只能在Steam商店看到）出现在了 PICS 
+里，那么很有可能Valve打算在新版本的Steam游戏库中展示或者使用到这些数据。这是好事：玩家们一直想要的基于游戏标签分类游戏的功能就要实现了。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190223/1550880155_814465.jpg	https://img.3dmgame.com/uploads/images/news/20190223/1550880203_787648.jpg	</imageurl><videourl /></doc>

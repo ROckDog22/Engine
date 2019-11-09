@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019023755722</id><url>https://www.3dmgame.com/news/201902/3755722.html</url><title>CPU优化存疑 《孤岛惊魂：新曙光》PC性能表现分析</title><datetime>2019-02-17 18:30:1</datetime><text>
+	《孤岛惊魂：新曙光》是该系列最新作，现已登陆PC。本作和历代作品一样，使用Dunia引擎打造，外媒DSOGaming今日发布了本作的PC版性能分析，我们一起来看看本作在PC平台上的性能表现。
+
+
+
+
+
+	本次性能表现分析使用的是Intel i7 4930K CPU（超频至4.2Ghz），16G DDR3内存（带宽2133Mhz），分别搭载AMD 
+Radeon RX580和RX Vega 64，以及NVIDIA RTX 2080Ti、GTX980Ti和GTX690显卡，使用Windows 10 
+64位系统。更新GeForce 418.91驱动和Radeon Adrenalin 2019 
+19.2.2驱动。NVIDIA并未给本作提供单GPU的驱动，也就是说GTX 690表现得和GTX 680差不多。
+
+
+
+
+
+	育碧在本作中提供了许多可调整的画面选项，有材质滤镜、阴影、几何、植被、环境、水体、地形、体积雾、抗锯齿、动态模糊、适应性分辨率、帧数锁定、视野等画面选项。
+
+
+
+
+
+
+
+
+
+
+
+	《孤岛惊魂：新曙光》目前存在严重的CPU优化问题，如果能利用多核CPU的话一定能有显著的性能提升。
+
+
+	《孤岛惊魂：新曙光》似乎完全依赖单一一个CPU线程。虽然也能利用多个CPU线程，但主线程的负载特别高，导致总体表现很容易达到瓶颈。不仅如此，本作使用的是DX11，所以API对多线程运算并不友好。很显然育碧必须在下一部作品中更新Dunia引擎并兼容DX12了。另外值得注意的是，本作同时采用了VMProtect和Dnuvo加密，所以加密系统是否对CPU线程进行了控制也不好说。
+
+
+	为了查看多核CPU的表现，我们分别模拟了双核和四核CPU。并通过游戏内置的数值工具对实际游戏表现进行统计。
+
+
+
+
+
+	在不打开超线程的情况下，模拟双核可以达到能玩的程度。开启超线程以后能在1920x1080分辨率和终极画面设置下达到平均59fps，最低43fps的水平。模拟四核则可以达到平均76fps，最低54fps。六核可达到平均83pfs，最低58fps。
+
+
+
+
+
+	和CPU需求不同，《孤岛惊魂：新曙光》在不同显卡上的表现差异明显。我们待测的大多数显卡都能在1920x1080分辨率和终极画面设定下流畅运行。由于DX11的缺陷，CPU经常会超负荷，而RX 
+Vega 64的表现比GTX 
+980Ti在1920x1080分辨率下差很多。不过在2560x1440分辨率下则稍微好一些。好消息是，所有三款顶级显卡都能在2560x1440分辨率下流畅运行。而在4K分辨率下，NVIDIA 
+RTX2080Ti可以达到平均72fps，最低57fps的帧数。
+
+
+
+
+
+	《孤岛惊魂：新曙光》的画面很漂亮，使用了照片绘图技术制作真实的贴图素材。本作继承了《孤岛惊魂5》中精彩的风吹效果和火焰效果，主角的图像细节更丰富了，光影效果也很棒，只不过比起《地铁：逃离》要差一点。
+
+
+	总而言之，《孤岛惊魂：新曙光》存在严重的CPU优化问题，游戏主要只依赖一个CPU线程，四核和六核之间没有明显区别。在探索环境时偶尔会遭遇卡顿现象。显然Dunia引擎该进行彻底升级了，至少需要支持多核CPU和多线程的API。好消息是，本作不需要顶级GPU就能达到最佳效果，但前提是有足够新的CPU来避免CPU到达瓶颈。
+
+
+
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190217/1550399338_156760.jpg	https://img.3dmgame.com/uploads/images/news/20190217/1550399344_172107.jpg	https://img.3dmgame.com/uploads/images/news/20190217/1550399352_865834.jpg	https://img.3dmgame.com/uploads/images/news/20190217/1550399353_132642.jpg	https://img.3dmgame.com/uploads/images/news/20190217/1550399353_910654.jpg	https://img.3dmgame.com/uploads/images/news/20190217/1550399374_394541.png	https://img.3dmgame.com/uploads/images/news/20190217/1550399385_445853.png	https://img.3dmgame.com/uploads/images/news/20190217/1550399392_443977.png	https://img.3dmgame.com/uploads/images/news/20190217/1550399402_103369.jpg	https://img.3dmgame.com/uploads/images/news/20190217/1550399403_794284.jpg	</imageurl><videourl /></doc>

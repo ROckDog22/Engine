@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018093746171</id><url>https://www.3dmgame.com/news/201809/3746171.html</url><title>谷歌现允许用户关掉有争议的Chrome关联登陆功能</title><datetime>2018-09-27 06:57:5</datetime><text>
+	本周发布的新版 Chrome 浏览器，引入了饱受诟病的关联登陆功能。安全专家批评称，谷歌强制 Chrome 浏览器用户登陆，从而让用户的各项服务打通（比如 Gmail）。实际上，如果要在设备之间同步书签、密码或浏览历史记录，用户是会主动这么操作的。不过，尽管谷歌声明同步不糊自动启用，但这项更改已被广泛视为诱骗用户、让他们在无意中共享更多数据的方法。
+
+
+
+
+
+	令人欣慰的是，谷歌现已向用户提供了更多的控制权限。在一篇题为《基于您反馈的产品更新》博文中，Chrome 产品经理 Zach Koch 解释称：
+
+
+	谷歌正在回应 Chrome 70 中引入的一些变化。我司添加了一个新的控件，以禁用 Chrome 的自动登录。
+
+
+	即便如此， Chrome 自动登录功能（比如在网络上登录 Gmail 时），仍然是默认的行为。
+
+
+
+
+
+
+
+
+	与此同时，谷歌还更新了同步界面，以便用户更清楚地了解是否将密码、信用卡、地址和浏览历史纪录等信息，同步到 Google 账户。
+
+
+	Chrome 70 还会在用户退出时，清除所有 Google 身份验证 Cookies，而不是保留它们，以便保持登录状态。
+
+
+
+
+
+
+
+
+	如果您在 Chrome 69 更新后，遇到了使用多个账户的问题：
+
+
+	还请导航至“chrome:// flags /＃account-consistency”，
+
+
+	然后禁用“浏览器与 Cookies 之间的身份一致性”，
+
+
+	从而移除 Chrome 的自动登录状态。
+
+
+	如果你暂时觉得不怎么受影响，也可以等待 10 月中旬发布的 Chrome 70 正式版。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20180927/1538002587_288625.png	https://img.3dmgame.com/uploads/images/news/20180927/1538002598_704705.png	https://img.3dmgame.com/uploads/images/news/20180927/1538002613_831992.png	</imageurl><videourl /></doc>

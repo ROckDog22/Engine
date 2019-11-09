@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018063738224</id><url>https://www.3dmgame.com/news/201806/3738224.html</url><title>华为的“吓人技术”有没有用 用数据实测来说明吧</title><datetime>2018-06-22 18:11:4</datetime><text>华为的“吓人技术”GPU Turbo发布之后，就引来了外界对此技术是否能对手机显示进行提升的质疑。华为方面也宣布GPU  Turbo技术将部署到华为Mate10 Pro等机型，接下来我们就实际测试一下，让数据来说话。
+记者在第一时间把一部Mate10 Pro更新到最新的EMUI 8.0.0版本，用游戏测试软件来试一下在Mate10 Pro上，GPU  Turbo技术是否能做到对游戏的画面质量进行提升。
+本次对比对象是iPhone X，测试的游戏分别是王者荣耀、绝地求生、刺激战场、QQ飞车，这三款也是华为官方在讲GPU  Turbo技术时公布过的优化的游戏。
+测试之前先看一下这两款机型的基本参数：
+
+华为Mate10 Pro与iPhone X参数对比
+首先进行测试的是王者荣耀，画质设置为高帧率：
+
+华为Mate10 Pro王者荣耀综合图
+根据图片显示，20分钟王者荣耀之后，华为Mate10  Pro游戏帧率基本维持在60帧，并且变化幅度控制在±0.97帧，也就是说，在游戏期间，华为Mate10 Pro基本不会有跳帧现象。
+20分钟王者荣耀消耗498mA的电量。整体来看结果比较令人满意。
+
+华为Mate10 Pro王者荣耀FPS曲线
+根据上面的图片，再去掉游戏开始以及结束的FPS异常值，在整个游戏进行当中，游戏的帧率几乎没有变化。
+
+iPhone X王者荣耀综合图
+根据图片显示，20分钟的王者荣耀之后， iPhone X游戏帧率基本维持在59帧，并且变化幅度控制在±1.24帧，与华为Mate10  Pro相比，iPhone X在平均帧率上有1帧的差距，在帧数的稳定性上也略逊色于华为Mate10 Pro。由于iOS的限制，电量情况无法测出。
+
+iPhone X王者荣耀FPS曲线图
+根据上面的图片，去掉游戏开始以及结束的FPS异常值，在整个游戏进行当中，游戏的帧率也没有变化。
+接下来进行测试的游戏是绝地求生：刺激战场（吃鸡），因为游戏没有开放超高画质的权限，本次测试两款手机画质方面均设定为HDR高清，帧数设置为超高：
+
+华为Mate10 Pro绝地求生综合图
+根据图片显示，30分钟绝地求生之后，华为Mate10  Pro的游戏帧率基本维持在40帧，并且变化幅度依旧控制在±0.97帧。30分钟的王者荣耀消耗532mA的电量。
+
+华为Mate10 Pro绝地求生FPS曲线图
+去掉游戏开始以及结束的FPS异常值，在整个游戏进行当中，游戏的帧率也没有大的变化，比较稳定流畅。
+
+iPhone X绝地求生综合图
+根据图片显示，30分钟的绝地求生之后，iPhone X的游戏帧率同样维持在40帧，变化幅度控制在±1.06帧，同样略高于华为Mate10 Pro。
+
+iPhone X绝地求生FPS曲线图
+去掉游戏开始以及结束的FPS异常值，在整个游戏进行当中，游戏的帧率变化不大，但对比华为Mate10 Pro绝地求生FPS曲线图后，就会发现，iPhone  X的FPS曲线比华为Mate10 Pro的变化幅度要大一点。
+最后我们来了看一下QQ飞车，开启高帧率模式：
+
+华为Mate10 Pro QQ飞车综合图
+由于一局QQ飞车的时间较短，在7分钟左右的时间里玩了两局。根据图片显示，两局的QQ飞车之后，华为Mate10  Pro的游戏帧率维持在60帧，但是QQ飞车游戏的帧率变化幅度为±3.06帧，游戏中表现略微明显，7分钟的王者荣耀消耗272mA的电量。
+
+华为Mate10 Pro QQ飞车FPS曲线图
+图中的异常值出现在开始，中间以及最后，去掉FPS异常值，在整个游戏进行当中，游戏的帧率比较稳定。
+
+iPhone X QQ飞车综合图
+根据图片显示，两局的QQ飞车之中，iPhone X的游戏帧率维持在59帧，也比华为Mate10  Pro低了1帧，变化幅度控制在±1.71帧，帧数稳定性高于华为Mate10 Pro。
+
+iPhone X Pro QQ飞车FPS曲线图
+图中的异常值出现在开始，中间以及最后，去掉FPS异常值，在整个游戏进行当中，游戏的帧率同样比较稳定。
+总结：
+在经过比较客观的参数对比之后，我做了一个表格，把主要数据列出来，便于对比观察：
+第一张为两者帧数对比结果，绿色标注是三轮对比中表现胜出的部分。
+
+华为Mate10 Pro FPS结果（对比iPhone X）
+第二张为华为两者FPS稳定性结果，同样用绿色标注三轮对比中表现胜出的部分。
+
+华为Mate10 Pro FPS稳定性结果（对比iPhone X）
+可以看出来，除了绝地求生：刺激战场的FPS稳定性方面，Mate10 Pro略逊于iPhone X之外，其他的结果都要好于iPhone  X。（本文所用图表均可以从Game Bench官网查看，如需查看，请微博私信 @新浪手机）
+华为所说的GPU  Turbo技术确实是有用的。并且他们宣称，这种优化可以在华为的其他机型上使用。给人感觉更像是GPU驱动来了次大更新，但是朝着有益于画质的方面所做的算法优化。所以，这次还真的要给华为点个赞。
+此前曾有媒体采访华为相关人士，在谈到这项技术时候，他们说;
+GPU  Turbo技术的采用，会让CPU和GPU之间的指令传输效率大幅度提升，减少GPU的冗余计算消耗，更高效的完成CPU指令。就像在气缸中加入了涡轮，主动往气缸中吸入并压缩空气，提升气缸气压和氧气密度，大幅度提升燃烧效率。
+而且“目前数据还不是最终的”。
+根据上次发布会时余承东所讲，它是一种软件+硬件的优化，并且需要适配游戏才能发挥效果。
+
+华为的升级提示
+这项技术是仅基于麒麟970芯片和EMUI系统的适配优化，我们相信华为目前阶段不会（也不能）把这项技术供给其他厂商使用，这或许将是华为搭建的技术优势壁垒。
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180622/154_180622180827_1_lit.png	https://img.3dmgame.com/uploads/allimg/180622/154_180622180838_1_lit.png	https://img.3dmgame.com/uploads/allimg/180622/154_180622180845_1_lit.png	https://img.3dmgame.com/uploads/allimg/180622/154_180622180852_1_lit.png	https://img.3dmgame.com/uploads/allimg/180622/154_180622180859_1_lit.png	https://img.3dmgame.com/uploads/allimg/180622/154_180622180907_1_lit.png	https://img.3dmgame.com/uploads/allimg/180622/154_180622180915_1_lit.png	https://img.3dmgame.com/uploads/allimg/180622/154_180622180923_1_lit.png	https://img.3dmgame.com/uploads/allimg/180622/154_180622180933_1_lit.png	https://img.3dmgame.com/uploads/allimg/180622/154_180622180941_1_lit.png	https://img.3dmgame.com/uploads/allimg/180622/154_180622180951_1_lit.png	https://img.3dmgame.com/uploads/allimg/180622/154_180622181002_1_lit.png	https://img.3dmgame.com/uploads/allimg/180622/154_180622181011_1_lit.png	https://img.3dmgame.com/uploads/allimg/180622/154_180622181021_1_lit.png	https://img.3dmgame.com/uploads/allimg/180622/154_180622181028_1_lit.png	https://img.3dmgame.com/uploads/allimg/180622/154_180622181043_1_lit.png	</imageurl><videourl /></doc>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019043759426</id><url>https://www.3dmgame.com/news/201904/3759426.html</url><title>《无主之地年度版》第三人称解锁 边玩边看妹子翘臀</title><datetime>2019-04-10 13:15:2</datetime><text>
+	近日，国外Mod作者“LordEmil1”发现了一种可以解锁《无主之地年度版》第三人称模式的方法，这对于想要重温该作的玩家而言简直太棒了，可以用不同角度和方式来体验这款游戏了。
+
+
+视频欣赏：
+
+
+
+
+
+
+	不过“LordEmil1”提醒玩家：这种第三人称模式并不完美，玩家有时候需要切换回第一人称模式来调整准心。虽然在瞄准上可能有些不足，但是这一点有可能在日后会被改善。此外，玩家还可以在第三人称模式下用鼠标拾取物品，而且当玩家开启瞄准镜的时候还会自动切换称第一人称模式。
+
+
+
+
+
+	值得一提的是，在玩家进入濒死状态“为性命而战斗”时，玩家也会自动切换为第一人称模式，而且在第三人称模式下，玩家还可以近距离欣赏女性角色的魅力。
+
+
+安装方法：
+
+
+	1.以默认路径为例：玩家可以打开C:\Users\Username\Documents\My Games\Borderlands Game of the 
+Year\WillowGame\Config中的WillowInput.ini文件和WillowGame.ini文件。
+
+
+	2.在WillowInput.ini中找到[WillowGame.WillowPlayerInput]并添加下列内容：
+
+
+	Bindings=(Name=”FirstPersonZoom”,Command=”advancedbutton 
+bAdvancedButtonAux5″,Control=False,Shift=False,Alt=False,LeftTrigger=False,RightTrigger=False,bIgnoreCtrl=False,bIgnoreShift=False,bIgnoreAlt=False)
+
+
+	Bindings=(Name=”ThirdPersonZoom”,Command=”advancedbutton bAdvancedButtonAux5 
+| Camera FirstPerson | OnRelease Camera 
+ThirdPerson”,Control=False,Shift=False,Alt=False,LeftTrigger=False,RightTrigger=False,bIgnoreCtrl=False,bIgnoreShift=False,bIgnoreAlt=False)
+
+
+	Bindings=(Name=”FirstPersonToggle”,Command=”Camera FirstPerson | setbind 
+RightMouseButton FirstPersonZoom | setbind F1 
+ThirdPersonToggle”,Control=False,Shift=False,Alt=False,LeftTrigger=False,RightTrigger=False,bIgnoreCtrl=False,bIgnoreShift=False,bIgnoreAlt=False)
+
+
+	Bindings=(Name=”ThirdPersonToggle”,Command=”Camera ThirdPerson | setbind 
+RightMouseButton ThirdPersonZoom | setbind F1 
+FirstPersonToggle”,Control=False,Shift=False,Alt=False,LeftTrigger=False,RightTrigger=False,bIgnoreCtrl=False,bIgnoreShift=False,bIgnoreAlt=False)
+
+
+	Bindings=(Name=”F1″,Command=”ThirdPersonToggle”,Control=False,Shift=False,Alt=False,LeftTrigger=False,RightTrigger=False,bIgnoreCtrl=False,bIgnoreShift=False,bIgnoreAlt=False)
+
+
+	3.保存WillowInput.ini并将文件设置为只读
+
+
+	4.玩家还可以对FOV进行设置，玩家需要打开WillowGame.ini文件并找到[WillowGame.WillowPawn]，其中包括三个可设置选项“CameraScale=5.0、CameraScaleRight=2.0、CameraScaleUp=1.0”。玩家可以根据自己的喜好来对这些参数进行调整(不过要注意提前保留原本的文件)
+
+
+	感兴趣的玩家可以按照上述方法进行解锁第三人称模式，希望各位玩得愉快。
+
+
+视频截图：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190410/1554873150_242307.jpg	https://img.3dmgame.com/uploads/images/news/20190410/1554873169_112360.jpg	https://img.3dmgame.com/uploads/images/news/20190410/1554873169_419033.jpg	https://img.3dmgame.com/uploads/images/news/20190410/1554873170_288771.jpg	https://img.3dmgame.com/uploads/images/news/20190410/1554873170_726372.jpg	https://img.3dmgame.com/uploads/images/news/20190410/1554873171_433148.jpg	</imageurl><videourl>https://player.youku.com/embed/XNDEzMjA0MzYwMA==?client_id=5a73c0df8eb0d91d	</videourl></doc>

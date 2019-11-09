@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019043759278</id><url>https://www.3dmgame.com/news/201904/3759278.html</url><title>Windows10五月更新：亮色主题 简化布局自带沙盒</title><datetime>2019-04-08 14:26:1</datetime><text>
+	日前Windows 10 19H1更新名称敲定为“Windows 10 May 
+2019”，并将于2019年5月下旬正式发布。显然微软并不希望重蹈Windows 10十月更新(Version 
+1809)的覆辙，因此拉长更新周期以更妥善的处理各种BUG，优化后台的性能和稳定性。在正式发布之前，外媒Windows 
+Lastest对即将到来的这个功能更新进行了全面的介绍。
+
+
+开发周期
+
+
+	Windows Insider项目成员是从去年开始获得Windows 10 May 2019 Update (version 1903, 
+codenamed 19H1)更新，如果不出意外的话，最早有望在下周进入Release Preview通道。
+
+
+	Release 
+Preview通道是正式面向全球用户发布前的最后一个通道，也就是说完成这个通道的测试微软就会正式发布新版本。为此公司已经开始将部分的开发重心朝着下个功能更新--Windows 
+10 20H1方向发展，公司计划会比预期更早向Fast通道用户发送Insider预览版本更新。
+
+
+
+
+
+	微软的Brandon LeBlanc表示：“伴随着Windows 10 May 2019即将进入Release 
+Preview通道，我们计划在近期内面向Fast通道用户发送20H1版本更新。我们还计划将部分启用Skip Ahead选项的Windows 
+Insider用户合并到Fast通道中。我们希望会在未来几周内完成这些改变。”
+
+
+	伴随着微软将Windows 10系统当做一项服务进行研发之后，每年定期会获得两个功能更新。截止目前，Windows 
+10系统已经获得了6个功能更新，分别为
+
+
+	● Windows 10十一月更新(Version 1511)
+
+
+	● Windows 10周年更新(Version 1607)
+
+
+	● Windows 10创作者更新(Version 1703)
+
+
+	● Windows 10秋季创作者更新(Version 1709)
+
+
+	● Windows 10四月更新(Version 1803)
+
+
+	● Windows 10十月更新(Version 1809)
+
+
+	正如你所看到的，目前微软正在调整功能更新的发布计划。Windows 10五月更新(Version 
+1903)没有选择以往常规的4月份，而是更加严谨的放在了5月下旬。
+
+
+新版亮点
+
+
+Light Theme(亮色主题)
+
+
+	当前，Win10所有版本的默认主题中，开始菜单、任务栏、操作中心等都是灰黑色打底、加之部分半透效果。新的亮色主题则将上述元素改为淡淡的乳白色，包括壁纸也同步提亮，显得更加有活力。注意，升级后亮色效果并不会默认生效，需要进入设置-个性化-颜色中，将Windows 
+Mode改为“亮(Light)”。
+
+
+
+
+
+	尽管所有科技公司都将开发重心放在Dark Theme(黑暗主题)的开发上，但是微软根据消费者的反馈提供了另个方向的改进。
+
+
+
+
+
+全新的Cortana和搜索体验
+
+
+	在Windows 10十月更新(Version 
+1809)在内的此前版本中，微软深度整合了搜索和Cortana语音助手功能。用户可以通过Cortana来执行搜索文档等简单任务，同样在搜索功能中也集成了某些数字助手的功能。在今天发布的博文中，微软强调分离搜索和Cortana，允许公司引入更多的新功能，并且为两者都带来改善。
+
+
+
+
+
+开始菜单改进
+
+
+	● 提升开始菜单的可靠性
+
+
+	目前开始菜单由“Windows Shell 
+Experience主机”托管，该进程负责处理开始菜单、任务栏透明度、弹出窗口等关键功能的图形元素。不过在Windows 10 
+19H1中，开始菜单不再依靠这项进程，而是使用自己的进程，名为“StartMenuExperienceHost”。
+
+
+
+
+
+	● 快速从开始菜单上取消固定群组和文件夹
+
+
+	有时候我们想要获得全新的操作体验，在过去数周我们邀请部分用户测试通过右键菜单允许在开始菜单中取消固定群组和文件夹。而今天我们面向所有Fast通道用户开放这项功能，希望收集更多的反馈资料。
+
+
+
+
+
+	● 简化开始布局
+
+
+	正如下方截图所示，开始菜单的布局得到了进一步的简化，采用更时尚的单列设计并减少了一级磁贴(top-level tiles)的数量。
+
+
+	基于用户反馈，微软为新设备、新用户账号和纯净安装设备引入了简化的默认开始布局。全新布局简化为单列设计，并减少了一级磁贴的数量。对于IT管理员来说这并不需要担忧，商业和教育客户也会看到针对这些场景量身定制的简化布局。
+
+
+
+
+
+	配合此前做出的调整：包括卸载其他收件箱应用、以及更方便的取消固定文件或者磁贴群组，简化开始布局的目的就是为了提升消费者的使用体验。
+
+
+Reserved Storage
+
+
+	Windows 10 19H1重要的改进之一就是Reserved Storage。保留存储空间的目的是为Windows 
+Update和临时文件留出大约7GB的磁盘空间。
+
+
+
+
+
+	正如本周早些时候微软所强调的，Reserved Storage是指分配给系统以下载必要更新文件的部分空间。保留的磁盘空间将帮助确保所有Windows 
+10设备都可以无缝升级到新版本。
+
+
+	在Windows 10 十月更新或者更早版本中，如果没有足够的空间，Windows Update可能会失败。而在19H1中，Reserved 
+Storage就是确保Windows 10设备能够正确执行更新过程。
+
+
+Windows Sanbox
+
+
+	Windows Sandbox是全新的轻量级桌面环境，是专门为安全运行应用程序而量身定制。
+
+
+	你是否曾下载了某个可执行文件，却对是否运行非常犹豫?你是否曾出现要完全纯净安装Windows系统，但又不想设置虚拟机的情况?
+
+
+	至少在微软内部经常遇到这种情况，因此微软开发了 Windows 
+Sandbox，这是一个完全独立的桌面环境，让你可以在其中运行不受信任的软件，而不必担心会对您的设备造成持久影响。
+
+
+	Windows Sandbox中安装的任何软件仅保留在沙箱中，不会影响您的主机。关闭Windows 
+Sandbox后，将永久删除包含其所有文件和状态的所有软件。
+
+
+	Windows Sandbox拥有以下属性：
+
+
+	● 原生集成至Windows
+
+
+	Windows 10专业版和企业版原生包含该功能的所有文件，不需要下载VHD。
+
+
+	● 纯净
+
+
+	每次Windows Sandbox运行时，它都像Windows的全新安装一样干净
+
+
+	● 一次性
+
+
+	设备上没有任何预装内容。在关闭应用程序后，一切都将被丢弃
+
+
+	● 安全
+
+
+	使用基于硬件的虚拟化进行内核隔离，依赖于Microsoft Hypervisor运行单独的内核，将Windows Sandbox与主机隔离开来
+
+
+	● 高效
+
+
+	使用集成的内核调度程序，智能内存管理和虚拟GPU
+
+
+	如果想要安装Windows 
+Sandbox，请转至设置&gt;应用程序&gt;应用程序和功能&gt;程序和功能&gt;打开或关闭Windows功能，然后选择启用Windows沙箱。要启动Windows 
+Sandbox，请打开“开始”菜单，输入Windows Sandbox，然后选择它。
+
+
+
+
+
+	Windows Sandbox遵循主机诊断数据设置。所有其他隐私设置都设置为其默认值。如果想要了解更多信息，可以访问Windows Kernel 
+Internals中的Windows Sandbox。
+
+
+Windows 10 “活动时间检测”(Intelligent Active Hours)
+
+
+	Windows Update 服务已允许用户暂停更新、或者根据“活动时间检测”(Intelligent Active 
+Hours)功能来判断，以避免打断用户忙碌的工作。启用这项设置，可让 Windows 知晓何时避免重启设备。该功能有一定的挑战性，但 build 18282 
+已能够根据设备的活动时间来自动调节。
+
+
+
+
+
+	有需要的用户可进入‘设置 -&gt; 更新和安全 -&gt; Windows Update -&gt; 
+更改活动时间’启用此设置，以避免造成生产力的中断。
+
+
+资源管理器的改善
+
+
+	● 更新资源管理器图标
+
+
+	根据用户的反馈，微软更新了资源管理器的图标，使其更加契合Light主题。现在的资源管理器图标是这样的：
+
+
+
+
+
+	● 更新默认下载文件夹的排序
+
+
+	在通常情况下，当用户下载文件并不会在下载之前对文件名称进行修改。因此，这使得这些下载文件总是容易忘记(例如cake_134_small_red.jpg)，这使得按照名称排序方式并不太理想，很难找到自己想要寻找的文件。所以微软更新了默认排序方式为时间，列表顶部会显示最近下载的文件。
+
+
+可删除内置应用
+
+
+	升级后的结果还是相当令人满意的，你会发现很多内置应用的右键菜单里，都多出了一项“卸载”功能。当然这里的卸载仅限于一般应用，至于Edge、应用商店就别想了，毕竟会牵涉到Win10的很多底层功能。
+
+
+Windows Update调整
+
+
+	2019年5月更新还将允许Windows 10用户控制他们如何获得功能更新。此前微软对于Windows 
+10的升级工作一直较为激进，希望积极地将这些更新推送到机器上，确保消费者使用最新版本的操作系统。不过这一切即将更改：2019年5月更新现在将允许您选择何时安装最新的主流版本。在没有设置升级策略前，Windows 
+10用户将能够只使用现有版本并继续接收每月安全更新，从而避免最新的功能更新。
+
+
+
+
+
+	微软还允许Windows 10 
+Home和Pro用户暂停功能和每月更新长达35天，并且它会引入用户活动检测特性，以便操作系统可以检测到您何时仍在使用PC，因此更新无法安装，也就不会有烦恼。 
+Windows更新对于Windows 10用户来说是一个特别的痛点，微软显然正在倾听用户的声音并提供更多选择，接下来Windows 
+10仍然会有提示让人们获得最新的功能更新，但不会立即强制更新。
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190408/1554702957_354994.jpg	https://img.3dmgame.com/uploads/images/news/20190408/1554702964_504274.jpg	https://img.3dmgame.com/uploads/images/news/20190408/1554702971_616754.jpg	https://img.3dmgame.com/uploads/images/news/20190408/1554702977_605534.png	https://img.3dmgame.com/uploads/images/news/20190408/1554702996_468336.png	https://img.3dmgame.com/uploads/images/news/20190408/1554703005_618115.jpg	https://img.3dmgame.com/uploads/images/news/20190408/1554703012_119446.jpg	https://img.3dmgame.com/uploads/images/news/20190408/1554703018_225522.jpg	https://img.3dmgame.com/uploads/images/news/20190408/1554703026_269594.jpg	https://img.3dmgame.com/uploads/images/news/20190408/1554703033_430775.jpg	https://img.3dmgame.com/uploads/images/news/20190408/1554703039_229774.jpg	https://img.3dmgame.com/uploads/images/news/20190408/1554703046_234762.jpg	https://img.3dmgame.com/uploads/images/news/20190408/1554703052_982407.jpg	</imageurl><videourl /></doc>

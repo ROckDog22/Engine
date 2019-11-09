@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018073740054</id><url>https://www.3dmgame.com/news/201807/3740054.html</url><title>国产x86处理器Dhyana开始生产 只是AMD的IP授权</title><datetime>2018-07-09 11:14:2</datetime><text>由芯片制造商海光(Hygon)负责制造的中国国产Dhyana(禅定)x86处理器开始启动生产。值得注意的是，这款芯片是根据AMD  Zen微架构开发的。AMD将x86的IP授权给中国合作伙伴，Dhyana正是合作的结果。
+
+从官方声明看，AMD并没有将最终芯片设计出售给中国伙伴，而是允许合作伙伴为中国服务器市场设计自己的芯片。
+Dhyana处理器与AMD  EPYC处理器很相似，Linux内核开发者指出，二者只是厂商ID与产品序列号有所不同。事实上，Linux维护者甚至将EPYC支持代码转移到Dhyana处理器，发现可以成功运行，由此说明两款处理器差异很小。
+几十年来，x86架构一直由英特尔、AMD和威盛(VIA)控制。2016年，AMD宣布在中国设立合资公司，开发处理器。AMD将从中获得2.93亿美元现金，当时AMD财务陷入困境，已经连续6个季度出现运营亏损。另外，AMD还会获得特许权使用费，根据销量计算，一旦处理器开始生产就会获得收入。
+芯片国产化是中国的长远目标，AMD授权协议会带来怎样的帮助，现在还不知道。事实上，之前兆芯半导体也曾与威盛签署合作协议，它正在生产x86芯片。不论怎样，摆脱对海外的依赖才是最终目标。
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180709/153_180709111359_1_lit.jpg	</imageurl><videourl /></doc>

@@ -1,0 +1,77 @@
+
+.body{
+    background-image:url("/statics/rss_html/image/a.webp");
+    /*backgrount-size:cover:*/
+    background-repeat:no-repeat ;
+    background-size:100% 100%;
+    background-attachment: fixed;
+}
+.nava{
+    padding-left: 2em;
+}
+
+@media (max-width: 767px) {
+    .markdown-body {
+        padding: 15px;
+    }
+}
+.search-input {
+    font-size: 30px;
+    font-weight: 400;
+    box-sizing: border-box;
+    width: 760px;
+    height: 72px;
+    padding-right: 24px;
+    padding-left: 80px;
+    transition: all ease .3s;
+    opacity: 1;
+    color: #fff;
+    border: solid 2px #fff;
+    border-radius: 3px;
+    outline: 0;
+    background-color: rgba(255,255,255,.3);
+    background-image: url(/statics/rss_html/image/icon-search.svg);
+    background-repeat: no-repeat;
+    background-position: 24px center;
+    box-shadow: #aaa 0 0 4px;
+}
+
+.search-input1 {
+    font-size: 10px;
+    box-sizing: border-box;
+    width: 240px;
+    height: 3em;
+    padding-right: 24px;
+    padding-left: 8px;
+    transition: all ease .3s;
+    opacity: 1;
+    color: #fff;
+    border: solid 2px #fff;
+    border-radius: 3px;
+    outline: 0;
+    background-color: rgba(255,255,255,.3);
+    box-shadow: #aaa 0 0 4px;
+}
+
+.c-abstract {
+    font-size: 13px;
+}
+
+
+div#doc {width:800px}
+
+.pz{
+   padding-left: 2em;
+    margin-left:40px;
+}
+
+.foot{
+
+}
+
+
+.imgbox{
+/*body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {*/
+    margin: 0;
+    padding: 0;
+}

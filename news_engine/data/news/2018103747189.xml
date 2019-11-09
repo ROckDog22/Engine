@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018103747189</id><url>https://www.3dmgame.com/news/201810/3747189.html</url><title>《刺客信条：奥德赛》CPU负载问题并非因为D加密</title><datetime>2018-10-13 19:05:3</datetime><text>
+	MOD制作者Kaldaien曾为《尼尔：机械纪元》《怪物猎人：世界》《最终幻想15》等大作的PC版制作过许多精彩MOD，目前他正在制作《刺客信条：奥德赛》的MOD，已经放出了最初的版本。而根据他的开发经验，PC版《刺客信条：奥德赛》以及去年的《起源》中出现的CPU负载过高问题并非因为采用的D加密技术。
+
+
+
+
+
+	据介绍，PC版出现的CPU负载过高问题主要是因为游戏的驱动器过载，根本原因是游戏引擎对硬件资源的管理。因为游戏引擎给材质贴图分配的资源太少，结果就出现反复加载、清空、再加载相同材质贴图素材的情况。可能在一个小时的时间里，同一个材质素材会被加载清空上千次。
+
+
+	而令人哭笑不得的是，Kaldaien指出，对于SSD用户，遭遇的CPU占用会高于HDD用户。硬盘速度越高，CPU负载也越高。
+
+
+	“应该会很容易修复。显然，制作组更专注于主机版，因为PC的存储设备速度更高，比如我的NVMe 
+SSD硬盘。你的硬盘速度越高，CPU核心越多，就越有可能遭遇意料之外的性能噩梦。”
+
+
+	目前Kaldaien发布的第一版“SpecialK”MOD可以为《刺客信条：奥德赛》开启“备用任务调度（Alternate Task 
+Scheduling）”从而增加无用线程的休眠，加入“重平衡间隔（Re-Balance Interval）”为Ryzan CPU解决Windows的CPU 
+bug，防止75%的游戏线程都被规划到一个CPU核心上，还加入了“多媒体类调度（Multimedia Class Scheduling 
+）”，智能调节资源管理线程，减少非资源类加载任务对CPU的影响。
+
+
+	感兴趣的玩家可以下载这款优化MOD：https://steamcommunity.com/app/812140/discussions/0/1728711392736767063/
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20181013/1539428704_463911.jpg	</imageurl><videourl /></doc>

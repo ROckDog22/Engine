@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019033757890</id><url>https://www.3dmgame.com/news/201903/3757890.html</url><title>PS4模拟器Orbital终于可以看到PS4界面了</title><datetime>2019-03-20 08:13:5</datetime><text>
+	不知道各位还记得我们3DM曾经报道过的PS4模拟器Orbital吗？在这款模拟器第一次露面时，仅仅可以进入安全模式，现在Orbital的开发进度有了新的进展，虽然还是不能打开任何游戏，不过至少让我们首次看到了PS4系统界面的错误信息。
+
+
+
+
+
+	PS4模拟器Orbital的开发者透露，经过上次更新，使用Vulkan重新实现了大部分PS4 GPU图形流水线，并将AMD GCN字节码重新编译为spiro - v。这最终允许我们“看到”5.00系统固件下PS4的安全模式菜单。目前，只能看到一个CE-343XX错误，这表明PS4硬盘出现故障。这个问题是预料之中的，因为测试在没有有效的HDD映像的情况下启动了PS4。在未来，安全模式菜单将在首次启动Orbital时发挥重要作用。使模拟器工作的过程将类似于在实际PS4控制台中替换硬盘。
+
+
+
+
+
+	想要通过模拟器运行PS4游戏，应还有很远的一段路要走。
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190320/1553040947_193229.jpg	https://img.3dmgame.com/uploads/images/news/20190320/1553040794_293808.jpg	https://img.3dmgame.com/uploads/images/news/20190320/1553040860_795543.jpg	</imageurl><videourl /></doc>

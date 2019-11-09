@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019093771229</id><url>https://www.3dmgame.com/news/201909/3771229.html</url><title>Win10 20H1新版推送：小娜独立 WSL支持ARM64位处理器</title><datetime>2019-09-12 13:11:0</datetime><text>
+	明年Windows 10第一轮正式更新似乎已经定名Windows 10 May 2020 Update(Windows 10 
+2020年更新五月版)，看起来一切顺利的微软开发团队，也有条不紊地推进着迭代步伐。
+
+
+	本周，面向快速通道会员的Build 
+18980.1推送。开发日志中出现了vb_release的字样，其中“vb”代表的应该是20H1的内部开发代号“Vibranium(振金)”。
+
+
+
+
+
+主要变化如下：
+
+
+一、Cortana更新
+
+
+	Cortana以专属图标和独立APP的形式面向所有Insider会员开放，使用更加弹性，而非局限于任务栏。
+
+
+二、Windows Subsystem for Linux (WSL2)支持ARM64位处理器
+
+
+
+
+
+	目前Windows on ARM仅限高通平台，包括骁龙835、骁龙850和骁龙8cx等。
+
+
+三、优化添加可选功能界面
+
+
+	添加可选特性界面，如今支持搜索、排序和多选了
+
+
+
+
+
+	需要指出的是，正如“May 2020 Update”名字中锁暗示的那样，20H1正式版需要等到明年4、5月份才能转正了。
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190912/1568264981_315802.jpg	https://img.3dmgame.com/uploads/images/news/20190912/1568264987_791224.jpg	https://img.3dmgame.com/uploads/images/news/20190912/1568264993_241571.jpg	https://img.3dmgame.com/uploads/images/news/20190912/1568264998_939701.jpg	</imageurl><videourl /></doc>

@@ -1,0 +1,32 @@
+{% extends "content.html" %}
+{% block content%}
+<div id="header">
+            <form name="search" action="/html/imagesearch" method="get">
+                <img src="/html/statics/rss_html/image/Q.png" style="width: 3.5em;position: absolute;margin-top: -12px;padding-left:0.4em;">
+                <p style="padding-left: 2em;margin-left:40px;padding-top: 3px">
+
+                    {% if data.key %}
+                        <input name='wd'  type="search" class="search-input1" placeholder="搜索" value="{{data.key}}" autofocus>
+                    {% else %}
+                        <input  name='wd' type="search" class="search-input1" placeholder="搜索" autofocus>
+                    {% endif %}
+                </p>
+            </form>
+        </div>
+        <hr/>
+<div class="pz">
+            <p><a href="search?wd={{data.key}}">网页</a><a class="nava" href="imagesearch?wd={{data.key}}">图片</a>
+                <a class="nava" href="videosearch?wd={{data.key}}">视频</a></p>
+        </div>
+        <hr/>
+
+<div>
+    <div class="pz" >
+        {% for url in data.url_all %}
+        <a href="{{url}}" target="_blank" style="padding-right: 3px;margin-left: 3px;padding-top: 3px;margin-top: 3px; ">
+            <img src='{{url}}' style="background-color: rgb(200, 188, 152); width: 320px; height:180px;">
+        </a>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

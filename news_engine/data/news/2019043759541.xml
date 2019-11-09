@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019043759541</id><url>https://www.3dmgame.com/news/201904/3759541.html</url><title>熊孩子偷玩父亲的iPad 多次解锁失败后显示停用48年</title><datetime>2019-04-11 16:57:5</datetime><text>
+	上周，来自美国某杂志的特约撰稿人Evan 
+Osnos分享了自己的“惨痛”经历，自家3岁的顽皮小孩多次尝试解锁iPad但密码一直不对，导致屏幕最终显示“iPad已停用，请等待25536442分钟后再尝试”。
+
+
+	简单换算后可知，25536442分钟约等于48年还要多……
+
+
+	原来这基于iOS上的安全设定，主要目的是防止暴力破解。其机制是，在多次解锁尝试失败后会将设备锁定，随着解锁失败次数的累积，停用时间将加长。
+
+
+
+
+
+	当然，按照苹果官方的指导文件，遇到上述情况时，如果不愿意等(恐怕99%都不会)，那么最简单的解决办法就是连接iTunes后进入DFU重刷固件即可，只是如果先前数据没备份的话可就惨了，一切都将消失。
+
+
+	Osnos本周二表示，自己已经开始恢复iPad。
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190411/1554973024_813474.png	https://img.3dmgame.com/uploads/images/news/20190411/1554973037_287587.jpg	</imageurl><videourl /></doc>

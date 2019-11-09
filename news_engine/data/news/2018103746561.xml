@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018103746561</id><url>https://www.3dmgame.com/news/201810/3746561.html</url><title>Windows 10十月份更新现已上线 加入DX光线追踪支持</title><datetime>2018-10-03 16:04:3</datetime><text>
+	微软正式发布了Windows 10的十月份更新补丁，并在这款补丁中正式加入了DirectX 
+Raytracing（DXR）光线追踪技术。本次更新后，Win10系统将自动识别支持光线追踪功能的硬件，而且很快就将有第一波支持DXR光线追踪的游戏问世。
+
+
+
+
+
+	第一批支持DXR的游戏有《战地5》《古墓丽影：暗影》和《地铁：逃离》。
+
+
+	微软表示，第一批DXR游戏将等同于NVIDIA的RTX光线追踪技术，RTX将会让DXR以最高效率运行于NVIDIA硬件。（目前NVIDIA是唯一一家支持实时光线追踪的显卡厂商）
+
+
+	微软还表示他们在设计DXR的时候已经考虑到了硬件特性。
+
+
+	“我们将DXR呈现为类运算工作负荷，没有复杂的状态，我们相信这样的API能够经得起时间考验，并能与未来的GPU发展相适应。DXR工作负荷将自然适应未来的GPU流水线。”
+
+
+	Windows 10十月份更新档将采用渐进式覆盖，所以并不是所有用户都会在发布首日自动下载更新。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20181003/1538553867_262613.jpg	</imageurl><videourl /></doc>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018123752589</id><url>https://www.3dmgame.com/news/201812/3752589.html</url><title>Precious！虚幻引擎4实时生成《指环王》咕噜</title><datetime>2018-12-30 12:56:5</datetime><text>
+	3D美工Christian 
+Hecht分享了一段视频，展示了《指环王》中的经典角色咕噜在虚幻引擎4中实时生成的表现。这个3D模型十分精细，实时生成的画面几乎和电影里一模一样。
+
+
+
+
+
+	这是一个单人完成的项目，所以考虑起来还是非常惊艳的。同时这个项目也展示了虚幻引擎4的演算能力，我们并不清楚要想让这个场景达到60fps需要什么样的GPU，而且如此细节丰富的模型，也不知道是否能同时在屏幕上显示3到4个甚至更多。
+
+
+	另外需要注意的是，这只是实时生成的3D模型，反映了材质和光照效果，但却没有任何动作动画。我们都知道人物动画往往是成败关键，比如《质量效应：仙女座》。所以即使现在的GPU能够在虚幻引擎4里模拟这种程度，可能也无法真正在游戏中引用这样的模型。
+
+
+	但我们依然很高兴看到这样精彩的玩家自制技术演示视频。可能次世代游戏看上去就是这个样子吧。
+
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20181230/1546145785_927643.jpg	</imageurl><videourl>https://player.youku.com/embed/XMzk4ODkyMTkwOA==?client_id=5a73c0df8eb0d91d	</videourl></doc>

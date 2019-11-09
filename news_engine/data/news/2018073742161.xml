@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018073742161</id><url>https://www.3dmgame.com/news/201807/3742161.html</url><title>Chrome和Firefox浏览器优化：将降低内存占用</title><datetime>2018-07-29 14:33:1</datetime><text>
+	有不少用户还是对自己电脑中的内存盯得比较紧的，如果内存不足，系统会显著变慢。而平时大家使用频率最高的就是浏览器，所以浏览器厂商的内存优化就格外引人瞩目。
+
+
+
+
+
+	据外媒报道，Chrome v68后开始引入“Page Lifecycle 
+interface”，可以优雅地对不活动的后台网页进行“冻结”工作，从而节省出系统计算资源。
+
+
+	与此同时，Firefox也建立了“Fission MemShrink”项目，为渲染网页的100多个过程做优化，每一个流程的目标都是节省7MB内存。
+
+
+	不过，两种新的技术特性的实现并不是一蹴而就的。Chrome的“Page Lifecycle 
+interface”需要web开发者支持，以便浏览器智能地判断页面元素的优先级。
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20180729/1532845988_762241.jpg	https://img.3dmgame.com/uploads/images/news/20180729/1532845943_239170.png	</imageurl><videourl /></doc>

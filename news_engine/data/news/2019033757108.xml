@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019033757108</id><url>https://www.3dmgame.com/news/201903/3757108.html</url><title>Chrome用户注意：应尽快升级浏览器到72.0.3626121</title><datetime>2019-03-09 08:17:4</datetime><text>
+	谷歌已经确认最近Google 
+Chrome的更新是用来修补流行浏览器中的0day漏洞，这是一种可被用于主动攻击的漏洞，官方建议macOS，Windows和Linux上的所有Chrome用户尽快更新其安装。3月1日发布的Chrome补丁包含一个安全漏洞修复程序，标识为CVE-2019-5786。
+
+
+
+
+
+	本次更新仅修复了该问题而未对浏览器进行其他更改，可见问题相当迫切，最新版本在三个平台上都已经是72.0.3626121。
+
+
+	安全漏洞影响了Chrome的所有桌面版本，但对于Windows用户来说尤其如此，浏览器的漏洞被主动用作对Windows的更复杂攻击的一部分。
+
+
+	谷歌更新了该补丁的公告，明确表示Chrome的攻击方法已经“在外流传”。 Google Chrome安全主管贾斯汀·舒赫（Justin 
+Schuh）向Twitter发布了有关该漏洞存在的建议并建议用户使用新补丁更新浏览器。
+
+
+	该漏洞主要源于Chrome的FileReader 
+API存在内存管理错误，该错误允许网络应用读取桌面上的本地文件。具体来说，当Web应用程序尝试访问已从Chrome分配的内存中释放或删除的内存时，这是一个称为“释放后使用”漏洞的内存错误，该漏洞使恶意代码能够被执行。
+
+
+	Google威胁分析小组的Clement Lecigne被认为是发现该漏洞的研究人员。Google Chrome for 
+iOS不受安全漏洞的影响。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190309/1552090568_838507.png	</imageurl><videourl /></doc>

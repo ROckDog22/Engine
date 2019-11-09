@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019033756596</id><url>https://www.3dmgame.com/news/201903/3756596.html</url><title>Wii U模拟器CEMU最新版本面向出资者开放下载</title><datetime>2019-03-02 09:29:2</datetime><text>
+	Wii U模拟器CEMU的开发小组公布了最新版本1.15.3，目前已面向所有出资者开放下载，预计3月7面向全网公开。
+
+
+
+
+
+	这个最新版本的CEMU将加入新的着色器着色器缓存载入画面，在适配高分辨率显示，优化了材质载入和多线程JIT重编译功能，支持多核编译器。
+
+
+	此外，本次更新还加入了多种GX2 
+API功能的优化，修复了材质代码访问造成的随机崩溃，修复了GPU缓存准确度设置为“高”时出现的崩溃，增加了可储存材质从材质缓存中丢弃时的等待时间。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190302/1551490045_819277.jpg	</imageurl><videourl>https://player.youku.com/embed/XNDA4MjgyODk2NA==?client_id=5a73c0df8eb0d91d	https://player.youku.com/embed/XNDA4MjgyMTAxMg==?client_id=5a73c0df8eb0d91d	https://player.youku.com/embed/XNDA4MjgxOTQzNg==?client_id=5a73c0df8eb0d91d	https://player.youku.com/embed/XNDA4MjgyNDcxMg==?client_id=5a73c0df8eb0d91d	https://player.youku.com/embed/XNDA4MjgyNDY4MA==?client_id=5a73c0df8eb0d91d	https://player.youku.com/embed/XNDA4MjgxOTQ0MA==?client_id=5a73c0df8eb0d91d	https://player.youku.com/embed/XNDA4MjgzMTY0OA==?client_id=5a73c0df8eb0d91d	</videourl></doc>

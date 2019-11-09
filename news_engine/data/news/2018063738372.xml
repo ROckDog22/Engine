@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018063738372</id><url>https://www.3dmgame.com/news/201806/3738372.html</url><title>微软将提前结束部分Windows 7电脑的更新功能</title><datetime>2018-06-25 06:16:2</datetime><text>前不久，微软悄然关掉了官方论坛Windows 7分版的支持，也就是不再有工作人员上线收集和回应坛友的反馈。在距离2020年1月结束Windows 7外延支持越来越近、Windows 10升级推广压力很大的情况下，微软再次对一些Win7设备“下手”。
+据SoftPedia报道，3月份，微软发布了Win7月度补丁KB4088875，从这个补丁开始，那些不支持SSE2指令集的PC电脑就开始遭遇更新报错问题。
+SSE2即Streaming SIMD Extensions 2，即数据流单指令多数据扩展指令集。Intel是从Willamette核心的Pentium 4开始支持SSE2指令集的，而AMD则是从K8架构的SledgeHammer核心的Opteron开始才支持SSE2指令集的。
+此前微软表态会修复，结果在6月份再次发布更新时，直接来了一句“请将你的处理器升级为支持SSE2指令集的型号”。
+换言之，那些在正用奔腾3处理器+Win7或者更老的电脑将无法安装安全补丁了，虽然这类用户的数量应该非常稀少……
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180625/174_180625061442_1_lit.jpg	https://img.3dmgame.com/uploads/allimg/180625/174_180625061435_1_lit.jpg	</imageurl><videourl /></doc>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018103746930</id><url>https://www.3dmgame.com/news/201810/3746930.html</url><title>微软双屏仙女座设备的更多线索出现在互联网上</title><datetime>2018-10-10 03:48:2</datetime><text>
+	在10月2日举行的活动中，微软公布了包括Surface耳机在内的新设备，但该公司传言的仙女座双屏设备尚未推出。微软首席产品设计师Panos
+Panay最近透露，他的宝贝是一个便携式Surface设备，他的声明表明该项目正在进行中。
+
+
+	一些Andromeda参考文献最近在为AndromedaOS明确制作的新语言包中被发现，微软观察者WalkingCat现在遇到了更多这样的线索。根据Walking Cat的说法，“大多数Andromeda内置应用程序和CShell组件都有一个字符串资源：”占位符“，最有趣的是，Desktop
+Composer有这样的文本：”PlaceHolder for Phone Composer“。
+
+
+	还提到了Windows.UI.ViewManagement.SystemTray，它似乎是指电话界面上状态栏的CShell版本。Andromeda可能是ARM64设备，Andromeda驱动程序中的hal.inf_loc文件表明Andromeda操作系统将驱动ARM64设备。微软的双屏Windows 10设备也可能基于ARM64。另外，在语言包中发现的引用表明Andromeda设备也可以用作手机。
+
+
+
+
+
+
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20181010/1539114489_418510.jpg	https://img.3dmgame.com/uploads/images/news/20181010/1539114489_986225.jpg	https://img.3dmgame.com/uploads/images/news/20181010/1539114489_987369.jpg	</imageurl><videourl /></doc>

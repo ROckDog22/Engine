@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019073767073</id><url>https://www.3dmgame.com/news/201907/3767073.html</url><title> NVIDIA《阿波罗十一号登月》技术演示 光追特效全开</title><datetime>2019-07-20 15:38:0</datetime><text>
+	去年，NVIDIA公布了一段《阿波罗十一号登月》技术演示程序，展示了当时的光线追踪技术。今天，NVIDIA决定对这个技术演示程序进行增强，加入最新的实时光线追踪RTX技术，并展示了一批实际截图。
+
+
+
+
+
+
+	NVIDIA介绍，在这个最新的技术演示中，屏幕上的每一个像素点都是由光线追踪演算生成的，每一条光线都通过实时追踪，真实地演算了从光源到镜头的全过程，与所有折射、反射的物体进行不遗漏细节的互动。
+
+
+	通过实时光线追踪，NVIDIA成功再现了太阳光的路径，从着陆器的后面照射，在月球表面上发生反射，与着陆器进行复杂的互动，最后形成奇怪的月面阴影，甚至还演算了宇航服与月面之间的光影互动。
+
+
+	如此复杂精确的运算无疑需要非常强大的算力，估计想在实际游戏中看到至少要等到2020年末次世代主机问世以后了吧。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190720/1563608154_597421.jpg	https://img.3dmgame.com/uploads/images/news/20190720/1563608154_455953.jpg	https://img.3dmgame.com/uploads/images/news/20190720/1563608155_321503.jpg	https://img.3dmgame.com/uploads/images/news/20190720/1563608155_777782.jpg	https://img.3dmgame.com/uploads/images/news/20190720/1563608155_648027.jpg	https://img.3dmgame.com/uploads/images/news/20190720/1563608156_887489.jpg	</imageurl><videourl>https://player.youku.com/embed/XNDI4MDE4OTcwNA==?client_id=5a73c0df8eb0d91d	</videourl></doc>

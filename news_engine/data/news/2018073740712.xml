@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018073740712</id><url>https://www.3dmgame.com/news/201807/3740712.html</url><title>《异形：殖民军》AI表现愚蠢 只因多打一个字母？</title><datetime>2018-07-14 16:58:1</datetime><text>
+《异形：殖民军》（Aliens: Colonial  Marines）当年因为AI太过于弱智招致了不少玩家的批评。当年我们看到了很多的GIF图片，说的都是一个主题，那就是这款游戏里的异形表现实在是太蠢了，这也正是玩家讨厌这款《异形》游戏的原因——之一。不过，最近有玩家发现，只需要在游戏的.INI配置文档里删除一个英文字母，本作的AI表现就会提升很大一个档次。
+听起来不太可能对吧?但这确实是真真切切的，MOD作者jamesdickinson963发现了这个问题。不知什么原因，在本作配置文档里的AI路径出现了拼写错误，在玩家自己修复这个问题的话，异形们的表现就会聪明很多。
+MOD作者表示：
+在游戏的配置文档中（路径My Document\My Games\Aliens Colonial  Marines\PecanGame\Config\PecanEngine.ini）有如下代码：
+ClassRemapping=PecanGame.PecanSeqAct_AttachXenoToTether -&gt;  PecanGame.PecanSeqAct_AttachPawnToTeather
+可能已经有人发现了拼写错误，应该是：
+ClassRemapping=PecanGame.PecanSeqAct_AttachXenoToTether -&gt;  PecanGame.PecanSeqAct_AttachPawnToTether
+修复这个问题之后，游戏里异形的表现就瞬间机灵了起来！
+为什么这行代码这么重要呢?有两个原因
+1、AttachXenoToTether并没有什么作用，应该是空置内容
+2、AttachPawnToTether极为重要，控制着异形的战术位置调整、巡逻和目标区域
+当异形生成的时候，会设定一个区域范围。这个区域会告诉异形在哪个空间战斗，在哪里撤退。战斗中，异形会被迫切换区域范围，比如绕后或侧袭，或者分散攻击不至于被一网打尽（不过这只是根据代码的推测）
+其实2017年10月就有一个AI大修MOD推出，改动的就是这一小部分，只是当时大家不知道原理。
+现在应该没有多少玩家还在玩《异形：殖民军》了，不过我们至少可以知道这个游戏原本可以表现得更好。
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180714/154_180714165753_1_lit.jpg	</imageurl><videourl /></doc>

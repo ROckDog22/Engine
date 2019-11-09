@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019083769136</id><url>https://www.3dmgame.com/news/201908/3769136.html</url><title>Windows Defender在反病毒测试中获得“完美”的评级</title><datetime>2019-08-15 20:30:1</datetime><text>
+	是不是一直嫌Windows Defender很烦? 自从Windows 
+8开始微软将他们自家的防病毒软件整合进系统之后，就一直被用户所诟病，什么杀毒效果不明显、在后台占用大量CPU资源和硬盘读写时间等等各种各样的小毛病影响着用户体验。
+
+
+
+
+
+	不过最近在德国的著名独立杀毒软件测试机构AV-Test于今年6月份进行的“针对Windows家庭用户最佳的反病毒软件”的测试中，Windows 
+Defender与其他三款反病毒软件一起获得了6/6的满分成绩，另外三款分别是F-Secure SAFE、卡巴斯基以及诺顿。与其他三款不同的是，Windows 
+Defender是随系统免费提供的，这可以说是它最大的优势。而其他免费反病毒软件的表现要比Windows 
+Defender要稍微差一些，知名的AVG和Avast都是差一点拿到满分。
+
+
+	AV-Test的结果显示，Windows 
+Defender在307个zero-day漏洞中达成了100%的拦截率，在2428个病毒样本的综合性测试中也达到了100%的识别率。该软件对系统整体的性能影响也比较小，看来微软近几年在提高Windows 
+Defender的用户体验上面没有少下功夫。
+
+
+	前不久微软的副总裁Brad Anderson也在Twitter上宣布Windows 
+Defender目前已经成为了企业中最常用的防病毒软件，同时在AV-Test针对企业用户的测试中，虽然没有拿到满分的成绩但也取得了非常好的成绩。
+
+
+	微软正在计划将Windows Defender改名为Microsoft Defender，并会在明年初正式推出的Windows 
+1020H1版本上面正式实装这项更改。并且之前的Microsoft Defender 
+ATP解决方案将Microsoft的防病毒方案扩展到了包括macOS、Android、iOS以及Linux的几乎全平台上面。
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190815/1565872116_608159.jpg	https://img.3dmgame.com/uploads/images/news/20190815/1565872128_878908.png	</imageurl><videourl /></doc>

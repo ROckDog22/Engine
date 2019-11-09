@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018073739233</id><url>https://www.3dmgame.com/news/201807/3739233.html</url><title>A卡用户翻身！WiiU模拟器CEMU将支持Vulkan API</title><datetime>2018-07-02 09:56:3</datetime><text>最近，WiiU模拟器CEMU的开发团队向一部分核心用户公布了接下来即将推出的新版（1.13.0）所增加的新功能。根据该消息透露，CEMU 1.13.0将会解决多款游戏的画面BUG，而且最重要的是他们已经开始研究使用Vulkan API了，这意味着游戏的模拟效率将显著增强，而且A卡用户将有机会得到比N卡更加的模拟效率。
+1.13.0版CEMU采用全新的Texture Rewrite预计将解决《塞尔达传说：旷野之息》、《猎天使魔女2》等一系列游戏贴图错误问题，而且在此基础上还将提升游戏的运行速度。
+CEMU团队还将在今后的几周或者一个月内公布有关加入Vulkan API支持的技术细节，目前可以确定的是之前使用的游戏缓存文件可以继续兼容Vulkan API。
+除了全新的Texture Rewrite和Vulkan API支持之外，1.13.0版CEMU还将带来自制程序的支持！如此一来，玩家可以使用模拟器运行海量来自爱好者开发的WiiU自制程序了。
+目前，1.13.0版CEMU还没有准确的发布时间。
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180702/303_180702095436_1_lit.jpg	https://img.3dmgame.com/uploads/allimg/180702/303_180702095436_2_lit.jpg	https://img.3dmgame.com/uploads/allimg/180702/303_180702095436_3_lit.jpg	</imageurl><videourl /></doc>

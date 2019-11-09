@@ -1,0 +1,19 @@
+{% extends "content.html" %}
+{% block content%}
+<div class="pz">
+            <p><a href="search?wd={{data.key}}">网页</a><a class="nava" href="imagesearch?wd={{data.key}}">图片</a>
+                <a class="nava" href="videosearch?wd={{data.key}}">视频</a></p>
+        </div>
+        <hr/>
+
+<div>
+    <div class="pz" >
+        {% for url in data.url_all %}
+        <a href="{{url}}" target="_blank" style="padding-right: 3px;margin-left: 3px;padding-top: 3px;margin-top: 3px; ">
+        </a>
+        {% endfor %}
+<!--        <iframe  src='https://player.youku.com/embed/XNDM3Njk2NDQwMA==?client_id=5a73c0df8eb0d91d' height="180" width="320" allowfullscreen></iframe>-->
+        <iframe height=500 width=880 src='https://player.youku.com/embed/XMzg0MDkyNTQ5Mg==?rel=0&amp;autoplay=1' frameborder=0 allowfullscreen></iframe>
+    </div>
+</div>
+{% endblock %}

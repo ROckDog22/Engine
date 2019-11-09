@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018073740572</id><url>https://www.3dmgame.com/news/201807/3740572.html</url><title>任天堂Switch疑似已在固件升级中封堵破解版漏洞</title><datetime>2018-07-13 11:29:1</datetime><text>
+今年早些时候，国外破解组织发现了任天堂Switch主机的漏洞，可以加以利用并在所有版本的主机上运行任意代码。这个bug被命名为“Fusée  Gelée”，利用的是NVIDIA Tegra  X1的USB恢复模式中的代码来实现，绕过了保护bootROM的关键机制来运行自制程序。利用这个bug之后，用户就可以在Switch上运行破解版游戏。
+之前我们报道过，在现有机型上无法通过补丁来封堵这个漏洞（市面上有超过1500万台使用Tegra  210的任天堂Switch机型，均可以使用自制固件，因此未来有可能看到破解版Switch的大范围传播），但任天堂并不打算只通过芯片升级来进行硬件保护而放弃之前的这上千万台Switch。据称在市面上的一些原版在售机型中已经附带了解决这个问题的补丁。国外Switch硬件破解者SciresM发布推特称使用Nvidia  Tegra的部分零售版机型已经尝试对Fusée Gelée这个bug进行了保护。
+最早发现这个漏洞的破解者Kate  Temkin也发布推特称这些打补丁的主机并不像是Mariko（从硬件层面上封堵漏洞的升级版Switch）机型，因为它们自带的固件是4.1而非5.0。
+SciresM还表示任天堂可能已经从系统上用补丁封堵了破解者使用USB恢复模式的漏洞。“友情提醒：如果你想破解Switch，就不要升级。”他在推特中写道，“版本越低越好。这个道理是通用的。”
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180713/154_180713112852_1_lit.jpg	</imageurl><videourl /></doc>

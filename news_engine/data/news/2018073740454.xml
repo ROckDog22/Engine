@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018073740454</id><url>https://www.3dmgame.com/news/201807/3740454.html</url><title>Adobe Flash强推中国特供版：公然收集用户隐私</title><datetime>2018-07-12 15:18:2</datetime><text>虽然各个平台已经纷纷表示放弃支持过时的Adobe  Flash技术，就连官方自己也表示将在2020年后停止更新，但现在国内环境特殊，很多地方还是离不开它。而最近Adobe  Flash在国内又曝出了强制推广中国特供版并收集用户隐私的丑闻。
+今年5月份，Adobe与中国软件代理商思杰马克丁达成合作，就引发热议，因为这家代理商恶名由来已久，被很多人视为“行业毒瘤”，从软件破解转型正版代理后，种种行为都让人难以接受，比如把软件强行变为试用版、篡改软件数字签名和版权信息……
+尽管如此，Flash  Player国内版本之前的行为还不算过分，顶多就是捆绑一些插件、上网导航，都能理解，用户还可以通过切换国外IP的方式安装原版。
+
+但是现在不一样了，Flash  Player会检测用户所在地区，如果国内用户安装了非本地版本，就会提示不兼容，无法运行，然后强制要求重新安装一个特殊版本。
+查询可知，这个国内特供版的Flash Player来自重庆重橙网络科技有限公司，也是与Adobe有合作的。
+该版本的特殊之处在于，安装后会强行运行一个名为FlashHelperService的服务，看名字和帮助服务有关，但其实会强行搜集用户隐私。
+
+Adobe给出的用户协议里也明确写着，Flash  Player使用过程中，重橙可能会搜集用户的上网信息，并强调已经获得用户明确授权，对用户个人数据和上网信息的披露表违约行为，甚至不能保证用户数据的损失。
+
+但颇为值得玩味的是，在被曝光后，Adobe和重橙迅速修改了用户协议，长长的隐私声明精简为仅仅一段话，只是说“在不涉及侵犯用户个人隐私的前提下，  程序可能会记录用户如何使用本程序的信息和用户使用本程序的相关数据”。
+
+如果你不想提心吊胆地安装和使用这个国内特供版Adobe Flash  Player，也有个版本，那就是在系统的区域和语言设置里，改为“中文(简体，新加坡)”。
+
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180712/154_180712151705_1_lit.jpg	https://img.3dmgame.com/uploads/allimg/180712/154_180712151715_1_lit.jpg	https://img.3dmgame.com/uploads/allimg/180712/154_180712151722_1_lit.png	https://img.3dmgame.com/uploads/allimg/180712/154_180712151731_1_lit.png	https://img.3dmgame.com/uploads/allimg/180712/154_180712151738_1_lit.jpg	</imageurl><videourl /></doc>

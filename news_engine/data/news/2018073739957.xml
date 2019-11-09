@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018073739957</id><url>https://www.3dmgame.com/news/201807/3739957.html</url><title>《巫师3》最新毛发MOD：在60FPS之下也能正确显示</title><datetime>2018-07-08 14:47:4</datetime><text>
+MOD作者BlurredNotions发布了《巫师3》的新MOD，修复了在60fps环境下的头发物理问题。根据描述，该MOD“修复”了在游戏帧率高于30fps的时候杰洛特的头发动画效果不正常的问题。
+值得一提的是，该MOD支持所有的发型（包括DLC发型），说明原本不支持毛发技术的发型也将受益。MOD作者表示目前该MOD还不完美，但基本上能让在60fps之下的头发动画效果接近30fps时的效果。
+
+为了达到60fps的效果，BlurredNotions降低了在游戏中所有发型的毛发素材文档中的nodeMasses变量数值。
+感兴趣的玩家可点此下载60fps毛发物理MOD。用winrar解压后将其拷入《巫师3》安装目录里的mods文件夹下即可，也可使用《巫师3》Mod管理器进行安装。
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180708/154_180708144725_1_lit.jpg	https://img.3dmgame.com/uploads/allimg/180708/154_180708160949_1_lit.jpeg	</imageurl><videourl /></doc>

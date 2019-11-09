@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018063738786</id><url>https://www.3dmgame.com/news/201806/3738786.html</url><title>爱好者用N卡做密码破解机 每秒可试327亿个NTLM</title><datetime>2018-06-28 10:03:5</datetime><text>GPU具有强大的并行计算能力，这对于密码破译可谓是个天然好帮手，所以显卡挖矿才会在2017年那么火。其实不谈挖矿，仅仅利用显卡做成密码破解机也是不错的选择。
+
+Black Hills分享了使用四张GTX 1080 Ti和四张GTX 1070分别打造出两套密码破解机的过程。
+第一套破解机完全是从0搭建的，CPU用的是i7-6800K，主板华硕X99，内存芝奇的64GB(4x16GB)，散热器MasterAir Pro  4，Rosewill 1600W电源、三星850 EVO 500GB固盘，总计花费5110美元。
+第二套破解机使用GTX 1070替换此前的AMD 290X，总花费1600美元。
+
+在基于16.04 LTS环境下，用Hashcat 3.5测试后，四路GTX 1080 Ti的破解速度是208GH/s NTLM，GTX  1070机器是119 GH/s NTLM，也就是合计达到每秒可试32700000000个NTLM hash密码。
+NTLM  hash最常见的例子就是Windows登陆密码，比如用户可见的是test123，但系统最终经过MD4加密后的NTLM字符串其实是c5a237b7e9d8e708d8436b6148a25fa1。
+
+对比Sagitta公司做的Brutalis密码破解机(双路Intel Xeon E5 2600v4+8张N卡)334  GH/s的水平要好一些，而它的价格可是要2.1万美元。
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180628/153_180628100251_1_lit.jpg	https://img.3dmgame.com/uploads/allimg/180628/153_180628100251_2_lit.png	https://img.3dmgame.com/uploads/allimg/180628/153_180628100251_3_lit.png	</imageurl><videourl /></doc>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018083744173</id><url>https://www.3dmgame.com/news/201808/3744173.html</url><title>光线追踪是第二个PhysX？NV工程师出面解释</title><datetime>2018-08-27 21:38:4</datetime><text>
+	NVIDIA的Realtime Ray Tracing（实时光线追踪）技术公布后，引发赞叹的同时也有争议，同时PhysX也被拿出来作比，对此，NVIDIA 
+PhysX团队的成员Pierre 
+Terdiman在博客做了详解和回应。
+
+
+	PhysX未开启和开启后对比：
+
+
+
+
+
+	先说下背景资料，PhysX是NVIDIA提出的物理引擎技术，将原来由CPU负责的物理模拟计算交由有专门加速芯片的GPU来处理，极大节省CPU的负担同时还能将物理运算效能成倍提升，带来更加符合真实世界的物理效果。
+
+
+	可惜自2010年开始，NVIDIA宣布只允许在自家显卡上使PhysX技术，导致后续支持的IP寥寥。
+
+
+	Terdiman表示，很多人都误解了，PhysX的代码已经提交到了GitHub上，事实上，Unity和Unreal引擎的默认物理引擎就是PhysX，换言之，不仅游戏数量海量，还出现在了N多平台，包括但不限于PC、Xbox、PS4、Switch等等。
+
+
+	Terdiman强调，PhysX并不是大家狭义理解的《无主之地》中的物理加速特效，而是一种常见的以CPU计算为基础的物理引擎。《堡垒之夜》中有PhysX，《收获日2（PayDay 
+2）》中也有PhysX。
+
+
+	之所以NV官网上列出的PhysX游戏数量并不多也有深层原因。首先是NV已经完成PhysX的并将其开源，任何人都可以下载使用，NV也并不要求使用了PhysX代码的项目都标出LOGO。他说，目前PhysX维护团队人非常少，没有精力去追踪和更新全部的PhysX技术IP。
+
+
+	至于将实时光线追踪比作PhysX的更是无稽之谈，因为前者很多年前就出现了，且长期出现在电影特效中。
+
+
+	Terdiman指出，光线追踪并非NVIDIA的专利，只是NV有一套基于微软DXR 
+API的算法。你总不能责怪，NVIDIA没有将这套算法移植到AMD硬件上吧。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20180827/1535376884_197575.jpg	</imageurl><videourl /></doc>

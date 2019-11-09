@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018063739032</id><url>https://www.3dmgame.com/news/201806/3739032.html</url><title>报告：数千款iOS/Android应用泄露了113 GB数据</title><datetime>2018-06-29 22:34:3</datetime><text>移动安全公司Appthority发布报告称，由于Firebase数据库配置错误，导致数千款iOS和Android应用程序泄露了超过113  GB的数据。
+Firebase是谷歌提供的“后端即服务”(Backend-as-a-Service)产品，其中包含了大量发服务，旨在方便移动开发人员创建基于这些服务的移动或Web应用。
+
+
+Firebase在顶级Android开发者中颇受欢迎，因为它可以提供云消息、推送通知、数据库、分析、广告，以及其它更多后端和API，允许开发者轻松地将其整合到自己的项目中  。
+但今年年初以来，Appthority扫描了270多万款使用了Firebase系统的移动应用(App)，发现了28502款应用将数据存储在Firebase的后端。  其中，Android应用占27227款，iOS应用占1275款。
+在这28502款应用程序中，3046款应用程序将数据存储在2271个错误配置的Firebase数据库中，允许任何人公开查看。  其中，Android应用程序占2446款，iOS程序占600款。
+整体而言，Firebase泄露的用户数据总量为113 GB，其中包括260万个明文密码和用户账号，400万条聊天记录，2500万个GPS位置信息，  50000条金融交易记录(包括银行、支付和比特币交易)，以及450万条Facebook、LinkedIn、Firebase和企业数据存储用户令牌。
+Appthority在报告中还称，有2446款泄露用户数据的程序在Google  Play应用商店中的下载量超过6.2亿次，这些应用程序涵盖工具、生产力、健身、通信和财务等类别。
+Appthority指出，该漏洞可能给企业造成的潜在风险是极大的，因为62%的企业在其移动环境中至少拥有其中一款受影响的应用程序。
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180629/369_180629223322_1_lit.png	</imageurl><videourl /></doc>

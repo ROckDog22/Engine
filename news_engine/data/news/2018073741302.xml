@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018073741302</id><url>https://www.3dmgame.com/news/201807/3741302.html</url><title>微软展示Windows窗口去掉1像素边框后的效果图</title><datetime>2018-07-20 02:50:5</datetime><text>多年来，微软的设计语言已经发生了许多变化，这些变化因为个人喜好的不同各有评价。然而，这一次，我们谈论的是Windows 10围绕窗口边缘的1px边框。窗口边缘周围的1px边框是Windows 10设计中令不少人最讨厌的元素，一直以来在审美上争议不断。
+微软最近更新了他们的NavigationView控件文档，新文档展示了控件如何工作的一些截图。除了控件本身，屏幕截图还有一个漂亮的窗帘周围的阴影，是 - 没有1px边框。
+屏幕截图只是一个模拟效果，但它让我们仔细研究了它的外观，您是否感觉得到，没有边框的Windows窗口似乎要在某个时间点发生。
+实际上，在最近的Redstone 5版本中，微软已经摆脱了许多UWP控件边缘的1px边框，例如上下文菜单和对话框，而是被替换为阴影。
+
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180720/174_180720024938_1_lit.png	</imageurl><videourl /></doc>

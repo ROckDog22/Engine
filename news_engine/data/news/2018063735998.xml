@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018063735998</id><url>https://www.3dmgame.com/news/201806/3735998.html</url><title>苹果将弃用OpenGL 部分开发商或放弃macOS平台</title><datetime>2018-06-06 19:44:5</datetime><text>苹果在前不久举行的WWDC上鼓励开发商使用Metal 2图形技术替换OpenGL，这可能导致部分开发商抛弃macOS平台。
+在近期举行的WWDC18开发者大会上，苹果推出了最新的Metal 2图形技术，并鼓励开发者采用这一技术更新他们的macOS平台游戏。尽管macOS  10.14 Mojave仍提供了OpenGL和OpenCL的应用程序的支持，但根据外媒Apple  Insider的报道，部分游戏开发商表示，未来将不再为macOS平台推出游戏作品。
+
+
+部分开发商已经宣布拥抱Metal技术，其中包括《魔兽世界》、《尘埃》、《杀出重围：人类分裂》等，因为给游戏提供跨平台的游戏支持对于他们来说不是大问题。但一些小型开发商认为，这对于跨平台移植非常不友好，要同时支持两种API将会耗费大量的精力。
+尽管苹果目前仍然提供了对OpenGL的支持，但报道称其或许会在将来完全将OpenGL从macOS中删除。这一点已经有所预兆，macOS 10.13  High Sierra系统中使用的OpenGL是2010年发布的3.3版本，而不是使用2017年发布的4.6版本。
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180606/369_180606194319_1_lit.jpg	</imageurl><videourl /></doc>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019043760786</id><url>https://www.3dmgame.com/news/201904/3760786.html</url><title>《真人快打11》PC版MOD 支持带鱼屏、移除锁30帧限制</title><datetime>2019-04-29 08:15:0</datetime><text>
+	《真人快打11》虽然获得了媒体的一致好评，但本作PC版完全是另外一回事了，令人想起了华纳兄弟之前发行的《蝙蝠侠：阿卡姆骑士》。目前Steam上《真人快打11》的玩家好评率只有54%，大部分是因为优化问题和其他缺点所致。幸运的是，这是PC版，当官方解决速度太慢的时候，一些技术大神能通过MOD自己解决问题。
+
+
+
+
+
+	国外MOD作者Endri 
+Lauson制作了一个MOD，为本作PC版加入了宽屏（21：9）显示器支持，同时还移除了游戏默认在开场动画、菜单、致命打击、死亡和krypto模式下的锁30帧限制。
+
+
+如何使用：
+
+
+	解压和打开FpsCapRemover_by_Endri_v1.001.exe
+
+
+	打开游戏
+
+
+	按F11，移除30帧限制，开启60帧
+
+
+	按F10移除黑边
+
+
+已知问题：
+
+
+	如果杀毒软件报警不要慌。这是因为这个程序的性质，导致杀毒软件报假警;
+
+
+	如果你退出了游戏，在重进前必须关闭这个MOD，然后再打开MOD
+
+
+	Krypt模式优化太差了，即便是高配置的PC也无法实现60fps，所以不要期待这个模式下有太大的帧数提升（除非你的配置非常高），不过还是比官方好一点
+
+
+	MOD下载地址：https://www.mediafire.com/file/171cdlmcl5xybbp/FpsCapRemover_by_Endri_v1.001.zip/file
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190429/1556496833_261030.jpg	</imageurl><videourl /></doc>

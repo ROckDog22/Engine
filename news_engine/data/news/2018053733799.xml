@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018053733799</id><url>https://www.3dmgame.com/news/201805/3733799.html</url><title>微软杀毒出幺蛾子！关闭这个开关立马Win10不卡</title><datetime>2018-05-22 20:41:5</datetime><text>最新版Win10 RS5将原来的Windows Defender升级为Windows安全中心，无法自动禁用，那么为了不让他占用系统资源，怎么才能将它关闭呢？
+几天前，微软向快速通道（Fast Ring）用户推送了最新版Win10 RS5预览版，版本号为Build 17672。相比上一版Build  17666大量新功能的加入，这一版则显得温和很多，唯一的变化就是…电…脑…又…变…卡…了！！！
+
+
+前几期，我们曾经介绍过几招让Win10不卡的方法，但正应了那句话，道高一尺、魔高一丈，这些套路竟然在Build  17672中不管用了。那么，到底是什么导致了Win10 RS5 Build 17672比以前更卡了呢?这还得从17672的更新列表说起。
+和上一版相比，Win10 RS5 Build 17672的一个最明显改变，就是将原来的Windows  Defender升级为Windows安全中心。
+
+
+微软对于该变化的解释是，如果你的电脑中安装了第三方杀软，那么就必须作为一个受保护的进程注册运行，否则将不会出现在安全中心的UI界面中。简单来说，Windows  Defender将无法自动禁用，而是会和三方杀软肩并肩实时运行。
+看到这里或许很多小伙伴已经明白了，之前Windows 10尽管内置了Windows  Defender这样的安全组件，可一旦检测到系统安装了第三方杀软后，会自动停止运行来为电脑预留资源。不过17672则不同，无论系统中是否安装了第三方杀软，Windows  Defender仍会继续运行。换言之，你的电脑上会同时工作着两款实时监控软件，这才是导致电脑大幅变慢的主要原因。
+
+
+知道了原因，那么该如何关闭它呢?
+1、点击“开始”→“设置”→“更新和安全”→“Windows安全中心”，打开Windows安全中心;
+2、点击“主页”→“病毒和威胁防护”，关闭“实时保护”;
+
+
+3、Cortana搜索框中输入“regedit”启动注册表编辑器;
+4、定位到以下路径“计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Security  Center\Feature”，然后在右侧栏空白处右击鼠标，新建一个DWORD（32）值，重命名为“DisableAvCheck”并赋值为“1”;
+
+
+5、同样的操作，继续在“计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows  Defender”下新建DWORD（32）值，并重命名为“DisableAntiSpyware”（同样赋值为“1”）;
+重新启动电脑，这时Windows Defender便被彻底关闭掉了，而系统速度也就恢复正常了。
+</text><imageurl>https://img.3dmgame.com/uploads/allimg/180522/369_180522204007_1_lit.jpg	https://img.3dmgame.com/uploads/allimg/180522/369_180522204020_1_lit.jpg	https://img.3dmgame.com/uploads/allimg/180522/369_180522204027_1_lit.jpg	https://img.3dmgame.com/uploads/allimg/180522/369_180522204036_1_lit.jpg	https://img.3dmgame.com/uploads/allimg/180522/369_180522204042_1_lit.jpg	</imageurl><videourl /></doc>
