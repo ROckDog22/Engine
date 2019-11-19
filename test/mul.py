@@ -1,24 +1,33 @@
-import unittest
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-
-class PythonOrgSearch(unittest.TestCase):
-
-    def setUp(self):
-        self.driver = webdriver.Firefox()
-
-    def test_search_in_python_org(self):
-        driver = self.driver
-        driver.get("http://www.python.org")
-        self.assertIn("Python", driver.title)
-        elem = driver.find_element_by_name("q")
-        elem.send_keys("pycon")
-        elem.send_keys(Keys.RETURN)
-        assert "No results found." not in driver.page_source
+from tqdm import tqdm
+from bs4 import BeautifulSoup
+import xml.etree.ElementTree as ET
+import requests
+import configparser
+import concurrent
+from concurrent.futures import ThreadPoolExecutor
+import re
+Heads = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36",
+}
 
 
-    def tearDown(self):
-        self.driver.close()
+if __name__ == '__main__':
+    root = 'http://wufazhuce.com/article/'
+    try:
+        html = requests.get(root+'166', headers=Heads)
+    except Exception as e:
+        print("-----%s: %s-----" % (type(e), root))
 
-if __name__ == "__main__":
-    unittest.main()
+    html.encoding = 'utf-8'
+    soup = BeautifulSoup(html.text, 'lxml')
+    try:
+        text = soup.find('div', class_="one-articulo")
+        title = text.find('h2', class_='articulo-titulo')
+        author = text.find('p', class_='articulo-autor')
+        text = text.find('div', class_='articulo-contenido')
+    except Exception as e:
+        print("-----%s: %s" % (type(e), root))
+
+    else:
+        content = text.text
+        print(text)

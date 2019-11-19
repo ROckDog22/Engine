@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>みさか みこと</title>
+    <link rel="stylesheet" href="/html/statics/rss_html/css/main.css">
+</head>
+<body class="body">
+    <div id="container">
+        <div id="header">
+            <form name="search" action="/html/textsearch" method="get">
+                <img src="/html/statics/rss_html/image/Q.png" style="width: 3.5em;position: absolute;margin-top: -12px;padding-left:0.4em;">
+                <p style="padding-left: 2em;margin-left:40px;padding-top: 3px">
+
+                    {% if data.key %}
+                        <input name='wd'  type="search" class="search-input1" placeholder="搜索" value="{{data.key}}" autofocus>
+                        <!--<input type="text" name="wd" value="{{data.key}}">-->
+                    {% else %}
+                        <input  name='wd' type="search" class="search-input1" placeholder="搜索" autofocus>
+                        <!--<input type="text" name="wd">-->
+                    {% endif %}
+                    <!--<input type="submit" value="搜索" style="opacity: 0.5">-->
+                </p>
+            </form>
+        </div>
+        <hr/>
+        <div class="pz">
+            <p><a href="search?wd={{data.key}}&page={{data.page}}">新闻</a>
+                <a href="textsearch?wd={{data.key}}&page={{data.page}}" class="nava">文章</a>
+                <a href="imagesearch?wd={{data.key}}" class="nava">图片</a>
+                <a href="videosearch?wd={{data.key}}" class="nava">视频</a></p>
+        </div>
+        <hr/>
+        {% if data.new_cw is not none %}
+        <div class="pz">
+            <span >请问要搜索</span> <a style="font-weight: bold">{{ data.new_cw }}</a>
+        </div>
+        {% endif %}
+        {% if data.doc is none %}
+        <div class="pz">
+            <span style="font-size: 2.5em">404 找不到你要搜索的网页</span>
+        </div>
+        {% else %}
+            {% for mes in data.doc %}
+            <div id="doc" style="padding-left: 2em">
+                <ul id="navigation">
+                    <p><a ata-click="{'F':'778317EA','F1':'9D73F1E4',
+			'F2':'4CA6DF6B',
+			'F3':'54E5243F',
+			'T':'1571495376',
+						'y':'FFCF31DF'}"
+                          href="{{mes.doc.url}}" target="_blank"><em>{{mes.doc.title}}</em></a>&nbsp;&nbsp;&nbsp;{{mes.doc.datetime}}</p>
+
+                    <p class="c-abstract">{{mes.doc.text}}<br/></p>
+
+                    <p>
+                    <a href="{{ mes.doc.url }}" target="_blank">{{mes.doc.url}}</a>
+                    </p>
+                </ul>
+            </div>
+            <br/>
+            {% endfor %}
+		<div class="pz">
+            <tbody >
+            <tr>
+                <td><a href="textsearch?wd={{data.key}}&page={{data.page}}">{{data.page}}</a> </td>
+                <td><a href="textsearch?wd={{data.key}}&page={{data.page+1}}">{{data.page+1}}</a> </td>
+                <td><a href="textsearch?wd={{data.key}}&page={{data.page+2}}">{{data.page+2}}</a> </td>
+                <td><a href="textsearch?wd={{data.key}}&page={{data.page+3}}">{{data.page+3}}</a> </td>
+                <td><a href="textsearch?wd={{data.key}}&page={{data.page+4}}">{{data.page+4}}</a> </td>
+                <td><a href="textsearch?wd={{data.key}}&page={{data.page+5}}">{{data.page+5}}</a> </td>
+                <td><a href="textsearch?wd={{data.key}}&page={{data.page+6}}">{{data.page+6}}</a> </td>
+                <td><a href="textsearch?wd={{data.key}}&page={{data.page+7}}">{{data.page+7}}</a> </td>
+            </tr>
+            </tbody>
+        </div>
+        {% endif %}
+		<div id="footer">
+			<hr>
+            &copy; 2019 <a href="http://blog.laoding.online/" target="_blank">blog.laoding.online</a>
+        </div>
+
+    </div>
+</body>
+</html>

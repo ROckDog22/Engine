@@ -66,8 +66,8 @@ def create_text():
         label = text[i + seq_length]
         X.append([char_to_n[char] for char in sequence])
         Y.append(char_to_n[label])
-    string_mapped = X[19]
-    print(string_mapped)
+    string_mapped = X[99]
+
     full_string = [n_to_char[value] for value in string_mapped]
     X_modified = np.reshape(X, (len(X), seq_length, 1))
     X_modified = X_modified / float(len(characters))
@@ -89,4 +89,4 @@ def create_text():
         txt = txt + char
     print(txt)
 if __name__=="__main__":
-    create_text()
+    train()

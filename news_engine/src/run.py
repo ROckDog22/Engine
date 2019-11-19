@@ -125,7 +125,75 @@ async def string_handler(request):
         data['doc'].append(xml_parse)
     return await template('search.html', data=data)
 
+@app.route('/html/textsearch')
+async def string_handler(request):
+    N = 4056
+    wd = request.args.get('wd')
+    page = request.args.get('page')
+    if page is None:
+        page = 1
+    page=int(page)
+    search = jieba.lcut_for_search(wd)
+    search = list(set(search))
+    c_wd = correct.txt_correction(wd)
+    data_all = None
+    tf = {}
+    # one problem
 
+    for zzz in search:
+        sql = "select count(*) c from postings_text where term='%s'" % zzz
+        count = await app.db.query(sql)
+        if count[0]['c'] == 0:
+            search.remove(zzz)
+
+    #我要计算每个单词求和
+    for eve in search:
+        sql = "select * from postings_text where term='%s'" % eve
+        data_all = await app.db.query(sql)
+        data = data_all[0]['docs'].split('\n')
+        idf = data_all[0]['id']
+        score = np.log(N / idf)
+        for i in data:
+            i = i.split('\t')
+            # logger.info(len[0]['length'])
+            if i[0] in tf:
+                tf[i[0]] += score * score * np.log(int(i[2]) + int(np.e))   # tf
+            else:
+                tf[i[0]] = score * score * np.log(int(i[2]) + int(np.e))   # tf
+
+    for name,vo in tf.items():
+        sql1 = "select length from text_len where id='%s'" % name
+        length = await app.db.query(sql1)
+        tf[name] = vo / length[0]['length']
+
+    if not data_all:
+        data = {}
+        data['key'] = wd
+        data['page'] = page
+        data['new_cw'] = c_wd
+        data['doc'] = None
+        return await template('search.html', data=data)
+
+    # 对字典里的数据将序排列
+    new_tf = sorted(tf.items(), key=lambda x: x[1], reverse=True)  # 按字典集合中，每一个元组的第二个元素排列。
+    # x相当于字典集合中遍历出来的一个元组。
+    data = {}
+    data['key'] = wd
+    data['new_cw'] = None
+    if c_wd != wd:
+        data['new_cw'] = c_wd
+    data['doc'] = []
+    data['page'] = page
+    new_tf = new_tf[(page-1)*10:page*10]
+    for doooo in new_tf:
+        id = doooo[0]
+        with open(config['DEFAULT']['text_dir_path'] + id+".xml")as f:
+            root = f.read()
+        xml_parse = xmltodict.parse(root)
+        if len(xml_parse['doc']['text'])>300:
+            xml_parse['doc']['text'] = xml_parse['doc']['text'][0:300]+"......"
+        data['doc'].append(xml_parse)
+    return await template('text.html', data=data)
 
 @app.route('/html/imagesearch')
 async def string_handler(request):
