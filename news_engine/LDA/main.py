@@ -74,7 +74,7 @@ def fun():
         ax.set_ylabel(u"概率",fontproperties=myfont)
         for j in range(num_show_term):
             ax.text(j, item_dis[j, 1], word[j], bbox=dict(facecolor='green', alpha=0.1),fontproperties=myfont)
-    plt.suptitle(u'10个主题及其7个主要词的概率', fontsize=18,fontproperties=myfont)
+    plt.suptitle(u'10个主题及其8个主要词的概率', fontsize=18,fontproperties=myfont)
     plt.show()
 
 if __name__ == '__main__':
