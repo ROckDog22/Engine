@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019033757386</id><url>https://www.3dmgame.com/news/201903/3757386.html</url><title>外媒实锤《全境封锁2》在DX12上运行更流畅</title><datetime>2019-03-13 11:27:4</datetime><text>
+	今年1月育碧技术总监Calle 
+Lejdfors声称，相比于DX11，《全境封锁2》在DX12上运行效果会更好。近日，外媒Dsogaming决定测试下这种说法是否属实，一起来看看测试的具体内容。
+
+
+
+
+
+	此次用于测试的软/硬件为：英特尔i7 4930K(超频4.2Ghz)，16GB DDR3 内存条(2133MHz)，英伟达 RTX2080Ti，win10 
+64位操作系统以及GeForce 419.35驱动。
+
+
+	粗看《全境封锁2》在DX11和DX12之间的运行效果差别不是很明显。在DX11的运行环境下，使用最高配置和2560*1440分辨率时的平均帧数为87帧，GPU占用率为91%，CPU占用率为64%。而在DX12的运行环境下，平均帧数高达94帧，同时GPU与CPU的占用率分别为93%和65%。
+
+
+
+
+
+
+
+
+	从上面的数据来看，DX11和DX12运行环境下的差别不大，但其中隐藏了一个巨大差异，那就是最低帧数。在游戏的某些场景中，DX11环境下的游戏性能受到了限制。
+
+
+
+
+
+	在特定场景中，DX11运行环境下的帧数为59fps，但在DX12下却高达80fps，如此说来DX12运行环境下比DX11高出了20多帧。从这一点就可以看出DX12的优越性。
+
+
+
+
+
+	外媒表示之前他们已经告知玩家：DX11限制了很多PC硬件性能的发挥，尤其是它经常增加驱动程序开销，在AMD硬件上显得更严重，所以他们强烈建议AMD用户使用DX12而不是DX11。
+
+
+	现在外媒已经证实，《全境封锁2》在DX12上运行更流畅这一点。玩家们也可以想象下，如果在类似于《刺客信条：奥德赛》这样的游戏中使用DX12的话，运行效果会怎样?
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190313/1552447555_751415.jpg	https://img.3dmgame.com/uploads/images/news/20190313/1552447565_309118.jpg	https://img.3dmgame.com/uploads/images/news/20190313/1552447567_228419.jpg	https://img.3dmgame.com/uploads/images/news/20190313/1552447579_408441.jpg	https://img.3dmgame.com/uploads/images/news/20190313/1552447587_478147.jpg	</imageurl><videourl /></doc>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018113749210</id><url>https://www.3dmgame.com/news/201811/3749210.html</url><title>黑客找到Steam免费玩游戏bug V社奖励2万美元</title><datetime>2018-11-13 10:25:2</datetime><text>
+	最近一名自称是“bug猎人”的技术大神（黑客）Artem 
+Moskowsky在Steam上发现了一个漏洞，这个漏洞允许他为Steam上的任何游戏免费产生数千个cdkey。换做普通人，一般都会留着给自己偷偷用，但Moskowsky选择了上报给V社，为此V社奖励了他2万美元。
+
+
+
+
+
+	据外媒报道，Moskowsky是在今年8月发现了这个bug，并向V社反应，但V社最近才公开了这一消息。V社只是给他了2万美元奖赏，而不是一生免费游玩Steam所有游戏。
+
+
+	根据V社在bug赏金站点HackerOane上的总结，这个bug利用了Steam开发者工具问题。使用了“特殊参数”，任何可以使用这些工具的人都能让Steam产生不属于自己的游戏cd 
+key。
+
+
+	幸运的是，V社在调查报告中指出尚未发现这个bug有实际被滥用的证据。因为Moskowsky之前在科技杂志The 
+Register中表示，利用这个bug，他成功让Steam产生了3.6万个《传送门2》的cd key。
+
+
+	值得一提的是，Moskowsky在过去几个月以来一直在寻找Steam的各种bug，其中包括7月份的那个，为此获得了V社2.5万美元的奖励。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20181113/1542075857_138076.jpg	</imageurl><videourl /></doc>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019033758175</id><url>https://www.3dmgame.com/news/201903/3758175.html</url><title>xCloud如何向安卓手机串流Xbox游戏？微软如此解释</title><datetime>2019-03-23 16:23:0</datetime><text>
+	在今年的游戏开发者大会（GDC 2019）上，谷歌展示了自家的 Stadia 云游戏平台。但是微软那边，也在积极推进 xCloud 游戏串流服务。在昨日的会议上，来自 xCloud 团队的微软代表，向外媒详细介绍了为 Xbox 游戏主机设计的游戏，是如何转换到适用于移动设备的。对于玩家来说，蓝牙控制器或屏幕触摸控制，都会是一个不错的选项。
+
+
+
+
+
+	像 Stadia 一样，xCloud 旨在成为一种云游戏服务，可将高质量主机与 PC 级体验传输到任何屏幕。（需要指出的是，微软已经放弃了自家的 Windows 10 Mobile 手机平台）
+
+
+“在早期开发阶段，微软重点关注现有 Xbox 游戏库中的第一方作品，如《极限竞速：地平线 4》与 Android 手机的游戏串流。”
+
+
+	向移动设备串流游戏的一个难题，在于某些用户可能没有蓝牙手柄，所以只能借助触屏来操作。对于微软来说，这无疑是一项艰难的挑战。
+
+
+“据 xCloud 项目经理 Gus Apostol 所述，借助一套特定的 xCloud 开发工具（包括触控适配套件和微软云感知 API），开发者们无需完全重新构建他们的游戏。”
+
+
+	触摸适配套件（Touch Adaptation）旨在做好触屏操作与键鼠控制将的映射，而开发人员只需提供一个 JSON 或 JavaScript Object Notation 配置文件。
+
+
+“通过该文件进行配置的覆盖，即可让移植后的游戏在 iOS 或 Android 移动设备上轻松运行。当然，后端依赖于微软自家的 Azure 云平台。
+
+
+在 Azure 云平台的帮助下，开发者无需为移植游戏开发原生的触控控件，从而节省大量的代码工作。”
+
+
+	至于云感知 API，微软声称正在开发支持 xCloud 应用的功能。其中包括在较短的时间内，植入新保存的游戏状态。
+
+
+“此外，API 允许开发人员轻松调整视觉 UI，如文本易读性和菜单布局，以便它们在较小的屏幕上也能够更好地运作。”
+
+
+	对于当前的 xCloud 形式，我们还不太了解。至于何时开放 Alpha 和 beta 测试，仍有待进一步观察。
+
+
+“有趣的是，在谷歌的 Stadia 曝光后，Xbox 高管 Phil Spencer 发布了一份备忘录，然后又被泄露给了 Thurrott.com，表明微软正在密切关注云游戏领域的竞争”
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190323/1553329240_463175.jpg	https://img.3dmgame.com/uploads/images/news/20190323/1553329228_797829.jpg	</imageurl><videourl /></doc>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018093744912</id><url>https://www.3dmgame.com/news/201809/3744912.html</url><title>不完美移植 《勇者斗恶龙11》PC版性能表现分析</title><datetime>2018-09-07 16:55:5</datetime><text>
+	《勇者斗恶龙11》是一款回合制日式RPG游戏，这是喜欢这个类型游戏的玩家必玩之作。本作使用虚幻引擎4开发，人设依然由鸟山明制作，今天按照惯例来分享外媒DSOGaming对本作的PC版性能评测。
+
+
+
+
+
+	在这款PC版性能分析中，我们使用的是Intel i7 4930K（超频至4.2Ghz）、8GB内存、AMD Radeon RX580与RX Vega 
+64、NVIDIA GTX980Ti与GTX690，Windows 10 
+64位操作系统、最新版GeForce和催化剂驱动。NVIDIA并未针对本作发布SLI配置文档，意味着GTX690表现依然相当于单块GTX680。
+
+
+
+
+
+	史克威尔艾尼克斯在本作中提供的画质设置选项极少。PC玩家可以调整抗锯齿、后处理和阴影精度，另外还有屏幕百分比、帧率（30fps或60fps，玩家也可在C:\Users\username\Documents\My 
+Games\DRAGON QUEST 
+XI\Saved\Config\WindowsNoEditor文件夹下的GameUserSettings.ini文件中改变FrameRateLimit这一项的值来解锁帧率）和垂直同步的选择。可以调整的就这些。由于没有材质方面的选项，所以在一些截图中，玩家可以看到一些分辨率非常低的材质出现。
+
+
+
+
+
+	为了研究本作在不同CPU环境下的表现，我们模拟了双核与四核CPU环境。在CPU测试中，我们在第一座城市里进行了测试（此处NPC数量很多）。在不超线程的情况下，我们的双核CPU最少能达到34fps，平均为40fps。超线程启用之后，最低42fps，平均53fps。六核与模拟四核环境的表现类似，在探索城市的过程中帧率偶尔会掉到60fps以下。
+
+
+
+
+
+	之前说过，《勇者斗恶龙11》是用虚幻引擎4开发，在NVIDIA显卡上的表现比在AMD显卡上更佳。从图表上可以看到NVIDIA GeForce 
+GTX980Ti在本作中表现可与AMD Radeon RX Vega 
+64一较高下（在1080p、1440p和4K都存在显卡瓶颈，说明CPU并未影响结果）。不知AMD会否通过更新驱动来改善性能问题，但目前在这款游戏上，玩家最好还是使用N卡来游玩。
+
+
+
+
+
+	AMD Radeon RX Vega 64和NVIDIA GeForce 
+GTX980Ti都能在1080p下保障60fps。在1440p下会轻微掉到55fps，不过大部分时间这两块显卡都能保证流畅体验。4K分辨率下，两块显卡都能提供稳定的30fps体验。
+
+
+
+
+
+	画质方面，《勇者斗恶龙11》的艺术风格很赞，因此一看就感觉很棒。鸟山明的人设就不必多说了，场景设计风格也非常统一。不过有一些技术问题让人略感失望。游戏会有一些比较明显的物体错位问题，还充斥着大量的低分辨率材质。另外，游戏并不会提供键鼠操作提示，玩家必须记住对应的手柄按键才能使用键鼠来进行游戏。作为一款2018年的PC版游戏还不支持键鼠按键提示，诚意实在有些不足。不过游戏中没有鼠标加速和流畅度方面的问题，也就是说在操控方面没有大问题。这款游戏把ESC键设置为退出游戏，Z键打开菜单，实在让人不爽，移植痕迹明显。
+
+
+
+
+
+	总而言之，《勇者斗恶龙11》并不是一款完美的PC版移植游戏，没有什么画质选项可供调整，会有物体错位和低分辨率材质问题，没有正确的键鼠按键提示，优化方面也未达到最佳，特别是在A卡上。这并不是说本作是那种垃圾到没法玩的移植游戏，本作在大部分中档PC配置下可以流畅地运行，也不存在鼠标加速和流畅度问题，而且由于这是一款回合制游戏，就算没有按键提示，玩家也不至于手忙脚乱。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20180907/1536310448_558170.jpg	https://img.3dmgame.com/uploads/images/news/20180907/1536310454_553199.jpg	https://img.3dmgame.com/uploads/images/news/20180907/1536310474_678567.jpg	https://img.3dmgame.com/uploads/images/news/20180907/1536310482_962697.jpg	https://img.3dmgame.com/uploads/images/news/20180907/1536310489_532822.jpg	https://img.3dmgame.com/uploads/images/news/20180907/1536310496_373969.jpg	https://img.3dmgame.com/uploads/images/news/20180907/1536310504_870877.jpg	https://img.3dmgame.com/uploads/images/news/20180907/1536310512_404469.jpg	https://img.3dmgame.com/uploads/images/news/20180907/1536310513_361653.jpg	https://img.3dmgame.com/uploads/images/news/20180907/1536310513_626345.jpg	https://img.3dmgame.com/uploads/images/news/20180907/1536310513_414706.jpg	https://img.3dmgame.com/uploads/images/news/20180907/1536310513_169602.jpg	</imageurl><videourl /></doc>

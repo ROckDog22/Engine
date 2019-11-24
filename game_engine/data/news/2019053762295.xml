@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019053762295</id><url>https://www.3dmgame.com/news/201905/3762295.html</url><title>《全面战争：三国》PC性能表现分析 对显卡要求较高</title><datetime>2019-05-20 15:20:0</datetime><text>
+	《全面战争：三国》发售在即，近日外媒dsogaming针对这款游戏展开了性能测试，并发布了游戏性能报告，一起来看下具体情况。
+
+
+
+
+
+	此次外媒采用的PC软/硬件配置如下：Intel i7 4930K(超频至4.2Ghz)CPU、16GB DDR3内存(2133Mhz)、Radeon 
+RX580和RX Vega 64显卡、RTX 2080Ti、GTX980Ti和GTX690显卡以及Windows 10 64位操作系统。
+
+
+
+
+
+	此次《全面战争：三国》中为玩家们提供了诸多可供调节的画面设定选项，其中包括：贴图品质、材质贴图过滤效果、阴影效果、VFX、树木效果、作战单位效果、抗锯齿、地形地势效果、草的效果、建筑物效果、作战单位规模、后期调整效果和景深。此外，玩家还可以自行关闭/打开一些游戏特效，例如：屏幕空间反射、屏幕空间阴影、SSAO、Vignette、邻近衰减和锐化等设定。
+
+
+
+
+
+	在此次CPU性能测试下，外媒表示双核CPU即便开启了超线程也很难游玩该游戏，而此次内置了两个benchmark跑分工具，其中一个用于战斗场景，而另一个用于战役模式场景。外媒在经过测试之后发现两者跑分结果十分相似，而此次采用了用于战斗场景的benchmark跑分工具。
+
+
+	虽然该游戏目前仅支持DX11，但在开启了超线程之后，外媒发现6核CPU和模拟四核CPU环境下，该游戏都能流畅运行。而这款游戏最多只会用到6个CPU线程，在1280x720分辨率下并使用最高画质配置时，六核CPU的最低帧数为53帧，而平均帧数为76帧，游戏表现还是很出色的。
+
+
+
+
+
+	需要注意的是，在1920x1080分辨率下(使用最高画质配置)，《全面战争：三国》对显卡的要求却很高，在1080p下，外媒此次使用的Radeon 
+RX580显卡最低帧数仅为27帧，而平均帧数也只有30帧。即便是Radeon RX Vega 
+64也无法让游戏达到60帧，外媒表示，现在也只有RTX2080Ti显卡才能在这种情况下为玩家提供相对流畅的游戏体验。
+
+
+
+
+
+
+
+
+	而在2560×1440分辨率(使用最高画质配置)下，Radeon RX Vega 
+64显卡的最低帧数为29帧，平均帧数为33帧，同时RTX2080Ti显卡则达到了最低帧数50帧，平均帧数58帧的流畅度。不过，要是玩家使用了4K分辨率(使用最高画质配置)，即使RTX2080Ti显卡也只能提供30帧的游戏体验。
+
+
+
+
+
+	外媒表示从整体来看，《全面战争：三国》是一款比较吃显卡配置的游戏，但在CPU上要求似乎不是很高，玩家可以针对此次测试报告进行研究和对比，为之后的游戏体验做好准备。
+
+
+游戏截图：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190520/1558336605_725601.jpg	https://img.3dmgame.com/uploads/images/news/20190520/1558336615_863691.jpg	https://img.3dmgame.com/uploads/images/news/20190520/1558336623_972466.jpg	https://img.3dmgame.com/uploads/images/news/20190520/1558336646_948121.jpg	https://img.3dmgame.com/uploads/images/news/20190520/1558336646_381169.jpg	https://img.3dmgame.com/uploads/images/news/20190520/1558336647_635810.jpg	https://img.3dmgame.com/uploads/images/news/20190520/1558336648_230320.jpg	https://img.3dmgame.com/uploads/images/news/20190520/1558336742_171025.jpg	https://img.3dmgame.com/uploads/images/news/20190520/1558336744_834178.jpg	https://img.3dmgame.com/uploads/images/news/20190520/1558336745_563638.jpg	https://img.3dmgame.com/uploads/images/news/20190520/1558336746_972534.jpg	https://img.3dmgame.com/uploads/images/news/20190520/1558336748_361837.jpg	https://img.3dmgame.com/uploads/images/news/20190520/1558336749_678376.jpg	https://img.3dmgame.com/uploads/images/news/20190520/1558336752_543700.jpg	</imageurl><videourl /></doc>

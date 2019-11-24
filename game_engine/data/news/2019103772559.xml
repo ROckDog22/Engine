@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019103772559</id><url>https://www.3dmgame.com/news/201910/3772559.html</url><title>稳扎稳打 《噬血代码》PC版硬件性能分析</title><datetime>2019-10-01 10:34:5</datetime><text>
+	《噬血代码》是一款动漫风格动作RPG新作，一定程度上受到了《黑暗之魂》的启发。
+
+
+
+
+
+	本作采用虚幻引擎4打造，刚刚发售不久，外媒DSOGaming分析了它在PC上的性能表现，以下是文章全文：
+
+
+	本次PC性能表现分析使用的硬件配置是Intel i9 9900K CPU，16G DDR4 @3600Mhz内存，AMD Radeon RX580 / 
+RX Vega 64， NVIDIA RTX 2080Ti / GTX980Ti / GTX690显卡。使用Windows 10 
+64位系统，更新到GeForce 436.30和Radeon Software Adrenalin 2019 Edition 19.9.2 
+显卡驱动。NVIDIA并未为本作推出SLI配置文档，所以GTX 690的表现和GTX680差不多。
+
+
+
+
+
+	万代南梦宫为本作PC版提供了大量画面设定选项。玩家可以调整抗锯齿、后处理、阴影、纹理和特效，还可以调整绘图距离、SSAO、动态模糊、垂直同步、胶片颗粒感、材质和景深。
+
+
+
+
+
+
+
+
+	为了测试本作对多个CPU线程的利用率，我们分别模拟了双核、四核和六核CPU。我们遗憾地发现，《噬血代码》基本上只依赖一个CPU核心/线程。虽然它能利用最多4个CPU线程，但其中明显只有一个线程的负载最高。由于多核多线程的利用率问题，这款游戏并不能很好地利用多核CPU，所以对较老的多核CPU可能会造成影响。
+
+
+	好消息是，本作似乎并不需要顶尖CPU就能达到60fps。在1080p分辨率特效全开的配置下，采用模拟双核CPU就可以让游戏达到最低90fps，平均118fps的流畅度，开启超线程以后还会有进一步性能表现提升。
+
+
+
+
+
+	我们测试了较老的i7 4930K 
+CPU，虽然游戏对多线程的利用率不搞，但总体对CPU的依赖性也不强。虽然我们在1080p和1440p分辨率下都是CPU受限，但即便如此也能维持全程60fps以上。
+
+
+
+
+
+	《噬血代码》也不需要顶尖GPU，我们大多数显卡都能在1080p特效全开时流畅运行。而AMD Radeon RX580则可以维持全程80fps以上。
+
+
+
+
+
+	在2560×1440分辨率下，所有测试GPU也都能维持60fps。如果把分辨率调到最高的4K，则AMD Radeon RX Vega 
+64能接近60fps流畅体验，而NVIDIA RTX2080Ti则是依然毫无问题。
+
+
+
+
+
+	画面方面，《噬血代码》并没有什么特别惊艳的地方，作为一款虚幻引擎4打造的游戏，只能说是标准水平。游戏中有许多华丽的粒子效果，但也能看到一些物体表面的低品质材质。这是一款漫画画风的游戏，所以并没有追求极致逼真的光影效果，所以从影音体验的角度讲，是十分成功的。
+
+
+	总而言之，《噬血代码》在PC上的优化很好，不吃CPU也不吃GPU，目前的主流配置基本都能特效全开。虽然游戏没有提供视野角度滑杆，但我们也并没有遇到镜头视角的问题。所以可以说是一部稳扎稳打的作品。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20191001/1569897218_260837.jpg	https://img.3dmgame.com/uploads/images/news/20191001/1569897230_540183.jpg	https://img.3dmgame.com/uploads/images/news/20191001/1569897240_456901.jpg	https://img.3dmgame.com/uploads/images/news/20191001/1569897246_435091.jpg	https://img.3dmgame.com/uploads/images/news/20191001/1569897260_470195.png	https://img.3dmgame.com/uploads/images/news/20191001/1569897271_885370.png	https://img.3dmgame.com/uploads/images/news/20191001/1569897279_770542.png	https://img.3dmgame.com/uploads/images/news/20191001/1569897285_524939.png	</imageurl><videourl /></doc>

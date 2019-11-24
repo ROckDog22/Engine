@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019033757105</id><url>https://www.3dmgame.com/news/201903/3757105.html</url><title>外媒表示《鬼泣5》移除Denuvo后确实帧数有提升</title><datetime>2019-03-09 00:35:5</datetime><text>
+	不久前，DSOGaming报道目前网上有移除Denuvo加密的《鬼泣5》的可执行文件流出。虽然现在这款游戏的Denuvo加密已经被攻陷，但那些购买正版的Steam玩家还是可以下载这一无Denuvo的可执行文件来进行“更为流畅”的游戏。
+
+
+
+
+
+	有些用户表示确实没有Denuvo加密的鬼泣更加流畅，所以这里DSOGaming也给出了测试。网上的传言是这两个版本之间甚至有20帧左右的差距，但实际上根据测试大概有6-10帧的差距。另外这一区别在比较现代的配置上不是很明显，只有在老型号无Denuvo版效果更好。
+
+
+	不过不管怎么说6-10帧还是一个可视的差距。另外无Denuvo版读取速度也好一些。
+
+
+	玩家可以按照这一指南来替换文件：
+
+
+	1.打开Steam控制台
+
+
+	在浏览器里输入：“steam://nav/console”，这样可以看到Steam控制台。
+
+
+	2.下载无Denuvo可执行文件
+
+
+	在控制台下输入：
+
+
+	“download_depot 601150 601152
+8448614996291133808”
+
+
+	等待下载
+
+
+
+
+
+	3.覆盖文件
+
+
+	玩家可以在steam控制台文件夹下找到这一文件
+
+
+
+
+
+	然后去鬼泣5的文件下进行替换
+
+
+	4.如果游戏没有正常运行或者替换后有Bug可以使用steam的验证游戏文件完整性来恢复
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190309/1552062893_466570.jpg	https://img.3dmgame.com/uploads/images/news/20190309/1552062926_869342.jpg	https://img.3dmgame.com/uploads/images/news/20190309/1552062942_424667.jpg	</imageurl><videourl /></doc>

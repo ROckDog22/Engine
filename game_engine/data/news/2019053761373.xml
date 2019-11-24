@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019053761373</id><url>https://www.3dmgame.com/news/201905/3761373.html</url><title>微软决定在Windows10中发布一个完整的Linux内核</title><datetime>2019-05-07 16:47:4</datetime><text>
+	近年来，微软让Linux开发者社区的许多人都感到惊喜，包括在Windows中加入了Bash shell，在Win10中加入了本地OpenSSH，甚至在Windows商城中添加了Ubuntu、SUSE Linux和Fedora。而微软现在决定更进一步，计划在Win10中直接发布一个完整的Linux内核。
+
+
+
+
+
+	微软项目经理Jack Hammons解释说，“从今年夏天开始Windows的内部人员就开始构建了，包括了一个内部定制的Linux内核，以支持Linux Windows子系统（WSL）的最新版本。内核本身最初将基于最新的Linux稳定版本4.19，会随着新的长期稳定版本更新而适配，确保WSL内核始终拥有最新的Linux优点。”
+
+
+	这对微软来说是一个巨大的转变，也标志着Linux 内核将首次作为 Windows 的一部分。看样子这个Linux 内核集成将在今年晚些时候发布，被包括在代号为19H2的 Windows 10更新中。
+
+
+
+
+
+	对于开发者来说，它应该能极大地提高微软的Linux 子系统在 Windows 中的性能。 微软也承诺通过 Windows Update 更新这个内核，它将是完全开源的，开发者可以创建他们自己的 WSL 内核并贡献更改。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190507/1557218849_528423.jpg	https://img.3dmgame.com/uploads/images/news/20190507/1557218854_442704.jpg	</imageurl><videourl /></doc>

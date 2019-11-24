@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018123751073</id><url>https://www.3dmgame.com/news/201812/3751073.html</url><title>微软宣布Edge浏览器基于Chromium 支持现有的Chrome插件</title><datetime>2018-12-08 20:47:5</datetime><text>
+微软Joe 
+Belfiore已经宣布MicrosoftEdge接下来将基于Chromium开发，这也就是Chrome开源版本Chromium，替代之前Edge所用的Edge 
+HTML底层，提高兼容性和Web标准支持，也会加速发布版本更新的频率。
+
+
+
+
+
+	微软宣布的重点梳理：
+
+
+	微软会继续贡献开源社区，也贡献Chromium项目（Blink渲染引擎和V8JS引擎），同时帮助开发Windows 10 on 
+ARM版Chromium浏览器。
+
+
+	尽管Edge将会基于Chromium，但用户体验仍会是微软打造，并且会有微软Edge特性比如Timeline。
+
+
+	基于Chromium的Edge浏览器预览版会在明年年初发布，正式版还没有时间点。
+
+
+	同时Microsoft Edge也将会登陆mac OS系统，以及Windows 7和Windows 8.1系统，Windows 
+10版Edge将不再是UWP，而是Win32桌面应用。
+
+
+	Microsoft Edge Insider计划宣布，可以第一时间知道Chromium驱动的Edge的预览测试时间。
+
+
+	现有的UWP（包括PWA）将继续使用EdgeHTML/Chakra，未来会提供一个新的WebView控件（基于新的渲染引擎）
+
+
+	PWA以后可以直接通过浏览器安装（也可以通过Microsoft Store安装）
+
+
+	计划支持现有的Chrome插件
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20181208/1544273173_575348.jpg	</imageurl><videourl /></doc>

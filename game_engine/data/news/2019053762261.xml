@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019053762261</id><url>https://www.3dmgame.com/news/201905/3762261.html</url><title>Google Stadia云游戏平台配备AMD第一代Vega GPU</title><datetime>2019-05-20 00:45:2</datetime><text>
+	今年3月份，Google发布了自己的云游戏平台Stadia，而按照惯例，这类定制化产品对于硬件配置都不肯公布详细参数，只会说个大概。Google表示，Stadia平台配备了定制版的Intel至强处理器，主频2.7GHz，二三级缓存9.5MB，支持AVX2指令集，可能是四核心八线程。
+
+
+
+
+
+	GPU方面则是与AMD联合定制，56个计算单元(3584个流处理器)，浮点性能10.7TFlops，搭载16GB显存。
+
+
+	从参数上看，Google用的应该是变种版的RX Vega 56，后者也有56个计算单元，浮点性能为10.5TFlops，但是显存只有8GB HBM2，看上去Google应该是用了8GB BHM2显存加8GB DDR4板载内存的组合。
+
+
+	现在更明确的证据来了：标准规范组织Khronos Group组织在Vulkan产品清单中列出了Google Stadia平台，将其描述为“Google Games Platform Gen 1 (AMD GCN 1.5)”，也就是用了AMD GCN 1.5版架构，这对应着14nm Vega核心的各种产品，包括RX Vega 56/64、Vega Frontier Edition、Radeon Instinct MI60/50等等。
+
+
+	而今年发布的Radeon VII，用的是7nm Vega核心，架构版本是GCN 1.5.1。
+
+
+	Google Stadia没有用上最新的7nm Vega似乎有些遗憾和落后，但毕竟要考虑到平台开发周期，设计之初的首选必然是14nm
+Vega，更何况这代架构虽然不算很成功，但性能依然足够强大，可以秒杀任何主机。
+
+
+	NVIDIA一直在推自己的云游戏平台GeForce
+Now，Google也只能选择AMD，所以下一代的Google Stadia平台，也几乎必然会升级到7nm Navi。
+
+
+	当然不要忘了，微软、索尼下代主机也都会是Navi GPU，再辅以Zen CPU。AMD的半定制业务是稳如山了。
+
+
+
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190520/1558284290_985508.jpg	https://img.3dmgame.com/uploads/images/news/20190520/1558284301_512188.jpg	https://img.3dmgame.com/uploads/images/news/20190520/1558284301_153256.jpg	</imageurl><videourl /></doc>

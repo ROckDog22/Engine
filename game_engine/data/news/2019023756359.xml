@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019023756359</id><url>https://www.3dmgame.com/news/201902/3756359.html</url><title>微软密谋大动作：Win10电脑直接安装运行XB1游戏？</title><datetime>2019-02-26 23:26:3</datetime><text>
+	有没有想过在Windows 10上直接安装和运行Xbox主机游戏？这样的愿望似乎并非遥不可及。
+
+
+	可能Windows Insider快速通道的会员已经注意到，最近发布的两版预览系统中，微软号称对游戏进行了深入优化，不过感受的方式是鼓励用户从微软商店下载《腐烂国度（State of Decay）》这款游戏。微软并未明确列出对Windows 10玩游戏到底做了哪些具体修改，整套操作有些诡异。
+
+
+	资深记者Brad Sams发现了一些蛛丝马迹，显然微软是要进一步拉近Xbox One和Win10 PC之间的距离。比如游戏虽然是从商店下载，但连接的是Xbox文件服务器；再比如游戏安装包未XVC格式，这是微软自2013年以来一直描述Xbox One平台游戏的专属格式，而在19H1上，借助PowerShell命令就能导入了。
+
+
+	再结合一些已经出现的源代码，有理由猜测微软正密谋大动作，或许就是要把Windows
+10和Xbox One游戏不加修饰地直接打通。
+
+
+	不过坦率来说，Xbox平台的主机独占游戏除了《光环》就几乎没有可圈可点的了，微软葫芦里到底卖的什么药呢？
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190226/1551194652_935853.jpg	</imageurl><videourl /></doc>

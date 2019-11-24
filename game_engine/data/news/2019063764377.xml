@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019063764377</id><url>https://www.3dmgame.com/news/201906/3764377.html</url><title>Xbox 360游戏短期内不会立刻登陆PC</title><datetime>2019-06-16 14:03:1</datetime><text>
+	今年早些时候，曾有传闻称微软正在测试使用Windows系统原生运行Xbox 
+One游戏，这可能意味着PC对Xbox系列全部游戏的彻底模拟兼容。毕竟二者硬件架构相似，操作系统又师出同门，一切都显得十分合理。
+
+
+
+
+
+	但残酷的事实是：微软没有测试PC直接运行Xbox One游戏，甚至就连Xbox 360游戏的模拟也不是短期内会发生的事。Xbox部门老大Phil 
+Spencer在最近一次采访中对此进行了阐述。
+
+
+	“微软安装器技术，简称MSI，如果你翻看硬盘里的文档目录，你会看到.msi后缀的文档。我们搭建这个名叫MSI 
+XVC的技术是为了能够将Win32已有的游戏能够轻松打包，不需经过UWP的复杂步骤。总之就是帮助开发者实现一次开发，多商城上架。而MSIXVC这个名字里的“X”就来自Xbox的安装器，因为它属于我们较老的MSI技术，所以，是的，容易把人绕晕。”
+
+
+	“我很希望在Windows上运行PowerPC游戏，也就是360的游戏。但要想让这些PowerPC游戏在Xbox 
+One这种固定配置硬件上运行就已经很难了。如果换成配置多样的PC就更难了，但我永远都不会把话说死。老实讲，与过去相比，现在我们可能会选择用串流的方式而不是在本地运行，我不知道这是不是最好的答案。”
+
+
+	所以要想用PC玩Xbox 360或更老的游戏，可能只能等待xCloud云游戏的未来了。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190616/1560664993_613369.jpg	</imageurl><videourl /></doc>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019033756638</id><url>https://www.3dmgame.com/news/201903/3756638.html</url><title>微软或秘密规划让Win系统直接支持Xbox One游戏</title><datetime>2019-03-02 23:59:3</datetime><text>
+	家用游戏主机与计算机之间的距离正在逐渐拉近，对于 Xbox One 来说更是如此，虽然玩家不能直接用计算机玩 Xbox One 的游戏，但是一些证据显示微软（Microsoft）正在朝着这个目标迈进。
+
+
+
+
+
+	这项证据出现在 Windows Insider 项目中，本项目的参与者将能够抢先体验并测试 Windows 10 即将登场的更新内容。最近微软要求这些参与者协助安装测试 免费的特别版《腐烂国度》。微软在部落格贴文提到：
+
+
+	「我们很开心地为大家带来为 Windows 量身打造的新技术。请大家帮助我们测试系统以确保它运作无虞，你还能够（限时）体验免费的《腐烂国度》！只要告诉我们在安装和执行游戏时遇上的问题即可。」
+
+
+	这段讯息明显暗示着微软正在酝酿什么，如果再进一步探究，就会发现背后更多的花絮。国外网站
+Thurrott.com 的编辑 Brad Sams 提到测试者其实不是从 Microsoft Store 的服务器（serverdl.microsoft.com）下载游戏，而是从另一个来源（assets1.xboxlive.com）。
+
+
+	看来微软这次推出的游戏的不是 PC 版，而是 Xbox One 版。此外，更多的证据可以从「.xvc」的游戏文件格式中看出来。微软在 2013 年专门为 Xbox One 游戏发明了这种格式，而这次的《腐烂国度》可以利用在 Windows 10 19H1 测试建造版下更新后的 PowerShell 应用程序来安装。
+
+
+	安装游戏时会跳出旧版 DirectX 设定提示，最新的测试建造版也会顺便安装最新的游戏服务应用程序 Microsoft.GamingServices.app 以及两个驱动程序：xvdd.sys
+= XVD Disk Driver（微软游戏文件系统驱动）以及gameflt.sys = Gaming
+Filter（微软游戏安装过滤驱动）。顺带一提，推特用户 WalkingCat 指出驱动程序内包含「Durango」，正是 Xbox One 当初的代码。
+
+
+	上述证据最后的结果可能就是 Windows 10 在未来的某个大型更新以后，就会开放原生支持 Xbox One 游戏，让开发者能够更轻易地将家用主机游戏带到 PC 平台上。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190302/1551542349_450323.jpg	</imageurl><videourl /></doc>

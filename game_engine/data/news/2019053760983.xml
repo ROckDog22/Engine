@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019053760983</id><url>https://www.3dmgame.com/news/201905/3760983.html</url><title>优化尚可但并非完美 《真人快打11》PC版性能表现分析</title><datetime>2019-05-01 15:49:5</datetime><text>
+	《真人快打11》是NetherRealm工作室血腥格斗系列的最新作品，使用改装的虚幻引擎3打造，PC版由QLOC进行移植。下面我们就来测试一下本作的PC性能表现如何。
+
+
+
+
+
+	本次PC性能表现分析采用的配置是Intel i7 4930K CPU、（超频至4.2Ghz）、16G DDR3内存 2133Mhz、AMD Radeon 
+RX580和RX Vega 64显卡、NVIDIA RTX 2080Ti和GTX980Ti显卡，Windows 10 64位系统，GeForce driver 
+430.53以及Radeon Software Adrenalin 2019版本19.4.3。
+
+
+
+
+
+	QLOC加入了许多画质选项，PC玩家可以调整材质质量、抗锯齿、各向异性过滤、光照、环境光遮蔽、粒子和阴影等效果。遗憾的是，本作不支持DSR，没有4K显示器但是想开4K分辨率的玩家需要先手动将桌面分辨率调整至4K才能在游戏菜单中看到4K分辨率的选项。
+
+
+
+
+
+	为了测试游戏在不同CPU上的表现，我们分别模拟了双核和四核CPU。结果显示我们的模拟双核系统就足以提供稳定流畅的游戏体验。所以玩这款游戏并不需要顶尖CPU。
+
+
+
+
+
+	一些玩家可能听说了，Krypt模式、所有绝杀镜头和动画都是锁定30fps的，不过目前有一款MOD可以解锁帧数，我们推荐大家使用这款MOD。虽然整体游戏比较流畅，但是Krypt模式却存在严重的优化问题。解锁帧数以后，我们能用RTX2080Ti在1440p/Ultra画面配置下达到60fps体验，但却会出现莫名其妙的卡顿和帧数骤降问题。所以我们建议在玩Krypt的时候维持30fps锁帧。
+
+
+
+
+
+
+
+
+
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190501/1556696868_754376.jpg	https://img.3dmgame.com/uploads/images/news/20190501/1556696874_462306.jpg	https://img.3dmgame.com/uploads/images/news/20190501/1556696885_215359.jpg	https://img.3dmgame.com/uploads/images/news/20190501/1556696893_515272.png	https://img.3dmgame.com/uploads/images/news/20190501/1556696930_314779.jpg	https://img.3dmgame.com/uploads/images/news/20190501/1556696930_742933.jpg	https://img.3dmgame.com/uploads/images/news/20190501/1556696930_370413.jpg	https://img.3dmgame.com/uploads/images/news/20190501/1556696931_475323.jpg	</imageurl><videourl /></doc>

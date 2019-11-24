@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019033756937</id><url>https://www.3dmgame.com/news/201903/3756937.html</url><title>AMD发布Adrenalin Edition 19.3.1驱动 优化《鬼泣5》</title><datetime>2019-03-07 09:36:5</datetime><text>
+	3月7日，AMD正式发布了最新的Adrenalin Edition 19.3.1驱动，主要是增加对于《鬼泣5》的优化，同时还修复了部分BUG。
+
+
+
+
+
+	更新内容：
+
+
+	1、增加对于《鬼泣5》的优化，Vega 64在新驱动下平均性能提升4%。
+
+
+	2、修复搭载Radeon VII显卡下导致Radeon WattMan设置无法正常应用的BUG
+
+
+	3、修复连接多个显示器时所导致的鼠标丢帧的情况
+
+
+	4、修复ACER KG251Q显示器在通过DP接口进行240Hz帧率显示时候的黑屏问题
+
+
+	5、修复视频回放下的HDR失效的问题。
+
+
+
+
+
+驱动下载地址：https://www.amd.com/zh-hans/technologies/radeon-software
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190307/1551922247_604951.png	https://img.3dmgame.com/uploads/images/news/20190307/1551922415_589675.jpg	</imageurl><videourl /></doc>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018113749344</id><url>https://www.3dmgame.com/news/201811/3749344.html</url><title>美女不淡定！黑客发现iPhoneX新漏洞 能查看已删照片</title><datetime>2018-11-15 09:33:5</datetime><text>
+	正在进行的Pwn2Own黑客大会上，由安全研究人员 Richard Zhu和Amat 
+Cama组成的团队Fluoroacetate，送出了一波超级厉害的操作，让你的iPhone删除的照片重新出现。
+
+
+
+
+
+	黑客团队Fluoroacetate成功破解了一台运行iOS 12.1系统的iPhone X，而接下来他们做的事情，就是在这台破解的iPhone 
+X上，产看了之前删除的多张照片。
+
+
+	他们没有公布具体的做法，只是表示，问题出现在iPhone的Safari浏览器，查看已经删除的照片，这对于用户的隐私绝对是个不小的麻烦，当然苹果也已经得知了这个漏洞，并给予Fluoroacetate 
+5万美元的奖励。
+
+
+	此外，Fluoroacetate团队还表示，这次的漏洞出现在JIT编译器中，他们通过恶意WiFi破解了JIT编译器，除了iPhone，Galaxy 
+S9和小米6也中招了。
+
+
+	接下来苹果要修复这个漏洞。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20181115/1542245607_325551.jpg	</imageurl><videourl /></doc>

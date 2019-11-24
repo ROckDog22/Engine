@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018103746821</id><url>https://www.3dmgame.com/news/201810/3746821.html</url><title>微软计划开放《我的世界》源代码 想干嘛都行</title><datetime>2018-10-08 10:59:4</datetime><text>
+	近日微软宣布将开放《我的世界》的部分源代码供程序员及玩家们自由使用。作为全世界卖得最好的游戏之一，虽然确定没有续作计划（新闻回顾），但开放源代码的举措，相信还是会吸引更多的玩家们参与游戏。
+
+
+
+
+
+	据《我的世界》Java开发小组称，“将开放部分《我的世界》的源代码，它们可以被自由使用，想干嘛都行”。玩家们可以利用这些代码制作自己的MOD，提升游戏的Java引擎，甚至制作自己的游戏项目（当然要标明引用）。包括游戏的内置库文件也是会开源使用的。
+
+
+
+
+
+	《我的世界》Java 开发小组的程序员 Nathan Adams 称，代码开放计划是逐步实施的。目前团队已经在 Github 上放出了“Brigadier”和“Data Fixer Upper”两个程序库的代码。据 Nathan 解释，“Brigadier”是这款游戏的命令提示引擎，“Data Fixer Upper”则是整个《我的世界》游戏引擎中最重要的部分，虽然对用户不是很友好，但却是《我的世界》里各项内容的基石。（下载地址：https://github.com/Mojang/brigadier）
+
+
+
+
+
+	Java小组还将在未来开放更多的《我的世界》源代码，毫无疑问的是，将会有更多的玩家和程序员们参与进来，不只是在《我的世界》里搭建自己的世界，更是利用《我的世界》创造属于自己的世界！
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20181008/1538965519_232172.jpeg	https://img.3dmgame.com/uploads/images/news/20181008/1538966568_391830.jpeg	https://img.3dmgame.com/uploads/images/news/20181008/1538966791_346248.jpeg	</imageurl><videourl /></doc>

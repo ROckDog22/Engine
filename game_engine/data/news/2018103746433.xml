@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018103746433</id><url>https://www.3dmgame.com/news/201810/3746433.html</url><title>微软Windows 10重磅变革！首次支持机器人系统</title><datetime>2018-10-01 01:23:2</datetime><text>
+	在西班牙马德里巨型的ROSCon 2018第七届机器人操作系统开发者大会上，微软宣布将把机器人操作系统(ROS)正式引入Windows 10。
+
+
+
+
+
+
+
+
+	ROS是面向机器人标准化设计的主流操作系统之一，诞生于2007年，来自Willow Garage和斯坦福人工智能实验室，广泛应用于许多尖端机器人项目，每一位机器人设计师都可以使用该平台进行机器人软件开发。
+
+
+	Windows 10的这套机器人系统名为ROS1，虽然还是个实验版本，但这是Windows第一次官方支持机器人系统，堪称里程碑式的一步，而在此之前ROS、Windows的适配都是ROS社区自发完成的。
+
+
+	Windows 10 ROS1提供了开发复杂机器人所需的库和工具，并支持基于硬件加速的Windows机器学习、Azure Cognitive服务、Azure IoT云服务等等，相关信息也均已公布。
+
+
+	同时，微软已经联合ROS产业联盟(ROS
+Industrial Consortium)，共同投资工业机器人，并与ROS产业联盟、开放机器人(Open Robotics)合作推动Windows 10 ROS1。
+
+
+	在大会上，微软还展示了自己的机器人ROBOTIS Turtlebot 3，基于一款名为Melodic Morenia的特殊机器人系统，并使用了Windows 10 IoT企业版平台，硬件上则是采用Intel Coffee Lake NUC。
+
+
+	微软用此机器人展示了运行于自家Azure平台上的ROS模拟环境，以及如何使用Azure IoT Hub轻松地控制一组机器人。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20181001/1538328111_285719.jpg	</imageurl><videourl /></doc>

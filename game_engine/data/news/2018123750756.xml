@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018123750756</id><url>https://www.3dmgame.com/news/201812/3750756.html</url><title>性能两倍麒麟970：Imagination发布最强手机GPU</title><datetime>2018-12-04 19:25:5</datetime><text>
+	2017年和苹果分道扬镳后，Imagination公司和它打造的PowerVR GPU，关注度似乎就越来越少了。
+
+
+	目前主流的手机SoC厂商中，三星、华为和MTK都以ARM的Mali架构为主，高通更是有自家的绝活Adreno。
+
+
+	今天，Imagination带来最新款的GPU解决方案PowerVR 9XEP/9XMP/9XTP，级别定位依次升高。
+
+
+
+
+
+
+
+
+	具体来说，9XTP和8XT/9XT系列一样，基于全新的Furian架构打造，旗舰定位，单位面积的游戏帧数比前一代9XT提升了50%。相较于2012年的Rogue老架构，Furian每ALU增加到40条流水线，支持4K 
+120FPS、HDR、Vulkan API、安卓神经计算API等先进技术，可使用比14nm更先进的工艺打造。
+
+
+	9XMP和9XEP依然采用Rogue架构，前者可配置在手机、机顶盒、电视等领域，更便宜的后者可用在手机、汽车等产品上。
+
+
+	官方公布的数据是，基于PowerVR 9XMP GPU，在吃鸡手游中，比使用Mali G72的麒麟970/Exynos 
+9810画质更好，各向异性过滤性能提升2倍。
+
+
+	除了三颗GPU，Imagination还发布了PowerVR 
+Series3NX神经网络加速芯片（NPU），性能0.6~10TOPS，规模性能最高160TOPS。
+
+
+	据悉，上述IP的授权工作即日起开始。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20181204/1543922744_305322.jpg	https://img.3dmgame.com/uploads/images/news/20181204/1543922744_502710.jpg	</imageurl><videourl /></doc>

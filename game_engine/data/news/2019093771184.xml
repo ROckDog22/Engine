@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019093771184</id><url>https://www.3dmgame.com/news/201909/3771184.html</url><title>微软已修复桌面搜索带来的高CPU使用率bug</title><datetime>2019-09-11 23:47:0</datetime><text>
+	本月早些时候，网站曾报道Windows 10新加入的某个可选更新会导致某些系统的CPU使用率很高（与Cortana小娜搜索有关）。微软刚刚发布了一个新的更新，解决了这一高CPU使用率bug。
+
+
+
+
+
+	微软指出：
+
+
+	Windows桌面搜索可能不会返回任何结果，而SearchUI.exe在安装KB4512941之后可能有很高的CPU使用率。
+
+
+	修复于9月10日：已解决该问题（可能导致一少部分用户的因为SearchUI.exe带来的高CPU占用问题）。这个问题只发生在那些禁用了使用“Windows桌面搜索功能”搜索网络的设备上。”
+
+
+	此外，微软还解决了一些新的安全漏洞。正如该公司所述，Windows 10
+KB4515384更新提供了针对“投机性执行端通道漏洞”新子类的保护。这些漏洞被称为微架构数据采样，影响32位版本的Windows。因此，64位版本Windows 10的用户不会受到这一影响。
+
+
+	最后，微软还发布了针对自带程序的安全更新。这些包括:Microsoft Edge、Internet Explorer、WindowsApp平台和Frameworks等等。
+
+
+	值得一提的是，微软已经解决了两个0day安全漏洞。这两个漏洞是权限提升(EoP)类漏洞。第一个影响Windows公共日志文件系统(Common Log File System (CLFS))驱动程序，第二个影响ws2ifsl.sys
+(Winsock)服务。
+
+
+	和往常一样，用户可以通过Windows 10的更新系统安装KB4515384更新。你所要做的就是检查新的更新，让Windows 10自动下载。当然也可以通过微软网站进行更新。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190911/1568216792_180881.jpg	</imageurl><videourl /></doc>

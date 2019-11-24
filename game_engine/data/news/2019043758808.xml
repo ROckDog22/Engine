@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019043758808</id><url>https://www.3dmgame.com/news/201904/3758808.html</url><title>《物质世界》PC版性能表现分析 游戏对显卡要求较高</title><datetime>2019-04-01 15:24:0</datetime><text>
+	近日，外媒DSOgaming对《物质世界》PC版进行了一系列测试并给出了一些评价，一起来看下具体内容。
+
+
+
+
+
+	此次外媒使用的PC软/硬件配置为：Intel i7 4930K(超4.2GHz)、16G的DDR3内存(2133Mhz)、AMD’s Radeon 
+RX580和RX Vega 64显卡、NVIDIA’s RTX 2080Ti,、GTX980Ti 和 GTX690显卡、win10 
+64位操作系统、GeForce 419.67版驱动和Radeon Software Adrenalin 2019年19.3.3版驱动。
+
+
+
+
+
+	Nine 
+Dots工作室在《物质世界》这款游戏中为玩家提供了不少可调节的图形画质选项，玩家可以在游戏中调节纹理、光、阴影、地形、草、水面、SSAO和模型质量，还可以启用或者禁用绽放效果，调节各向异性过滤，消除锯齿，动态模糊等设定。此外，游戏还增加了帧率限制选项。
+
+
+	此次依然是对双核和4核cpu进行测试，他们发现该游戏并不吃CP配置。在测试过程中，他们发现该游戏在禁用超线程和使用双核cpu的情况下，最低帧数为38fps，平均帧数为59fps，而在启用超线程和使用双核CPU的情况下，最低帧数增加到了48fps，平均帧数增加到了68fps。使用四核CPU时，最低帧数为60fps，平均帧数高达98fps。
+
+
+
+
+
+	但由于《物质世界》使用的是DX11接口，其CPU优化性能大大缩水，在使用Intel i7 4930K和NVIDIA GeForce 
+RTX2080Ti进行测试的时候，CPU利用率仅为50%，这意味着还有接近50%的CPU潜能没有被利用。
+
+
+	不过该游戏需要性能较好的显卡，下面这张图片显示了1920*1080分辨率和超高设置下各显卡的帧数表现对比：
+
+
+
+
+
+	下面一张图是在1920*1080、2560*1440以及3840*2160分辨率下各显卡的帧数表现对比：
+
+
+
+
+
+	《物质世界》PC版已经正式发售，感兴趣的玩家可以尝试下。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190401/1554103358_442289.jpg	https://img.3dmgame.com/uploads/images/news/20190401/1554103367_915892.jpg	https://img.3dmgame.com/uploads/images/news/20190401/1554103376_162277.jpg	https://img.3dmgame.com/uploads/images/news/20190401/1554103385_281817.jpg	https://img.3dmgame.com/uploads/images/news/20190401/1554103397_287696.jpg	</imageurl><videourl /></doc>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019023756452</id><url>https://www.3dmgame.com/news/201902/3756452.html</url><title>《死或生6》CPU占用100% 双核和四核竟然都能60帧！ </title><datetime>2019-02-28 09:27:2</datetime><text>
+	据外媒Dsogaming报道，在《死或生6》实机测试中，CPU的要求没有光荣推荐的8700那么高，模拟双核运行也可以达到最高画质4K+60帧的效果，和四核CPU完全一样，但是却出了CPU占用率100%的BUG，这到底是什么情况呢？我们去看看Dsogaming的分析。
+
+
+
+
+
+	Dsogaming测试PC配置：
+
+
+	CPU：Intel i7 4930K（超频 4.2Ghz）
+
+
+	内存：16GB 2133Mhz DDR3
+
+
+	显卡：英伟达RTX2080Ti
+
+
+	系统：Win10
+
+
+	驱动版本：GeForce 419.17
+
+
+	开始测试的时候，Dsogaming发现最高画质下这个配置可以达到4K+60帧的画面效果，但是出现的问题是CPU的占用率竟然达到了100%，接着Dsogaming又模拟了双核来运行游戏（启用超线程），结果也能得到60帧的游戏表现，但是占率还是达到了惊人的100%，这样过高的CPU占用率可能会引起CPU过热出现一系列问题。
+
+
+
+
+
+	目前Dsogaming已经将问题反馈到光荣官方，正在等待官方的修复。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190228/1551316610_101930.jpg	https://img.3dmgame.com/uploads/images/news/20190228/1551317195_227094.jpg	</imageurl><videourl /></doc>

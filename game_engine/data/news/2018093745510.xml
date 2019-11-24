@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018093745510</id><url>https://www.3dmgame.com/news/201809/3745510.html</url><title>画质提升 《伊苏：塞尔塞塔的树海》高清材质MOD发布</title><datetime>2018-09-16 16:58:2</datetime><text>
+	xMOD作者Drogean近日发布了《伊苏：塞尔塞塔的树海》的首个高清材质包。《伊苏：塞尔塞塔的树海》今年7月份登陆Steam平台，其团队战斗系统对《伊苏》系列进行了重新定义，另外也是该系列漫长历史中世界最广阔的丰富的作品之一。
+
+
+	本作PC版有着各种高清分辨率，将帧率提到了120fps，还有解锁帧率的选项，键位可以自由设置，完全支持鼠标操作。但是，厂商并未优化本作的材质，所以看起来有点模糊。
+
+
+	MOD作者为本作添加了很多高清材质，城市细节、地面、草丛、山脉和酒馆的材质细节都有所提升。
+
+
+	玩家可以点此下载高清材质包进行体验，不过在此之前需要Special K Mod方可注入新材质。使用方法如下：
+
+
+	将Kaldaien的Special K mod解压至\Ys Memories of Celceta\游戏文件夹下
+
+
+	将Specialk32.dll重命名为Dxgi.dll
+
+
+	将材质mod解压至\Ys Memories of Celceta\游戏文件夹下
+
+
+	运行一下游戏，从而创建dxgi.ini文件
+
+
+	打开dxgi.ini文件，修改以下值为“True”：AllowUnsafeRefCounting=true
+
+
+	运行游戏，如果mod运行成功的话，标题画面中将会显示“HD PACK by Dro”
+
+
+	以下是应用高清材质补丁后的两张截图。
+
+
+
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20180916/1537088268_634427.jpg	https://img.3dmgame.com/uploads/images/news/20180916/1537088268_467214.jpg	</imageurl><videourl /></doc>

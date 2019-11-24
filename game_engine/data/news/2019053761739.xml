@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019053761739</id><url>https://www.3dmgame.com/news/201905/3761739.html</url><title>《如龙：极2》、《蝙蝠侠：阿卡姆骑士》光追MOD演示</title><datetime>2019-05-12 17:38:1</datetime><text>
+	“Reshade”MOD计划为所有DX9、DX10和DX11游戏增加实时光线追踪全球光照效果。今天，一些Alpha测试玩家分别分享了《雷神之锤》《如龙：极2》《蝙蝠侠：阿卡姆骑士》三款游戏使用Reshade以后的效果。
+
+
+
+
+
+	第一段视频来自Youtube播客Rare，展示的是《如龙：极2》的Reshade效果。我们可以看到环境场景有明显提升，但也带来了一些负作用，我们看到主角的轮廓边缘有一圈阴影，在明亮场景下尤为明显。不知道有没有修复的可能。
+
+
+
+
+
+
+	第二段视频来自Youtube的EiermannTelevision，把Reshad用在了初代《雷神之锤》上，效果十分震撼。因为《雷神之锤》根本没有光照系统，所以提升十分明显。
+
+
+
+
+
+
+	最后是Resetera用户Rare分享的对比截图，展示了原版（上）和Reshade光追（下）的《蝙蝠侠：阿卡姆骑士》之间的差别。
+
+
+
+
+
+
+
+
+	总而言之，Reshade MOD的确能够为较老的游戏提升视效表现，不过目前可能会出现一些是是光线追踪全局光照的漏洞，造成画面错误。而且Reshade 
+MOD会让帧数大大降低，比如一块NVIDIA RTX2080Ti在使用Reshade以后运行《如龙：极2》无法达到1080p 60fps的帧数。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190512/1557653823_420294.jpg	https://img.3dmgame.com/uploads/images/news/20190512/1557653838_979429.jpg	https://img.3dmgame.com/uploads/images/news/20190512/1557653839_666394.jpg	</imageurl><videourl>https://player.youku.com/embed/XNDE3ODMyMDM0NA==?client_id=5a73c0df8eb0d91d	https://player.youku.com/embed/XNDE3ODMyMDE2MA==?client_id=5a73c0df8eb0d91d	</videourl></doc>

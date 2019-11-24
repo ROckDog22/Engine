@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018123750721</id><url>https://www.3dmgame.com/news/201812/3750721.html</url><title>英伟达宣布开源PhysX A卡用户或将可以享受华丽特效</title><datetime>2018-12-04 14:22:0</datetime><text>
+	近日，英伟达在官博表示正式开源PhysX物理模拟引擎，这意味着未来可以通过AMD的显卡就实现PhysX物理加速效果。
+
+
+
+
+
+	PhysX 
+SDK除了应用于游戏物理引擎提升视效，还应用于智能手机、高端多核处理器等上面。近些年，PhysX通常和流行常用的游戏引擎结合，如虚幻4、Unity3D等。
+
+
+
+
+
+
+	早前英伟达还是有所保留的，他们只开放了PhysX CPU的那部分。而对GPU运算的高级PhysX 
+Felx特效等还是完全独立封闭。而现在由于PhysX彻底开源，开发人员可以利用GPU来提高性能并开发更好的物理效果。理论上来说，AMD的显卡用户也可以享受PhysX带来的最高特效。
+
+
+	经过开源，PhysX成为目前市面仅有的免费、开源、支持硬件加速的物理模拟解决方案，当然开源并非是谁看着舒服都能拿来玩的，基本的BSD-3授权还是需要服从的。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20181204/1543904447_124602.jpg	</imageurl><videourl>https://player.youku.com/embed/XMzk0ODkwMDEzNg==?client_id=5a73c0df8eb0d91d	</videourl></doc>

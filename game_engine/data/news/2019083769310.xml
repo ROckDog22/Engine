@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019083769310</id><url>https://www.3dmgame.com/news/201908/3769310.html</url><title>Chrome即将移除对FTP的支持：经典文件协议终结</title><datetime>2019-08-18 23:55:5</datetime><text>
+	作为互联网的经典协议之一，FTP(文件传输协议)已经48岁了，其最初标准是公布于1971年的FRC 114。可是，这种在线文件托管服务已经日渐式微，主要是P2P的冲击以及本身缺乏安全协议的致命硬伤。
+
+
+
+
+
+	事实上，从Chrome 59开始，谷歌就挥刀弱化对FTP页面的支持，在Chrome 72上，FTP链接会强制跳转下载所有内容，而不再提供目录浏览。
+
+
+	全球第一大浏览器布局这么久后，终于要大功告成了。
+
+
+	Chrome团队在博客写道，FTP的使用率已经降至极低的水平，无必要进行安全维护，将很快择机彻底移除支持。
+
+
+	另外，Mozilla也早有类似弱化FTP的讨论，预计Firefox也将追随Chrome的脚步，只是时间节点和具体计划很模糊。
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190818/1566143734_706792.jpg	https://img.3dmgame.com/uploads/images/news/20190818/1566143742_159079.png	</imageurl><videourl /></doc>

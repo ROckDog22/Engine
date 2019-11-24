@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019083769891</id><url>https://www.3dmgame.com/news/201908/3769891.html</url><title>《战争机器5》PC版使用的是Win32 Steam支持Win7系统</title><datetime>2019-08-26 10:43:4</datetime><text>
+	看起来微软正在让自家的第一方游戏PC游戏远离UWP。近日高级社区经理Liam 
+Ashley在Twitter上确认：《战争机器5》在PC上（包括Steam版和Windows 10商城版），使用的是更加灵活的Win 32 
+API，而非更加封闭的UWP框架（Universal Windows Platform）。
+
+
+
+
+
+	在意识到UWP的局限性和问题后，微软此前曾最初承诺登陆其Windows 10商城的更多游戏将支持Win32。此前，微软曾试图使用Windows 
+10独有的UWP来统一其第一方PC游戏，放弃对传统Win32应用程序和游戏的支持。这种没经验的尝试最终导致非常不靠谱的游戏启动，缺乏关键功能，而且还额外增添了游戏开发者们的工作。
+
+
+	现在微软很多第一方游戏都登陆了Steam，看起来微软也不再向玩家和开发者强推UWP了。PC游戏的本质是开放，选择和自定义，而微软也很清楚拓宽门槛意味着更多的玩家能购买他们的游戏。
+
+
+	《战争机器5》Steam版国区249元，支持简体中文和繁体中文配音，Steam版支持Windows7系统。
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190826/1566787285_343280.png	https://img.3dmgame.com/uploads/images/news/20190826/1566787274_592655.jpg	</imageurl><videourl /></doc>

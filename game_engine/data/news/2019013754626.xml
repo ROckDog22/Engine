@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019013754626</id><url>https://www.3dmgame.com/news/201901/3754626.html</url><title>iPhone曝重大隐私缺陷：通话可被窃听</title><datetime>2019-01-29 11:34:0</datetime><text>
+	据外媒消息，苹果FaceTime存在重大缺陷，当你使用这个功能通话时，可以在对方接听或拒绝接听前，就能听到对方的谈话。
+
+
+	为了重现这个结果，外媒进行了尝试，让iPhone X借助FaceTime与iPhone XR用户通话，结果确实如此，即用户可以窃听任何其他iPhone用户的谈话，而对方则完全蒙在鼓里。
+
+
+
+
+
+	这个问题具体来说是这样的，当用户使用iPhone启动FaceTime视频通话时，在拨号时从屏幕底部向上滑动，然后点按添加人员，然后在“添加人员”屏幕中添加第三个人的电话号码，最后进行通话时，填写号码的那个人可以听到你的FaceTime通话内容。
+
+
+
+
+
+	据报道，目前尚不清楚iPhone用户应当如何避开因该缺陷受到攻击，只有等待苹果发布补丁软件。该情况目前发生在运行iOS 12.1以及更新版本的iOS设备上。不过，该缺陷不会影响到摄像头，只是影响到了麦克风。
+
+
+	不过，好在苹果官方也意识到了这个问题。
+
+
+	苹果公司在美国当地时间周一宣布，称“注意到了这个问题，确认将在本周晚些时候发布一个软件更新进行修复。”
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190129/1548732797_473202.jpg	https://img.3dmgame.com/uploads/images/news/20190129/1548732803_943463.jpg	</imageurl><videourl /></doc>

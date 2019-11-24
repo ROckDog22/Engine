@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019093772216</id><url>https://www.3dmgame.com/news/201909/3772216.html</url><title>国产PC游戏惊艳海外！《异宇星还》登陆Unite Copenhagen 2019</title><datetime>2019-09-25 16:25:0</datetime><text>
+	9月23日至26日，Unite Copenhagen 2019在哥本哈根的Bella Center举行。从最前沿的技术到令人惊艳的Made with Unity案例，本次大会分为多个技术专场，吸引了全球上万名开发者。会上，数十家来自全球的行业领头企业，展示了他们与Unity相关的出色技术与内容；其中，只有两家游戏公司受邀参与Keynote开幕演讲，包括来自中国深圳的Multiverse和来自芬兰的Futureplay。
+
+
+
+
+
+	Multiverse（摩登世纪）的CEO兼制作人范威洋(Freeman Fan)将团队自研的PC游戏《异宇星还》(Earth From Another Sun)，带上了Unite Copenhagen 2019 Keynote开幕演讲的舞台，向全球的开发者和玩家展现了这款制作精良的国产游戏。
+
+
+
+
+
+
+Unity高清晰度渲染管线HDRP助力Multiverse搭建科幻世界
+
+
+	《异宇星还》(Earth From Another Sun)是Multiverse全新开发的一款带有Rogue-like元素的科幻FPS PC游戏，未来的地球因为某种神秘力量，通过虫洞穿越到了现在，当未来不再是未来，当时间不再有意义，当地球降临之日，玩家可以亲身去探索这个世界会变成什么样。
+
+
+	在此之前，Multiverse的VR游戏作品《寻找黎明》(Seeking Dawn)曾获VRCORE最佳美术奖、腾讯GAD最佳视觉奖，VR游戏对沉浸感有着很高的要求，所以在PC平台上，Multiverse也对游戏画面有着非常执着的追求。为了实现这一目标，Multiverse采用了Unity的高清晰度渲染管线HDRP。范威洋在演讲中讲到：“HDRP使我们能够建立一个更为逼真的、生机勃勃的世界，营造一种紧张和神秘的场景氛围。”
+
+
+
+
+
+	Multiverse的艺术家们使用HDRP对游戏画面进行了多种分层处理，例如曝光调整、色调映射、次表面散射、体积光照、颜色分级和镜头扭曲。除此之外Multiverse还用到了带物理碰撞的多线程Mesh粒子，对之前的粒子系统产生了极大的性能优化。在环境氛围上则运用Unity最新的Visual Effect Graph制作富有细节和层次的场景。
+
+
+	通过这些处理之后，《异宇星还》的美术画面在视觉上逐渐变得更为精致、细腻、生动有趣。
+
+
+
+
+
+	“每个FPS游戏爱好者都追求高帧频，但要在视觉保真度和性能之间取得平衡是一个非常大的挑战。”范威洋还提到，想要实现更为逼真的游戏画面，同时保证游戏运行的性能是很不容易的，得益于Unity的高清晰度渲染管线技术，Multiverse突破了这一难题：玩家即使在激烈的战斗中，面对成群的敌人，或是抵御巨大的外星爬虫，《异宇星还》都可以稳定保持流畅的每秒60帧。
+
+
+ 
+
+
+融合三种玩法《异宇星还》已开放Pre-Alpha限号测试
+
+
+	除了惊艳的美术画面，《异宇星还》在玩法上也有突破，将FPS、Rogue-like和DBG三种截然不同的玩法创造式地融为一体，玩家还可以从人、神、虫三个种族的不同视角，体验三段不同的冒险旅程。
+
+
+
+
+
+
+《异宇星还》的玩法特点包括：
+
+
+	1、随机机制。局内关卡、掉落、怪物生存均为随机设定，每一局都是全新的体验；
+
+
+	2、卡牌构建。合理搭配卡组，适当释放技能，把控能量。根据敌人构建克制卡组，或是组建适应各种情况的通用卡组，风格多样；
+
+
+	3、操作玩法多样。各有专精的被动芯片的配合，拥有匹敌超级英雄的能力；
+
+
+	4、环境模拟。各色中立生物组成的生态圈，模拟真实环境；
+
+
+	5、战斗互动有趣。敌人会因队友被杀而崩溃，会发起嘲讽，会内斗，甚至会误伤自己。
+
+
+	据悉，《异宇星还》于2019年年初开始制作，目前已在WeGame测试区开启Pre-Alpha限号测试，玩家还可通过INDIENOVA申请Steam Key。游戏预计于2020年第二季度开启Early Access。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190925/1569399636_282492.jpg	https://img.3dmgame.com/uploads/images/news/20190925/1569399688_724502.jpg	https://img.3dmgame.com/uploads/images/news/20190925/1569399698_479944.jpg	https://img.3dmgame.com/uploads/images/news/20190925/1569399706_242598.jpg	</imageurl><videourl>//player.bilibili.com/player.html?aid=68910999&amp;cid=119428713&amp;page=1	//player.bilibili.com/player.html?aid=68910999&amp;cid=119431696&amp;page=2	</videourl></doc>

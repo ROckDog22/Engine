@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018103747143</id><url>https://www.3dmgame.com/news/201810/3747143.html</url><title>《怪物猎人：世界》装备幻化工具v1.0.4发布 支持WeGame版</title><datetime>2018-10-12 20:34:2</datetime><text>
+	3DM 
+MOD站（mod.3dmgame.com）今日推出了《怪物猎人：世界》装备幻化工具v1.0.4。1.0.4版应玩家要求，新增了对WeGame版《怪物猎人：世界》的支持。
+
+
+
+
+
+工具介绍：
+
+
+	可以在游戏中实时更改当前主角的装备形态，即使穿的新手装也可以改成各种后期装备的外形，涵盖了游戏95%的装备，联机可用。其中有部分代码借鉴自N网approved幻化工具中文化修改而来，感谢原作者的提供的宝贵经验。另外很多玩家需要的WEGAME版此次更新也带来了，由于两个平台版本不一致，所以单独发布。
+
+
+使用说明：
+
+
+	1.先登陆对应的怪物猎人世界
+
+
+	2.进游戏加载存档以后，点击读取游戏数据
+
+
+	3.选择当前正在进行游戏的存档
+
+
+	4.进行装备幻化后应用提示幻化成功
+
+
+	5.游戏中切换场景或者进出房屋即可看到最新的效果
+
+
+	6.联机中可用，别人可以看到你的装备
+
+
+注意事项：
+
+
+	该工具已经适配WEGAME，请选择不同的版本运行，需要.net4.5支持库。
+
+
+	有部分装备幻化可能造成游戏的BUG，如果遇到问题，恢复初始即可。
+
+
+	有玩家问会不会封号，目前测试过不会造成这种问题，如果有其他BUG，请在帖子里反馈。
+
+
+	目前幻化但丁套肯定崩溃，血的教训，切勿尝试！
+
+
+	联机可用，但部分腿部幻化会造成通信错误，可以取消幻化后再试。
+
+
+	备份的存档在SaveFile下，手动还原请改名SAVEDATA1000覆盖回去即可。
+
+
+下载：
+
+
+	下载地址：https://mod.3dmgame.com/mod/modsdetail/43845.html
+
+
+	论坛地址：http://bbs.3dmgame.com/forum.php?mod=viewthread&amp;tid=5782617&amp;pid=218482018&amp;page=1&amp;extra=#pid218482018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20181012/1539347491_934127.jpg	https://img.3dmgame.com/uploads/images/news/20181012/1539347502_340756.png	https://img.3dmgame.com/uploads/images/news/20181012/1539347502_704698.png	https://img.3dmgame.com/uploads/images/news/20181012/1539347502_469474.png	https://img.3dmgame.com/uploads/images/news/20181012/1539347502_370915.png	https://img.3dmgame.com/uploads/images/news/20181012/1539347502_429814.png	https://img.3dmgame.com/uploads/images/news/20181012/1539347503_972577.png	https://img.3dmgame.com/uploads/images/news/20181012/1539347503_630481.png	</imageurl><videourl /></doc>

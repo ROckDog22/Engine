@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019023755130</id><url>https://www.3dmgame.com/news/201902/3755130.html</url><title>《全境封锁2》PC版BETA截图 DX12模式不稳定</title><datetime>2019-02-07 19:35:4</datetime><text>
+	《全境封锁2》BETA封测现已开始，外媒带来了对PC版BETA的初步优化分析和测试版截图。
+
+
+
+
+
+	外媒电脑配置：
+
+
+	CPU：i7 4930K（超频至4.2GHz）
+
+
+	内存：16GB，DDR3
+
+
+	显卡：RTX 2080Ti
+
+
+	系统：Windows 10,64位
+
+
+	驱动：417.71
+
+
+	尽管育碧此前曾表示DX12模式性能更好，但这次的BETA测试，DX12性能并不稳定。DX12模式下BETA崩溃了很多次，因此外媒不得不调回到DX11模式，之后运行地很稳定。
+
+
+	和《圣歌》一样，RTX 
+2080Ti在4K分辨率最高画质下同样也不能提供一个稳定的60帧体验，本作的平均帧数为40-55fps，部分对GPU要求比较低的场景能达到60fps。不过当分辨率降至1440P之后，倒是无压力，平均帧数为70-99fps。
+
+
+	根据测试，RTX 2080Ti在《全境封锁2》上的最佳分辨率为3325x1871。在1871P下，RTX 
+2080Ti平均帧数为55-70fps，尽管有时候低于60fps，但大部分情况下还算可以。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190207/1549539236_686056.jpg	https://img.3dmgame.com/uploads/images/news/20190207/1549539247_658018.jpg	https://img.3dmgame.com/uploads/images/news/20190207/1549539248_875719.jpg	https://img.3dmgame.com/uploads/images/news/20190207/1549539248_240690.jpg	https://img.3dmgame.com/uploads/images/news/20190207/1549539249_244334.jpg	https://img.3dmgame.com/uploads/images/news/20190207/1549539249_381514.jpg	https://img.3dmgame.com/uploads/images/news/20190207/1549539249_992054.jpg	https://img.3dmgame.com/uploads/images/news/20190207/1549539250_328696.jpg	</imageurl><videourl /></doc>

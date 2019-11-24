@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019063763504</id><url>https://www.3dmgame.com/news/201906/3763504.html</url><title>Win10 5月更新的意外惊喜 改善可变刷新率 玩家必升</title><datetime>2019-06-05 18:19:4</datetime><text>
+	对游戏玩家来说，游戏中的卡顿与画面撕裂都是很影响体验的问题，所以60Hz垂直同步技术早就让游戏玩家不满了，AMD、NVIDIA也因此分别推出了FreeSync、G-Sync两种新一代垂直同步技术，两家的技术基本原理是一样的，都是通过可变刷新率VRR技术实现的。
+
+
+
+
+
+ 
+
+
+	微软最近开始推送Windows 10 5月份更新，也就是Win10 1903版，对游戏玩家来说这个版本是必升的了，因为微软竟然带来了一个小福利——那就是支持VRR可变刷新率。
+
+
+	微软项目经理Daniel Schlegel在日前的技术文章中表示，即便有些游戏原生不支持VRR技术，但Windows 10现在已经可以在DX11全屏游戏中启用VRR支持，这样一来不支持VRR的游戏也能从玩家的VRR硬件中受益。
+
+
+	微软表示这个功能不是取代AMD、NVIDIA的FreeSync、G-Sync的，只是增强了它们的功能。
+
+
+
+
+
+	要想体验这个福利，玩家们也需要三个条件——Windows 10 1903及之后的版本、FreeSync或者G-Sync显示器、支持WDDM 2.6及以上的GPU显卡，具备这三个条件了才能体验到VRR技术的好处。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190605/1559730423_531091.jpg	https://img.3dmgame.com/uploads/images/news/20190605/1559730430_548926.png	</imageurl><videourl /></doc>

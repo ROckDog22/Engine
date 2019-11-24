@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018123752549</id><url>https://www.3dmgame.com/news/201812/3752549.html</url><title>扫地机器人玩出新花样 竟可以帮助设计游戏地图</title><datetime>2018-12-29 09:09:2</datetime><text>
+	狂热游戏玩家对于游戏的热爱总是表现在各个领域，比如他们研究如何在计算器上玩游戏，在特斯拉汽车上玩游戏，使用谷歌地图生成游戏等。今天游戏和人们的世界相结合的方法又多了一种：扫地机器人帮你制作游戏地图！
+
+
+
+
+
+	近日，有一名国外的程序爱好者Rich Whitehouse使用Python结合iRobot公司的Roomba扫地机器人打造出一个可以生成毁灭战士游戏地图的新方法。这个程序可以将扫地机器人在家中的清扫路线进行整理，变成毁灭战士游戏中可实际探索的游戏地图。
+
+
+	如果你对这个项目有兴趣，可以在这里下载用于python的插件。
+
+
+
+
+
+	该程序可以扫描在同一网络下的Roomba扫地机器人，设置好IP后会进行收集数据，最后生成一个.noeroomba格式的文件。需要注意的是目前这个程序仅在Roomba 980型扫地机器人进行过测试。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20181229/1546045203_756766.jpg	https://img.3dmgame.com/uploads/images/news/20181229/1546046087_458593.jpg	</imageurl><videourl /></doc>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019053762522</id><url>https://www.3dmgame.com/news/201905/3762522.html</url><title>研究机构发现Win10新漏洞 可以获得任意电脑的权限</title><datetime>2019-05-23 13:00:3</datetime><text>
+	据外媒报道称，Windows 10出现了新的大漏洞，其能够获得电脑上所有权限。
+
+
+
+
+
+	漏洞开发者SandboxEscaper送出Windows 
+10一个新的零日漏洞，其能实现本地的权限提升，让受限用户获得对文件的全部权限，进行各种操作。而原本只有获得完整权限的用户，例如SYSTEM用户才能这样做。
+
+
+	SandboxEscaper再次利用了Windows 10的任务调度器工具，使用该工具从其他系统中导入遗留任务。
+
+
+
+
+
+	用任务调度器导入带任意DACL(全权访问控制列表)控制权限的JOB文件，就可以利用这个漏洞。在缺少DACL的情况下，系统仍然会给予所有用户对文件的全部权限。
+
+
+	目前微软还没有对此事回应。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190523/1558587601_465533.jpg	https://img.3dmgame.com/uploads/images/news/20190523/1558587609_887963.jpg	</imageurl><videourl /></doc>

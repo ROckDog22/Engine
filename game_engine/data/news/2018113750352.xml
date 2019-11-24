@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2018113750352</id><url>https://www.3dmgame.com/news/201811/3750352.html</url><title>《辐射76》使用了部分来自《辐射4》《天际》的源代码</title><datetime>2018-11-29 05:36:1</datetime><text>
+	自从《辐射76》推出之后各种争议就没有停止过。很多玩家在拿到游戏之后发现这款作品中很多机制和图形看起来十分眼熟，没错，很像《辐射4》《上古卷轴5：天际》中的内容。现在我们可以说这并不只是推测了，实际上《辐射76》就是使用了部分《辐射4》《天际》的源代码。
+
+
+
+
+
+	该内容是由推特网友‘Christian Leites‘发现的，下面的截图就展示了《辐射76》“借用了”《辐射4》《天际》的代码和文件。
+
+
+	首先，游戏的“可下载内容”检查功能就完全一样。实际上，Bethesda甚至完全没有修改这段代码的注释部分。可以说就是直接的ctrl+c ctrl+v的操作。当然这也没有什么问题，毕竟都是一个公司的产品，而且类似的功能本来就是差不多的，只不过这确实佐证了代码和引擎借用的问题。
+
+
+	另外Bethesda还使用了一些类似的代码来表现《辐射76》中的Boss级怪物焦兽女王（Scorchbeast
+Queen）。相信玩过的同学已经发现了焦兽女王和天际里面的各种龙为何如此相似，这就是原因，毕竟两者的脚本动作内容几乎是一样的（不同的只是模型）。
+
+
+
+
+
+
+
+
+
+
+
+
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20181129/1543440889_767581.jpg	https://img.3dmgame.com/uploads/images/news/20181129/1543440954_844367.jpg	https://img.3dmgame.com/uploads/images/news/20181129/1543440954_986287.jpg	https://img.3dmgame.com/uploads/images/news/20181129/1543440954_387363.jpg	https://img.3dmgame.com/uploads/images/news/20181129/1543440954_360396.jpg	</imageurl><videourl /></doc>

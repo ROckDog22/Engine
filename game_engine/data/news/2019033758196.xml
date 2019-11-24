@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<doc><id>2019033758196</id><url>https://www.3dmgame.com/news/201903/3758196.html</url><title>《只狼》Mod引擎推出 允许玩家替换材质/3D模型等</title><datetime>2019-03-24 00:44:3</datetime><text>
+	Mod制作者Katalash日前为FromSoftware的全新魂系游戏《只狼：影逝二度》推出了首个Mod。这款名为只狼Mod引擎的工具是一款文件替换注入库，允许玩家修改武器、护甲参数和材质。
+
+
+
+
+
+	这意味着通过使用该注入库，玩家可以随意调整游戏内模型，比如加入更高细节的材质包，调整武器参数，引入新敌人和护甲等等。
+
+
+	不过该Mod仅支持Steam版1.02版游戏，另外该引擎仅支持基本mod，那些需要dll动态链接库注入的并不支持。
+
+
+	根据开发者公布的信息，使用该工具体验mod无需解压游戏文件或者给EXE文件打包，Mod引擎也可以让玩家在开始游戏时跳过Logo更快地进入游戏。
+
+
+	感兴趣的玩家可以从这里进行下载。
+
+</text><imageurl>https://img.3dmgame.com/uploads/images/news/20190324/1553359347_639620.jpg	</imageurl><videourl /></doc>
